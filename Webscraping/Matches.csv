@@ -1,0 +1,1582 @@
+Date,Tournament,Surface,Round,Roger's Ranking,Opponent's Ranking,Score,Total Points,Aces,Double Faults,Service Points,First Serve Points,Second Serve Points,Opponent Aces,Time,Abandon,W/O,RF Win,Adversaire,Decompte ATP,Year,Month,Nber of Sets
+2021-06-28,Wimbledon,Grass,QF,8,18,6-3 7-6(4) 6-0,181,5,3,93,60,33,10,109,0,0,0,Hubert Hurkacz,Hubert Hurkacz,2021,6,3
+2021-06-28,Wimbledon,Grass,R16,8,27,7-5 6-4 6-2,186,4,1,78,47,31,4,131,0,0,1,Lorenzo Sonego,Federer,2021,6,3
+2021-06-28,Wimbledon,Grass,R32,8,34,6-4 6-4 5-7 6-4,246,7,0,114,76,38,12,155,0,0,1,Cameron Norrie,Federer,2021,6,4
+2021-06-28,Wimbledon,Grass,R64,8,56,7-6(1) 6-1 6-4,191,10,0,95,62,33,3,111,0,0,1,Richard Gasquet,Federer,2021,6,3
+2021-06-28,Wimbledon,Grass,R128,8,41,6-4 6-7(3) 3-6 6-2 0-0 RET,242,16,3,112,68,44,5,164,1,0,1,Adrian Mannarino,Federer,2021,6,6
+2021-06-14,Halle,Grass,R16,8,21,4-6 6-3 6-2,160,5,1,91,61,30,13,104,0,0,0,Felix Auger Aliassime,Felix Auger Aliassime,2021,6,3
+2021-06-14,Halle,Grass,R32,8,90,7-6(4) 7-5,146,4,1,76,57,19,8,94,0,0,1,Ilya Ivashka,Federer,2021,6,2
+2021-05-31,Roland Garros,Clay,R16,8,9,W/O,,,,,,,,,0,1,0,Matteo Berrettini,,2021,5,1
+2021-05-31,Roland Garros,Clay,R32,8,59,7-6(5) 6-7(3) 7-6(4) 7-5,319,6,1,158,101,57,11,215,0,0,1,Dominik Koepfer,Federer,2021,5,4
+2021-05-31,Roland Garros,Clay,R64,8,47,6-2 2-6 7-6(4) 6-2,237,16,1,117,80,37,12,155,0,0,1,Marin Cilic,Federer,2021,5,4
+2021-05-31,Roland Garros,Clay,R128,8,204,6-2 6-4 6-3,152,8,0,65,46,19,3,93,0,0,1,Denis Istomin,Federer,2021,5,3
+2021-05-17,Geneva,Clay,R16,8,75,6-4 4-6 6-4,165,3,0,81,48,33,6,111,0,0,0,Pablo Andujar,Pablo Andujar,2021,5,3
+2021-03-08,Doha,Hard,QF,6,42,3-6 6-1 7-5,188,12,0,96,66,30,12,110,0,0,0,Nikoloz Basilashvili,Nikoloz Basilashvili,2021,3,3
+2021-03-08,Doha,Hard,R16,6,28,7-6(8) 3-6 7-5,228,13,0,105,71,34,9,144,0,0,1,Daniel Evans,Federer,2021,3,3
+2020-01-20,Australian Open,Hard,SF,3,2,7-6(1) 6-4 6-3,206,15,3,104,68,36,11,138,0,0,0,Novak Djokovic,Novak Djokovic,2020,1,3
+2020-01-20,Australian Open,Hard,QF,3,100,6-3 2-6 2-6 7-6(8) 6-3,321,5,3,171,112,59,27,211,0,0,1,Tennys Sandgren,Federer,2020,1,5
+2020-01-20,Australian Open,Hard,R16,3,67,4-6 6-1 6-2 6-2,192,5,0,103,63,40,1,131,0,0,1,Marton Fucsovics,Federer,2020,1,4
+2020-01-20,Australian Open,Hard,R32,3,47,4-6 7-6(2) 6-4 4-6 7-6(8),359,16,6,170,111,59,11,243,0,0,1,John Millman,Federer,2020,1,5
+2020-01-20,Australian Open,Hard,R64,3,41,6-1 6-4 6-1,145,14,0,68,47,21,4,92,0,0,1,Filip Krajinovic,Federer,2020,1,3
+2020-01-20,Australian Open,Hard,R128,3,75,6-3 6-2 6-2,139,11,1,66,49,17,3,81,0,0,1,Steve Johnson,Federer,2020,1,3
+2019-11-11,Tour Finals,Hard,SF,3,6,6-3 6-4,143,3,0,54,30,24,6,96,0,0,0,Stefanos Tsitsipas,Stefanos Tsitsipas,2019,11,2
+2019-11-11,Tour Finals,Hard,RR,3,2,6-4 6-3,111,12,2,49,36,13,2,73,0,0,1,Novak Djokovic,Federer,2019,11,2
+2019-11-11,Tour Finals,Hard,RR,3,5,7-5 7-5,149,5,0,68,47,21,1,100,0,0,0,Dominic Thiem,Dominic Thiem,2019,11,2
+2019-11-11,Tour Finals,Hard,RR,3,8,7-6(2) 6-3,130,8,0,67,45,22,6,78,0,0,1,Matteo Berrettini,Federer,2019,11,2
+2019-10-21,Basel,Hard,F,3,28,6-2 6-2,96,4,0,50,32,18,0,68,0,0,1,Alex De Minaur,Federer,2019,10,2
+2019-10-21,Basel,Hard,SF,3,7,6-4 6-4,117,6,2,52,30,22,4,78,0,0,1,Stefanos Tsitsipas,Federer,2019,10,2
+2019-10-21,Basel,Hard,QF,3,17,W/O,,,,,,,,,0,1,1,Stan Wawrinka,,2019,10,1
+2019-10-21,Basel,Hard,R16,3,49,6-0 6-3,99,5,1,40,30,10,0,62,0,0,1,Radu Albot,Federer,2019,10,2
+2019-10-21,Basel,Hard,R32,3,112,6-2 6-1,91,12,2,51,33,18,1,52,0,0,1,Peter Gojowczyk,Federer,2019,10,2
+2019-10-07,Shanghai Masters,Hard,QF,3,6,6-3 6-7(7) 6-3,182,3,0,92,59,33,17,124,0,0,0,Alexander Zverev,Alexander Zverev,2019,10,3
+2019-10-07,Shanghai Masters,Hard,R16,3,14,7-6(7) 6-4,172,8,1,83,60,23,2,114,0,0,1,David Goffin,Federer,2019,10,2
+2019-10-07,Shanghai Masters,Hard,R32,3,46,6-2 7-6(5),127,8,0,54,43,11,7,84,0,0,1,Albert Ramos,Federer,2019,10,2
+2019-09-20,Laver Cup,Hard,RR,3,20,6-4 7-6(3),,,,,,,,,0,0,1,John Isner,Federer,2019,9,2
+2019-09-20,Laver Cup,Hard,RR,3,27,6-7(5) 7-5 [10-7],,,,,,,,,0,0,1,Nick Kyrgios,Federer,2019,9,3
+2019-08-26,US Open,Hard,QF,3,78,3-6 6-4 3-6 6-4 6-2,275,6,1,144,88,56,6,192,0,0,0,Grigor Dimitrov,Grigor Dimitrov,2019,8,5
+2019-08-26,US Open,Hard,R16,3,15,6-2 6-2 6-0,122,10,3,62,42,20,0,79,0,0,1,David Goffin,Federer,2019,8,3
+2019-08-26,US Open,Hard,R32,3,58,6-2 6-2 6-1,128,10,1,61,40,21,0,80,0,0,1,Daniel Evans,Federer,2019,8,3
+2019-08-26,US Open,Hard,R64,3,99,3-6 6-2 6-3 6-4,236,16,4,119,82,37,2,142,0,0,1,Damir Dzumhur,Federer,2019,8,4
+2019-08-26,US Open,Hard,R128,3,190,4-6 6-1 6-2 6-4,239,12,7,132,80,52,0,150,0,0,1,Sumit Nagal,Federer,2019,8,4
+2019-08-12,Cincinnati Masters,Hard,R16,3,70,6-3 6-4,103,5,2,49,32,17,5,61,0,0,0,Andrey Rublev,Andrey Rublev,2019,8,2
+2019-08-12,Cincinnati Masters,Hard,R32,3,55,6-3 6-4,102,9,0,53,35,18,3,61,0,0,1,Juan Ignacio Londero,Federer,2019,8,2
+2019-07-01,Wimbledon,Grass,F,3,1,7-6(5) 1-6 7-6(4) 4-6 13-12,422,25,6,203,127,76,10,297,0,0,0,Novak Djokovic,Novak Djokovic,2019,7,5
+2019-07-01,Wimbledon,Grass,SF,3,2,7-6(3) 1-6 6-3 6-4,243,14,1,116,79,37,10,182,0,0,1,Rafael Nadal,Federer,2019,7,4
+2019-07-01,Wimbledon,Grass,QF,3,7,4-6 6-1 6-4 6-4,244,12,4,106,70,36,3,156,0,0,1,Kei Nishikori,Federer,2019,7,4
+2019-07-01,Wimbledon,Grass,R16,3,20,6-1 6-2 6-2,119,5,1,61,42,19,3,74,0,0,1,Matteo Berrettini,Federer,2019,7,3
+2019-07-01,Wimbledon,Grass,R32,3,28,7-5 6-2 7-6(4),208,6,0,102,71,31,6,126,0,0,1,Lucas Pouille,Federer,2019,7,3
+2019-07-01,Wimbledon,Grass,R64,3,169,6-1 7-6(3) 6-2,159,10,2,73,46,27,1,97,0,0,1,Jay Clarke,Federer,2019,7,3
+2019-07-01,Wimbledon,Grass,R128,3,86,3-6 6-1 6-2 6-2,177,9,1,78,44,34,5,111,0,0,1,Lloyd Harris,Federer,2019,7,4
+2019-06-17,Halle,Grass,F,3,33,7-6(2) 6-1,128,7,1,58,35,23,7,83,0,0,1,David Goffin,Federer,2019,6,2
+2019-06-17,Halle,Grass,SF,3,43,6-3 6-3,102,6,0,41,28,13,10,62,0,0,1,Pierre Hugues Herbert,Federer,2019,6,2
+2019-06-17,Halle,Grass,QF,3,20,6-3 4-6 6-4,177,4,0,90,59,31,3,113,0,0,1,Roberto Bautista Agut,Federer,2019,6,3
+2019-06-17,Halle,Grass,R16,3,77,7-6(5) 4-6 7-5,197,7,1,100,66,34,15,136,0,0,1,Jo Wilfried Tsonga,Federer,2019,6,3
+2019-06-17,Halle,Grass,R32,3,57,7-6(1) 6-3,129,9,5,63,42,21,2,77,0,0,1,John Millman,Federer,2019,6,2
+2019-05-27,Roland Garros,Clay,SF,3,2,6-3 6-4 6-2,181,3,1,93,55,38,3,145,0,0,0,Rafael Nadal,Rafael Nadal,2019,5,3
+2019-05-27,Roland Garros,Clay,QF,3,28,7-6(4) 4-6 7-6(5) 6-4,320,5,2,149,94,55,8,215,0,0,1,Stan Wawrinka,Federer,2019,5,4
+2019-05-27,Roland Garros,Clay,R16,3,68,6-2 6-3 6-3,157,4,0,70,47,23,0,102,0,0,1,Leonardo Mayer,Federer,2019,5,3
+2019-05-27,Roland Garros,Clay,R32,3,63,6-3 6-1 7-6(8),204,11,3,97,60,37,2,131,0,0,1,Casper Ruud,Federer,2019,5,3
+2019-05-27,Roland Garros,Clay,R64,3,144,6-4 6-3 6-4,160,5,0,82,62,20,4,96,0,0,1,Oscar Otte,Federer,2019,5,3
+2019-05-27,Roland Garros,Clay,R128,3,74,6-2 6-4 6-4,162,5,2,70,52,18,3,101,0,0,1,Lorenzo Sonego,Federer,2019,5,3
+2019-05-13,Rome Masters,Clay,QF,3,7,W/O,,,,,,,,,0,1,0,Stefanos Tsitsipas,,2019,5,1
+2019-05-13,Rome Masters,Clay,R16,3,15,2-6 6-4 7-6(7),202,9,2,109,62,47,5,151,0,0,1,Borna Coric,Federer,2019,5,3
+2019-05-13,Rome Masters,Clay,R32,3,72,6-4 6-3,122,3,1,55,31,24,2,80,0,0,1,Joao Sousa,Federer,2019,5,2
+2019-05-06,Madrid Masters,Clay,QF,3,5,3-6 7-6(11) 6-4,202,6,3,106,76,30,8,130,0,0,0,Dominic Thiem,Dominic Thiem,2019,5,3
+2019-05-06,Madrid Masters,Clay,R16,3,18,6-0 4-6 7-6(3),189,4,2,84,49,35,7,120,0,0,1,Gael Monfils,Federer,2019,5,3
+2019-05-06,Madrid Masters,Clay,R32,3,39,6-2 6-3,91,7,1,51,27,24,1,52,0,0,1,Richard Gasquet,Federer,2019,5,2
+2019-03-18,Miami Masters,Hard,F,5,9,6-1 6-4,88,6,1,35,20,15,9,63,0,0,1,John Isner,Federer,2019,3,2
+2019-03-18,Miami Masters,Hard,SF,5,23,6-2 6-4,112,2,1,45,22,23,3,72,0,0,1,Denis Shapovalov,Federer,2019,3,2
+2019-03-18,Miami Masters,Hard,QF,5,7,6-0 6-4,117,3,2,42,25,17,4,85,0,0,1,Kevin Anderson,Federer,2019,3,2
+2019-03-18,Miami Masters,Hard,R16,5,15,6-4 6-2,99,5,0,48,33,15,2,61,0,0,1,Daniil Medvedev,Federer,2019,3,2
+2019-03-18,Miami Masters,Hard,R32,5,103,7-5 6-3,141,14,1,59,43,16,2,90,0,0,1,Filip Krajinovic,Federer,2019,3,2
+2019-03-18,Miami Masters,Hard,R64,5,46,4-6 7-5 6-3,192,14,2,91,56,35,2,128,0,0,1,Radu Albot,Federer,2019,3,3
+2019-03-04,Indian Wells Masters,Hard,F,4,8,3-6 6-3 7-5,181,3,2,84,59,25,1,122,0,0,0,Dominic Thiem,Dominic Thiem,2019,3,3
+2019-03-04,Indian Wells Masters,Hard,SF,4,2,W/O,,,,,,,,,0,1,1,Rafael Nadal,,2019,3,1
+2019-03-04,Indian Wells Masters,Hard,QF,4,67,6-4 6-4,120,4,3,59,32,27,6,73,0,0,1,Hubert Hurkacz,Federer,2019,3,2
+2019-03-04,Indian Wells Masters,Hard,R16,4,23,6-1 6-4,108,6,0,65,43,22,4,63,0,0,1,Kyle Edmund,Federer,2019,3,2
+2019-03-04,Indian Wells Masters,Hard,R32,4,40,6-3 6-4,101,4,0,50,34,16,8,59,0,0,1,Stan Wawrinka,Federer,2019,3,2
+2019-03-04,Indian Wells Masters,Hard,R64,4,85,6-1 7-5,136,2,6,58,32,26,6,77,0,0,1,Peter Gojowczyk,Federer,2019,3,2
+2019-02-25,Dubai,Hard,F,7,11,6-4 6-4,109,6,0,55,42,13,4,69,0,0,1,Stefanos Tsitsipas,Federer,2019,2,2
+2019-02-25,Dubai,Hard,SF,7,13,6-2 6-2,103,7,1,44,25,19,1,67,0,0,1,Borna Coric,Federer,2019,2,2
+2019-02-25,Dubai,Hard,QF,7,35,7-6(6) 6-4,162,2,2,80,50,30,2,116,0,0,1,Marton Fucsovics,Federer,2019,2,2
+2019-02-25,Dubai,Hard,R16,7,32,6-3 3-6 6-3,148,10,2,78,55,23,3,94,0,0,1,Fernando Verdasco,Federer,2019,2,3
+2019-02-25,Dubai,Hard,R32,7,31,6-4 3-6 6-1,156,7,3,67,48,19,1,95,0,0,1,Philipp Kohlschreiber,Federer,2019,2,3
+2019-01-14,Australian Open,Hard,R16,3,15,6-7(11) 7-6(3) 7-5 7-6(5),344,12,0,156,105,51,20,225,0,0,0,Stefanos Tsitsipas,Stefanos Tsitsipas,2019,1,4
+2019-01-14,Australian Open,Hard,R32,3,50,6-2 7-5 6-2,148,10,3,70,43,27,8,88,0,0,1,Taylor Fritz,Federer,2019,1,3
+2019-01-14,Australian Open,Hard,R64,3,189,7-6(5) 7-6(3) 6-3,214,11,1,99,62,37,4,155,0,0,1,Daniel Evans,Federer,2019,1,3
+2019-01-14,Australian Open,Hard,R128,3,101,6-3 6-4 6-4,181,14,2,82,46,36,4,117,0,0,1,Denis Istomin,Federer,2019,1,3
+2018-11-12,Tour Finals,Hard,SF,3,5,7-5 7-6(5),130,3,0,65,37,28,7,95,0,0,0,Alexander Zverev,Alexander Zverev,2018,11,2
+2018-11-12,Tour Finals,Hard,RR,3,9,7-6(4) 6-3,124,4,4,56,32,24,2,87,0,0,0,Kei Nishikori,Kei Nishikori,2018,11,2
+2018-11-12,Tour Finals,Hard,RR,3,8,6-2 6-3,102,4,0,38,22,16,1,66,0,0,1,Dominic Thiem,Federer,2018,11,2
+2018-11-12,Tour Finals,Hard,RR,3,6,6-4 6-3,105,3,1,50,29,21,10,77,0,0,1,Kevin Anderson,Federer,2018,11,2
+2018-10-29,Paris Masters,Hard,SF,3,2,7-6(6) 5-7 7-6(3),252,17,2,139,93,46,8,182,0,0,0,Novak Djokovic,Novak Djokovic,2018,10,3
+2018-10-29,Paris Masters,Hard,QF,3,11,6-4 6-4,119,7,2,56,29,27,3,79,0,0,1,Kei Nishikori,Federer,2018,10,2
+2018-10-29,Paris Masters,Hard,R16,3,14,6-4 6-3,123,8,2,54,27,27,2,73,0,0,1,Fabio Fognini,Federer,2018,10,2
+2018-10-29,Paris Masters,Hard,R32,3,21,W/O,,,,,,,,,0,1,1,Milos Raonic,,2018,10,1
+2018-10-22,Basel,Hard,F,3,93,7-6(5) 6-4,141,6,3,65,34,31,14,94,0,0,1,Marius Copil,Federer,2018,10,2
+2018-10-22,Basel,Hard,SF,3,20,6-1 6-4,114,6,5,55,30,25,1,64,0,0,1,Daniil Medvedev,Federer,2018,10,2
+2018-10-22,Basel,Hard,QF,3,32,7-6(1) 4-6 6-4,219,15,4,110,65,45,8,154,0,0,1,Gilles Simon,Federer,2018,10,3
+2018-10-22,Basel,Hard,R16,3,52,6-3 7-5,119,7,5,60,32,28,8,67,0,0,1,Jan Lennard Struff,Federer,2018,10,2
+2018-10-22,Basel,Hard,R32,3,35,6-2 4-6 6-4,186,10,6,93,44,49,3,129,0,0,1,Filip Krajinovic,Federer,2018,10,3
+2018-10-08,Shanghai Masters,Hard,SF,2,19,6-4 6-4,110,8,0,61,41,20,9,73,0,0,0,Borna Coric,Borna Coric,2018,10,2
+2018-10-08,Shanghai Masters,Hard,QF,2,12,6-4 7-6(4),167,10,1,84,60,24,0,111,0,0,1,Kei Nishikori,Federer,2018,10,2
+2018-10-08,Shanghai Masters,Hard,R16,2,28,6-3 2-6 6-4,172,8,1,81,54,27,9,112,0,0,1,Roberto Bautista Agut,Federer,2018,10,3
+2018-10-08,Shanghai Masters,Hard,R32,2,22,6-4 4-6 6-4,187,10,0,86,61,25,5,,0,0,1,Daniil Medvedev,Federer,2018,10,3
+2018-09-21,Laver Cup,Hard,RR,2,10,6-7(5) 7-6(6) [10-7],,,,,,,,,0,0,1,John Isner,Federer,2018,9,3
+2018-09-21,Laver Cup,Hard,RR,2,27,6-3 6-2,,,,,,,,,0,0,1,Nick Kyrgios,Federer,2018,9,2
+2018-08-27,US Open,Hard,R16,2,55,3-6 7-5 7-6(7) 7-6(3),317,13,10,173,84,89,8,215,0,0,0,John Millman,John Millman,2018,8,4
+2018-08-27,US Open,Hard,R32,2,30,6-4 6-1 7-5,186,16,1,92,61,31,13,104,0,0,1,Nick Kyrgios,Federer,2018,8,3
+2018-08-27,US Open,Hard,R64,2,56,7-5 6-4 6-4,197,5,5,95,55,40,6,117,0,0,1,Benoit Paire,Federer,2018,8,3
+2018-08-27,US Open,Hard,R128,2,177,6-2 6-2 6-4,192,14,3,82,55,27,0,112,0,0,1,Yoshihito Nishioka,Federer,2018,8,3
+2018-08-13,Cincinnati Masters,Hard,F,2,10,6-4 6-4,130,11,4,77,45,32,4,84,0,0,0,Novak Djokovic,Novak Djokovic,2018,8,2
+2018-08-13,Cincinnati Masters,Hard,SF,2,11,7-6(3) 1-1 RET,102,9,2,45,32,13,1,62,1,0,1,David Goffin,Federer,2018,8,3
+2018-08-13,Cincinnati Masters,Hard,QF,2,151,6-7(2) 7-6(6) 6-2,201,7,1,90,50,40,3,136,0,0,1,Stan Wawrinka,Federer,2018,8,3
+2018-08-13,Cincinnati Masters,Hard,R16,2,50,6-1 7-6(6),116,10,1,54,38,16,2,72,0,0,1,Leonardo Mayer,Federer,2018,8,2
+2018-08-13,Cincinnati Masters,Hard,R32,2,47,6-4 6-4,125,12,4,61,39,22,11,72,0,0,1,Peter Gojowczyk,Federer,2018,8,2
+2018-07-02,Wimbledon,Grass,QF,2,8,2-6 6-7(5) 7-5 6-4 13-11,385,17,1,177,123,54,27,254,0,0,0,Kevin Anderson,Kevin Anderson,2018,7,5
+2018-07-02,Wimbledon,Grass,R16,2,26,6-0 7-5 6-4,176,13,0,76,51,25,6,105,0,0,1,Adrian Mannarino,Federer,2018,7,3
+2018-07-02,Wimbledon,Grass,R32,2,64,6-3 7-5 6-2,174,10,2,74,40,34,11,94,0,0,1,Jan Lennard Struff,Federer,2018,7,3
+2018-07-02,Wimbledon,Grass,R64,2,73,6-4 6-4 6-1,151,16,0,61,43,18,6,90,0,0,1,Lukas Lacko,Federer,2018,7,3
+2018-07-02,Wimbledon,Grass,R128,2,58,6-1 6-3 6-4,147,8,1,63,45,18,0,79,0,0,1,Dusan Lajovic,Federer,2018,7,3
+2018-06-18,Halle,Grass,F,1,34,7-6(6) 3-6 6-2,186,12,1,88,62,26,11,126,0,0,0,Borna Coric,Borna Coric,2018,6,3
+2018-06-18,Halle,Grass,SF,1,109,7-6(1) 7-5,149,12,3,75,50,25,8,87,0,0,1,Denis Kudla,Federer,2018,6,2
+2018-06-18,Halle,Grass,QF,1,60,7-6(2) 7-5,146,6,0,65,36,29,8,88,0,0,1,Matthew Ebden,Federer,2018,6,2
+2018-06-18,Halle,Grass,R16,1,48,6-3 3-6 7-6(7),204,7,0,90,57,33,9,118,0,0,1,Benoit Paire,Federer,2018,6,3
+2018-06-18,Halle,Grass,R32,1,72,6-3 6-4,119,7,0,49,34,15,6,71,0,0,1,Aljaz Bedene,Federer,2018,6,2
+2018-06-11,Stuttgart,Grass,F,2,35,6-4 7-6(3),127,4,0,66,44,22,14,78,0,0,1,Milos Raonic,Federer,2018,6,2
+2018-06-11,Stuttgart,Grass,SF,2,24,6-7(2) 6-2 7-6(5),198,12,2,86,54,32,23,111,0,0,1,Nick Kyrgios,Federer,2018,6,3
+2018-06-11,Stuttgart,Grass,QF,2,75,6-4 6-4,113,4,0,56,35,21,6,65,0,0,1,Guido Pella,Federer,2018,6,2
+2018-06-11,Stuttgart,Grass,R16,2,54,3-6 6-4 6-2,159,5,1,71,48,23,7,93,0,0,1,Mischa Zverev,Federer,2018,6,3
+2018-03-19,Miami Masters,Hard,R64,1,175,3-6 6-3 7-6(4),194,9,3,84,55,29,7,141,0,0,0,Thanasi Kokkinakis,Thanasi Kokkinakis,2018,3,3
+2018-03-05,Indian Wells Masters,Hard,F,1,8,6-4 6-7(8) 7-6(2),230,10,5,115,70,45,8,162,0,0,0,Juan Martin Del Potro,Juan Martin Del Potro,2018,3,3
+2018-03-05,Indian Wells Masters,Hard,SF,1,49,5-7 6-4 6-4,184,5,1,88,53,35,3,140,0,0,1,Borna Coric,Federer,2018,3,3
+2018-03-05,Indian Wells Masters,Hard,QF,1,26,7-5 6-1,127,12,1,69,46,23,0,82,0,0,1,Hyeon Chung,Federer,2018,3,2
+2018-03-05,Indian Wells Masters,Hard,R16,1,100,7-5 6-4,127,2,0,49,25,24,4,82,0,0,1,Jeremy Chardy,Federer,2018,3,2
+2018-03-05,Indian Wells Masters,Hard,R32,1,28,6-2 6-1,93,6,1,42,27,15,0,58,0,0,1,Filip Krajinovic,Federer,2018,3,2
+2018-03-05,Indian Wells Masters,Hard,R64,1,67,6-3 7-6(6),153,5,1,82,53,29,2,101,0,0,1,Federico Delbonis,Federer,2018,3,2
+2018-02-12,Rotterdam,Hard,F,2,5,6-2 6-2,88,3,0,39,24,15,1,55,0,0,1,Grigor Dimitrov,Federer,2018,2,2
+2018-02-12,Rotterdam,Hard,SF,2,81,6-3 7-6(3),136,9,2,67,42,25,7,84,0,0,1,Andreas Seppi,Federer,2018,2,2
+2018-02-12,Rotterdam,Hard,QF,2,42,4-6 6-1 6-1,131,6,1,61,35,26,9,79,0,0,1,Robin Haase,Federer,2018,2,3
+2018-02-12,Rotterdam,Hard,R16,2,36,7-6(8) 7-5,159,11,0,68,46,22,5,101,0,0,1,Philipp Kohlschreiber,Federer,2018,2,2
+2018-02-12,Rotterdam,Hard,R32,2,116,6-1 6-2,82,6,0,36,23,13,3,47,0,0,1,Ruben Bemelmans,Federer,2018,2,2
+2018-01-15,Australian Open,Hard,F,2,6,6-2 6-7(5) 6-3 3-6 6-1,280,24,4,139,84,55,16,183,0,0,1,Marin Cilic,Federer,2018,1,5
+2018-01-15,Australian Open,Hard,SF,2,58,6-1 5-2 RET,90,9,1,37,16,21,1,62,1,0,1,Hyeon Chung,Federer,2018,1,3
+2018-01-15,Australian Open,Hard,QF,2,20,7-6(1) 6-3 6-4,190,15,5,96,60,36,4,134,0,0,1,Tomas Berdych,Federer,2018,1,3
+2018-01-15,Australian Open,Hard,R16,2,80,6-4 7-6(3) 6-2,189,6,2,81,48,33,5,121,0,0,1,Marton Fucsovics,Federer,2018,1,3
+2018-01-15,Australian Open,Hard,R32,2,31,6-2 7-5 6-4,184,12,1,94,61,33,3,119,0,0,1,Richard Gasquet,Federer,2018,1,3
+2018-01-15,Australian Open,Hard,R64,2,55,6-4 6-4 7-6(4),199,17,1,92,53,39,7,115,0,0,1,Jan Lennard Struff,Federer,2018,1,3
+2018-01-15,Australian Open,Hard,R128,2,51,6-3 6-4 6-3,171,12,3,81,58,23,2,99,0,0,1,Aljaz Bedene,Federer,2018,1,3
+2017-11-13,Tour Finals,Hard,SF,2,8,2-6 6-3 6-4,170,7,3,77,47,30,7,105,0,0,0,David Goffin,David Goffin,2017,11,3
+2017-11-13,Tour Finals,Hard,RR,2,9,6-4 7-6(4),149,5,1,63,40,23,11,,0,0,1,Jack Sock,Federer,2017,11,2
+2017-11-13,Tour Finals,Hard,RR,2,5,6-7(5) 6-4 6-1,192,17,2,93,64,29,12,114,0,0,1,Marin Cilic,Federer,2017,11,3
+2017-11-13,Tour Finals,Hard,RR,2,3,7-6(6) 5-7 6-1,205,6,2,98,52,46,8,,0,0,1,Alexander Zverev,Federer,2017,11,3
+2017-10-23,Basel,Hard,F,2,19,6-7(5) 6-4 6-3,209,7,5,101,53,48,6,151,0,0,1,Juan Martin Del Potro,Federer,2017,10,3
+2017-10-23,Basel,Hard,SF,2,10,6-1 6-2,105,4,3,40,23,17,6,60,0,0,1,David Goffin,Federer,2017,10,2
+2017-10-23,Basel,Hard,QF,2,28,4-6 6-1 6-3,155,12,2,72,38,34,1,103,0,0,1,Adrian Mannarino,Federer,2017,10,3
+2017-10-23,Basel,Hard,R16,2,40,6-1 6-3,105,2,1,56,34,22,4,57,0,0,1,Benoit Paire,Federer,2017,10,2
+2017-10-23,Basel,Hard,R32,2,76,6-1 6-3,101,8,2,40,21,19,4,61,0,0,1,Frances Tiafoe,Federer,2017,10,2
+2017-10-09,Shanghai Masters,Hard,F,2,1,6-4 6-3,105,10,0,44,30,14,4,72,0,0,1,Rafael Nadal,Federer,2017,10,2
+2017-10-09,Shanghai Masters,Hard,SF,2,23,3-6 6-3 6-3,175,7,0,64,46,18,12,117,0,0,1,Juan Martin Del Potro,Federer,2017,10,3
+2017-10-09,Shanghai Masters,Hard,QF,2,31,7-5 6-4,124,5,2,61,48,13,1,78,0,0,1,Richard Gasquet,Federer,2017,10,2
+2017-10-09,Shanghai Masters,Hard,R16,2,41,6-4 6-2,114,11,1,46,37,9,6,60,0,0,1,Alexandr Dolgopolov,Federer,2017,10,2
+2017-10-09,Shanghai Masters,Hard,R32,2,26,7-6(4) 6-4,157,14,0,72,47,25,3,93,0,0,1,Diego Schwartzman,Federer,2017,10,2
+2017-09-22,Laver Cup,Hard,RR,2,20,4-6 7-6(6) [11-9],,,,,,,,,0,0,1,Nick Kyrgios,Federer,2017,9,3
+2017-09-22,Laver Cup,Hard,RR,2,16,6-4 6-2,,,,,,,,,0,0,1,Sam Querrey,Federer,2017,9,2
+2017-08-28,US Open,Hard,QF,3,28,7-5 3-6 7-6(8) 6-4,256,17,5,137,84,53,12,170,0,0,0,Juan Martin Del Potro,Juan Martin Del Potro,2017,8,4
+2017-08-28,US Open,Hard,R16,3,37,6-4 6-2 7-5,171,11,2,75,49,26,4,109,0,0,1,Philipp Kohlschreiber,Federer,2017,8,3
+2017-08-28,US Open,Hard,R32,3,35,6-3 6-3 7-5,175,13,1,84,46,38,9,106,0,0,1,Feliciano Lopez,Federer,2017,8,3
+2017-08-28,US Open,Hard,R64,3,101,6-1 6-7(3) 4-6 6-4 6-2,317,12,2,140,87,53,5,188,0,0,1,Mikhail Youzhny,Federer,2017,8,5
+2017-08-28,US Open,Hard,R128,3,70,4-6 6-2 6-1 1-6 6-4,254,17,4,116,63,53,5,157,0,0,1,Frances Tiafoe,Federer,2017,8,5
+2017-08-07,Canada Masters,Hard,F,3,8,6-3 6-4,112,2,2,53,27,26,6,68,0,0,0,Alexander Zverev,Alexander Zverev,2017,8,2
+2017-08-07,Canada Masters,Hard,SF,3,52,6-3 7-6(5),128,9,1,54,30,24,9,75,0,0,1,Robin Haase,Federer,2017,8,2
+2017-08-07,Canada Masters,Hard,QF,3,16,6-4 6-4,109,5,2,51,26,25,2,68,0,0,1,Roberto Bautista Agut,Federer,2017,8,2
+2017-08-07,Canada Masters,Hard,R16,3,33,4-6 6-4 6-2,187,12,4,102,60,42,1,116,0,0,1,David Ferrer,Federer,2017,8,3
+2017-08-07,Canada Masters,Hard,R32,3,116,6-2 6-1,91,5,1,46,28,18,1,53,0,0,1,Peter Polansky,Federer,2017,8,2
+2017-07-03,Wimbledon,Grass,F,5,6,6-3 6-1 6-4,160,8,2,70,53,17,5,101,0,0,1,Marin Cilic,Federer,2017,7,3
+2017-07-03,Wimbledon,Grass,SF,5,15,7-6(4) 7-6(4) 6-4,233,13,4,105,70,35,9,138,0,0,1,Tomas Berdych,Federer,2017,7,3
+2017-07-03,Wimbledon,Grass,QF,5,7,6-4 6-2 7-6(4),185,11,2,89,61,28,11,117,0,0,1,Milos Raonic,Federer,2017,7,3
+2017-07-03,Wimbledon,Grass,R16,5,11,6-4 6-2 6-4,166,8,0,75,52,23,7,97,0,0,1,Grigor Dimitrov,Federer,2017,7,3
+2017-07-03,Wimbledon,Grass,R32,5,30,7-6(3) 6-4 6-4,190,13,1,88,53,35,6,109,0,0,1,Mischa Zverev,Federer,2017,7,3
+2017-07-03,Wimbledon,Grass,R64,5,79,7-6(0) 6-3 6-2,165,9,2,78,47,31,3,90,0,0,1,Dusan Lajovic,Federer,2017,7,3
+2017-07-03,Wimbledon,Grass,R128,5,84,6-3 3-0 RET,86,10,1,36,27,9,2,42,1,0,1,Alexandr Dolgopolov,Federer,2017,7,3
+2017-06-19,Halle,Grass,F,5,12,6-1 6-3,91,4,0,42,28,14,5,53,0,0,1,Alexander Zverev,Federer,2017,6,2
+2017-06-19,Halle,Grass,SF,5,38,6-4 7-6(5),146,3,2,77,51,26,3,85,0,0,1,Karen Khachanov,Federer,2017,6,2
+2017-06-19,Halle,Grass,QF,5,134,6-3 6-4,127,11,0,56,36,20,5,66,0,0,1,Florian Mayer,Federer,2017,6,2
+2017-06-19,Halle,Grass,R16,5,29,7-6(4) 6-4,147,5,0,66,35,31,4,90,0,0,1,Mischa Zverev,Federer,2017,6,2
+2017-06-19,Halle,Grass,R32,5,66,6-3 6-1,94,8,0,42,29,13,0,52,0,0,1,Yuichi Sugita,Federer,2017,6,2
+2017-06-12,Stuttgart,Grass,R16,5,302,2-6 7-6(8) 6-4,201,23,2,94,70,24,12,114,0,0,0,Tommy Haas,Tommy Haas,2017,6,3
+2017-03-20,Miami Masters,Hard,F,6,7,6-3 6-4,127,5,1,62,39,23,4,94,0,0,1,Rafael Nadal,Federer,2017,3,2
+2017-03-20,Miami Masters,Hard,SF,6,16,7-6(9) 6-7(9) 7-6(5),270,10,3,122,74,48,14,190,0,0,1,Nick Kyrgios,Federer,2017,3,3
+2017-03-20,Miami Masters,Hard,QF,6,14,6-2 3-6 7-6(6),180,11,5,85,51,34,9,117,0,0,1,Tomas Berdych,Federer,2017,3,3
+2017-03-20,Miami Masters,Hard,R16,6,18,7-6(5) 7-6(4),170,8,1,72,35,37,1,117,0,0,1,Roberto Bautista Agut,Federer,2017,3,2
+2017-03-20,Miami Masters,Hard,R32,6,34,6-3 6-4,122,7,0,60,35,25,6,82,0,0,1,Juan Martin Del Potro,Federer,2017,3,2
+2017-03-20,Miami Masters,Hard,R64,6,101,7-6(2) 6-3,118,8,0,56,32,24,6,72,0,0,1,Frances Tiafoe,Federer,2017,3,2
+2017-03-06,Indian Wells Masters,Hard,F,10,3,6-4 7-5,129,2,1,57,36,21,5,80,0,0,1,Stan Wawrinka,Federer,2017,3,2
+2017-03-06,Indian Wells Masters,Hard,SF,10,18,6-1 7-6(4),121,8,2,62,33,29,4,74,0,0,1,Jack Sock,Federer,2017,3,2
+2017-03-06,Indian Wells Masters,Hard,QF,10,16,W/O,,,,,,,,,0,1,1,Nick Kyrgios,,2017,3,1
+2017-03-06,Indian Wells Masters,Hard,R16,10,6,6-2 6-3,99,5,1,45,25,20,2,68,0,0,1,Rafael Nadal,Federer,2017,3,2
+2017-03-06,Indian Wells Masters,Hard,R32,10,27,7-6(3) 7-6(4),162,12,4,78,47,31,3,94,0,0,1,Steve Johnson,Federer,2017,3,2
+2017-03-06,Indian Wells Masters,Hard,R64,10,81,6-2 6-1,88,4,1,41,24,17,1,51,0,0,1,Stephane Robert,Federer,2017,3,2
+2017-02-27,Dubai,Hard,R16,10,116,3-6 7-6(7) 7-6(5),204,12,2,109,80,29,6,122,0,0,0,Evgeny Donskoy,Evgeny Donskoy,2017,2,3
+2017-02-27,Dubai,Hard,R32,10,39,6-1 6-3,104,5,0,55,33,22,2,54,0,0,1,Benoit Paire,Federer,2017,2,2
+2017-01-16,Australian Open,Hard,F,17,9,6-4 3-6 6-1 3-6 6-3,289,20,3,138,85,53,4,217,0,0,1,Rafael Nadal,Federer,2017,1,5
+2017-01-16,Australian Open,Hard,SF,17,4,7-5 6-3 1-6 4-6 6-3,278,11,3,143,86,57,10,184,0,0,1,Stan Wawrinka,Federer,2017,1,5
+2017-01-16,Australian Open,Hard,QF,17,50,6-1 7-5 6-2,176,9,1,79,54,25,5,92,0,0,1,Mischa Zverev,Federer,2017,1,3
+2017-01-16,Australian Open,Hard,R16,17,5,6-7(4) 6-4 6-1 4-6 6-3,312,24,6,148,100,48,5,203,0,0,1,Kei Nishikori,Federer,2017,1,5
+2017-01-16,Australian Open,Hard,R32,17,10,6-2 6-4 6-4,151,8,2,70,41,29,13,90,0,0,1,Tomas Berdych,Federer,2017,1,3
+2017-01-16,Australian Open,Hard,R64,17,200,7-5 6-3 7-6(3),214,17,2,112,67,45,2,123,0,0,1,Noah Rubin,Federer,2017,1,3
+2017-01-16,Australian Open,Hard,R128,17,300,7-5 3-6 6-2 6-2,214,19,1,103,66,37,4,125,0,0,1,Jurgen Melzer,Federer,2017,1,4
+2016-06-27,Wimbledon,Grass,SF,3,7,6-3 6-7(3) 4-6 7-5 6-3,327,16,5,160,98,62,23,204,0,0,0,Milos Raonic,Milos Raonic,2016,6,5
+2016-06-27,Wimbledon,Grass,QF,3,13,6-7(4) 4-6 6-3 7-6(9) 6-3,332,27,0,169,106,63,23,197,0,0,1,Marin Cilic,Federer,2016,6,5
+2016-06-27,Wimbledon,Grass,R16,3,29,6-2 6-3 7-5,184,6,2,83,55,28,8,96,0,0,1,Steve Johnson,Federer,2016,6,3
+2016-06-27,Wimbledon,Grass,R32,3,91,6-4 6-2 6-2,161,11,0,67,45,22,0,86,0,0,1,Daniel Evans,Federer,2016,6,3
+2016-06-27,Wimbledon,Grass,R64,3,772,6-0 6-3 6-4,156,9,0,73,45,28,9,84,0,0,1,Marcus Willis,Federer,2016,6,3
+2016-06-27,Wimbledon,Grass,R128,3,52,7-6(5) 7-6(3) 6-3,213,12,0,94,60,34,5,125,0,0,1,Guido Pella,Federer,2016,6,3
+2016-06-13,Halle,Grass,SF,3,38,7-6(4) 5-7 6-3,201,7,2,97,58,39,8,126,0,0,0,Alexander Zverev,Alexander Zverev,2016,6,3
+2016-06-13,Halle,Grass,QF,3,11,6-1 7-6(10),131,6,2,53,36,17,2,81,0,0,1,David Goffin,Federer,2016,6,2
+2016-06-13,Halle,Grass,R16,3,64,6-3 7-5,114,5,0,58,39,19,3,68,0,0,1,Malek Jaziri,Federer,2016,6,2
+2016-06-13,Halle,Grass,R32,3,88,6-4 7-6(3),128,11,2,56,35,21,5,73,0,0,1,Jan Lennard Struff,Federer,2016,6,2
+2016-06-06,Stuttgart,Grass,SF,3,7,3-6 7-6(7) 6-4,211,9,2,109,69,40,9,117,0,0,0,Dominic Thiem,Dominic Thiem,2016,6,3
+2016-06-06,Stuttgart,Grass,QF,3,226,7-6(2) 7-6(1),163,15,3,79,49,30,5,85,0,0,1,Florian Mayer,Federer,2016,6,2
+2016-06-06,Stuttgart,Grass,R16,3,65,6-4 5-7 6-4,190,8,2,95,61,34,9,100,0,0,1,Taylor Fritz,Federer,2016,6,3
+2016-05-09,Rome Masters,Clay,R16,2,15,7-6(2) 6-4,138,5,1,75,47,28,5,78,0,0,0,Dominic Thiem,Dominic Thiem,2016,5,2
+2016-05-09,Rome Masters,Clay,R32,2,44,6-3 7-5,131,1,0,59,33,26,4,87,0,0,1,Alexander Zverev,Federer,2016,5,2
+2016-04-11,Monte Carlo Masters,Clay,QF,3,9,3-6 6-2 7-5,191,1,4,84,49,35,8,126,0,0,0,Jo Wilfried Tsonga,Jo Wilfried Tsonga,2016,4,3
+2016-04-11,Monte Carlo Masters,Clay,R16,3,17,6-2 6-4,116,5,2,52,33,19,2,68,0,0,1,Roberto Bautista Agut,Federer,2016,4,2
+2016-04-11,Monte Carlo Masters,Clay,R32,3,38,6-3 6-4,112,4,3,53,34,19,0,74,0,0,1,Guillermo Garcia Lopez,Federer,2016,4,2
+2016-01-18,Australian Open,Hard,SF,3,1,6-1 6-2 3-6 6-3,197,5,1,100,57,43,10,139,0,0,0,Novak Djokovic,Novak Djokovic,2016,1,4
+2016-01-18,Australian Open,Hard,QF,3,6,7-6 6-2 6-4,198,9,3,87,60,27,9,136,0,0,1,Tomas Berdych,Federer,2016,1,3
+2016-01-18,Australian Open,Hard,R16,3,16,6-2 6-1 6-4,150,7,1,67,42,25,5,88,0,0,1,David Goffin,Federer,2016,1,3
+2016-01-18,Australian Open,Hard,R32,3,28,6-4 3-6 6-1 6-4,238,13,5,112,69,43,8,160,0,0,1,Grigor Dimitrov,Federer,2016,1,4
+2016-01-18,Australian Open,Hard,R64,3,35,6-3 7-5 6-1,169,25,2,72,49,23,3,93,0,0,1,Alexandr Dolgopolov,Federer,2016,1,3
+2016-01-18,Australian Open,Hard,R128,3,118,6-2 6-1 6-2,124,6,3,56,36,20,2,72,0,0,1,Nikoloz Basilashvili,Federer,2016,1,3
+2016-01-04,Brisbane,Hard,F,3,14,6-4 6-4,121,7,3,61,34,27,6,87,0,0,0,Milos Raonic,Milos Raonic,2016,1,2
+2016-01-04,Brisbane,Hard,SF,3,20,6-1 6-4,104,6,0,49,27,22,2,60,0,0,1,Dominic Thiem,Federer,2016,1,2
+2016-01-04,Brisbane,Hard,QF,3,28,6-4 6-7(4) 6-4,187,7,1,83,52,31,8,127,0,0,1,Grigor Dimitrov,Federer,2016,1,3
+2016-01-04,Brisbane,Hard,R16,3,277,6-2 6-1,86,2,1,40,22,18,2,55,0,0,1,Tobias Kamke,Federer,2016,1,2
+2015-11-15,Tour Finals,Hard,F,3,1,6-3 6-4,115,6,2,59,38,21,5,80,0,0,0,Novak Djokovic,Novak Djokovic,2015,11,2
+2015-11-15,Tour Finals,Hard,SF,3,4,7-5 6-3,127,6,3,64,41,23,6,,0,0,1,Stan Wawrinka,Federer,2015,11,2
+2015-11-15,Tour Finals,Hard,RR,3,6,6-4 6-2,98,4,4,46,28,18,4,,0,0,1,Tomas Berdych,Federer,2015,11,2
+2015-11-15,Tour Finals,Hard,RR,3,1,7-5 6-2,116,6,2,52,36,16,2,,0,0,1,Novak Djokovic,Federer,2015,11,2
+2015-11-15,Tour Finals,Hard,RR,3,8,7-5 4-6 6-4,189,10,4,94,51,43,2,,0,0,1,Kei Nishikori,Federer,2015,11,3
+2015-11-02,Paris Masters,Hard,R16,2,13,7-6(3) 3-6 7-6(5),218,13,4,113,74,39,27,,0,0,0,John Isner,John Isner,2015,11,3
+2015-11-02,Paris Masters,Hard,R32,2,28,6-1 6-1,83,4,1,40,26,14,2,,0,0,1,Andreas Seppi,Federer,2015,11,2
+2015-10-26,Basel,Hard,F,3,7,6-3 5-7 6-3,180,12,2,90,61,29,0,123,0,0,1,Rafael Nadal,Federer,2015,10,3
+2015-10-26,Basel,Hard,SF,3,29,6-3 6-4,110,5,1,56,39,17,3,,0,0,1,Jack Sock,Federer,2015,10,2
+2015-10-26,Basel,Hard,QF,3,17,6-3 3-6 6-1,157,7,4,82,43,39,2,,0,0,1,David Goffin,Federer,2015,10,3
+2015-10-26,Basel,Hard,R16,3,32,6-4 4-6 6-4,159,13,2,80,48,32,11,,0,0,1,Philipp Kohlschreiber,Federer,2015,10,3
+2015-10-26,Basel,Hard,R32,3,64,6-1 6-2,93,5,3,40,22,18,1,,0,0,1,Mikhail Kukushkin,Federer,2015,10,2
+2015-10-11,Shanghai Masters,Hard,R32,3,70,7-6(4) 2-6 6-3,193,15,1,77,55,22,6,,0,0,0,Albert Ramos,Albert Ramos,2015,10,3
+2015-09-18,Davis Cup WG PO: SUI vs NED,Hard,RR,2,436,6-3 6-4 6-3,,,,,,,,,0,0,1,Jesse Huta Galung,Federer,2015,9,3
+2015-09-18,Davis Cup WG PO: SUI vs NED,Hard,RR,2,144,6-3 6-2 6-4,,,,,,,,,0,0,1,Thiemo De Bakker,Federer,2015,9,3
+2015-08-31,US Open,Hard,F,2,1,6-4 5-7 6-4 6-4,292,11,5,137,87,50,3,200,0,0,0,Novak Djokovic,Novak Djokovic,2015,8,4
+2015-08-31,US Open,Hard,SF,2,5,6-4 6-3 6-1,155,10,2,77,50,27,6,,0,0,1,Stan Wawrinka,Federer,2015,8,3
+2015-08-31,US Open,Hard,QF,2,12,6-3 6-3 6-1,143,16,2,70,53,17,1,,0,0,1,Richard Gasquet,Federer,2015,8,3
+2015-08-31,US Open,Hard,R16,2,13,7-6(0) 7-6(6) 7-5,244,13,1,111,65,46,17,,0,0,1,John Isner,Federer,2015,8,3
+2015-08-31,US Open,Hard,R32,2,29,6-3 6-4 6-4,155,5,4,83,50,33,1,,0,0,1,Philipp Kohlschreiber,Federer,2015,8,3
+2015-08-31,US Open,Hard,R64,2,66,6-1 6-2 6-1,141,12,1,61,43,18,2,,0,0,1,Steve Darcis,Federer,2015,8,3
+2015-08-31,US Open,Hard,R128,2,34,6-1 6-2 6-2,136,11,5,66,43,23,1,,0,0,1,Leonardo Mayer,Federer,2015,8,3
+2015-08-16,Cincinnati Masters,Hard,F,3,1,7-6(1) 6-3,140,7,2,61,35,26,5,90,0,0,1,Novak Djokovic,Federer,2015,8,2
+2015-08-16,Cincinnati Masters,Hard,SF,3,2,6-4 7-6(6),144,4,2,64,35,29,9,,0,0,1,Andy Murray,Federer,2015,8,2
+2015-08-16,Cincinnati Masters,Hard,QF,3,23,6-3 6-4,108,8,0,53,37,16,9,,0,0,1,Feliciano Lopez,Federer,2015,8,2
+2015-08-16,Cincinnati Masters,Hard,R16,3,15,6-1 6-1,88,4,2,36,22,14,6,,0,0,1,Kevin Anderson,Federer,2015,8,2
+2015-08-16,Cincinnati Masters,Hard,R32,3,22,6-4 6-4,121,6,2,49,21,28,4,,0,0,1,Roberto Bautista Agut,Federer,2015,8,2
+2015-06-29,Wimbledon,Grass,F,2,1,7-6(1) 6-7(10) 6-4 6-3,286,14,3,141,94,47,13,176,0,0,0,Novak Djokovic,Novak Djokovic,2015,6,4
+2015-06-29,Wimbledon,Grass,SF,2,3,7-5 7-5 6-4,198,20,1,91,69,22,12,,0,0,1,Andy Murray,Federer,2015,6,3
+2015-06-29,Wimbledon,Grass,QF,2,13,6-3 7-5 6-2,158,11,1,75,55,20,1,,0,0,1,Gilles Simon,Federer,2015,6,3
+2015-06-29,Wimbledon,Grass,R16,2,22,6-2 6-2 6-3,140,7,0,56,38,18,2,,0,0,1,Roberto Bautista Agut,Federer,2015,6,3
+2015-06-29,Wimbledon,Grass,R32,2,69,6-4 6-4 6-7(5) 6-2,238,17,1,108,67,41,21,,0,0,1,Samuel Groth,Federer,2015,6,4
+2015-06-29,Wimbledon,Grass,R64,2,36,6-4 6-2 6-2,156,6,2,77,47,30,7,,0,0,1,Sam Querrey,Federer,2015,6,3
+2015-06-29,Wimbledon,Grass,R128,2,88,6-1 6-3 6-3,133,6,0,64,41,23,2,,0,0,1,Damir Dzumhur,Federer,2015,6,3
+2015-06-15,Halle,Grass,F,2,45,7-6(1) 6-4,157,14,0,73,53,20,1,108,0,0,1,Andreas Seppi,Federer,2015,6,2
+2015-06-15,Halle,Grass,SF,2,27,7-6(3) 7-6(4),149,6,0,78,57,21,20,,0,0,1,Ivo Karlovic,Federer,2015,6,2
+2015-06-15,Halle,Grass,QF,2,487,6-0 7-6(1),117,9,3,57,37,20,3,,0,0,1,Florian Mayer,Federer,2015,6,2
+2015-06-15,Halle,Grass,R16,2,86,6-3 7-5,116,3,4,60,40,20,4,,0,0,1,Ernests Gulbis,Federer,2015,6,2
+2015-06-15,Halle,Grass,R32,2,31,7-6(8) 3-6 7-6(5),217,15,2,109,78,31,4,,0,0,1,Philipp Kohlschreiber,Federer,2015,6,3
+2015-05-24,Roland Garros,Clay,QF,2,9,6-4 6-3 7-6(4),204,7,0,112,71,41,4,129,0,0,0,Stan Wawrinka,Stan Wawrinka,2015,5,3
+2015-05-24,Roland Garros,Clay,R16,2,14,6-3 4-6 6-4 6-1,222,2,1,100,61,39,6,130,0,0,1,Gael Monfils,Federer,2015,5,4
+2015-05-24,Roland Garros,Clay,R32,2,88,6-4 6-3 6-2,163,4,1,82,53,29,3,88,0,0,1,Damir Dzumhur,Federer,2015,5,3
+2015-05-24,Roland Garros,Clay,R64,2,57,6-2 7-6(1) 6-3,171,3,0,77,49,28,2,107,0,0,1,Marcel Granollers,Federer,2015,5,3
+2015-05-24,Roland Garros,Clay,R128,2,109,6-3 6-3 6-4,190,8,0,81,58,23,2,110,0,0,1,Alejandro Falla,Federer,2015,5,3
+2015-05-10,Rome Masters,Clay,F,2,1,6-4 6-3,115,7,1,62,39,23,5,76,0,0,0,Novak Djokovic,Novak Djokovic,2015,5,2
+2015-05-10,Rome Masters,Clay,SF,2,9,6-4 6-2,93,6,1,48,35,13,4,55,0,0,1,Stan Wawrinka,Federer,2015,5,2
+2015-05-10,Rome Masters,Clay,QF,2,5,6-3 6-3,94,2,0,48,29,19,3,67,0,0,1,Tomas Berdych,Federer,2015,5,2
+2015-05-10,Rome Masters,Clay,R16,2,16,6-3 7-5,119,5,1,59,37,22,14,76,0,0,1,Kevin Anderson,Federer,2015,5,2
+2015-05-10,Rome Masters,Clay,R32,2,24,7-6(3) 6-4,130,8,0,59,36,23,5,81,0,0,1,Pablo Cuevas,Federer,2015,5,2
+2015-05-03,Madrid Masters,Clay,R32,2,35,6-7(2) 7-6(5) 7-6(12),258,16,1,129,74,55,22,157,0,0,0,Nick Kyrgios,Nick Kyrgios,2015,5,3
+2015-04-27,Istanbul,Clay,F,2,23,6-3 7-6(11),150,7,2,72,51,21,3,96,0,0,1,Pablo Cuevas,Federer,2015,4,2
+2015-04-27,Istanbul,Clay,SF,2,63,2-6 6-2 7-5,185,6,1,83,44,39,4,115,0,0,1,Diego Schwartzman,Federer,2015,4,3
+2015-04-27,Istanbul,Clay,QF,2,62,7-6(3) 6-7(5) 6-3,233,11,2,106,68,38,2,148,0,0,1,Daniel Gimeno Traver,Federer,2015,4,3
+2015-04-27,Istanbul,Clay,R16,2,71,6-2 7-5,113,9,2,49,31,18,0,61,0,0,1,Jarkko Nieminen,Federer,2015,4,2
+2015-04-12,Monte Carlo Masters,Clay,R16,2,18,6-4 7-6(5),168,4,1,87,45,42,3,105,0,0,0,Gael Monfils,Gael Monfils,2015,4,2
+2015-04-12,Monte Carlo Masters,Clay,R32,2,35,6-2 6-1,91,5,1,41,31,10,1,55,0,0,1,Jeremy Chardy,Federer,2015,4,2
+2015-03-12,Indian Wells Masters,Hard,F,2,1,6-3 6-7(5) 6-2,199,6,3,98,57,41,8,138,0,0,0,Novak Djokovic,Novak Djokovic,2015,3,3
+2015-03-12,Indian Wells Masters,Hard,SF,2,6,7-5 6-4,127,5,0,63,42,21,9,86,0,0,1,Milos Raonic,Federer,2015,3,2
+2015-03-12,Indian Wells Masters,Hard,QF,2,9,6-4 6-0,97,1,1,40,26,14,2,69,0,0,1,Tomas Berdych,Federer,2015,3,2
+2015-03-12,Indian Wells Masters,Hard,R16,2,58,6-3 6-2,115,8,0,43,29,14,3,70,0,0,1,Jack Sock,Federer,2015,3,2
+2015-03-12,Indian Wells Masters,Hard,R32,2,33,6-3 6-4,136,6,3,59,36,23,3,82,0,0,1,Andreas Seppi,Federer,2015,3,2
+2015-03-12,Indian Wells Masters,Hard,R64,2,63,6-4 6-2,105,8,1,47,23,24,1,63,0,0,1,Diego Schwartzman,Federer,2015,3,2
+2015-02-23,Dubai,Hard,F,2,1,6-3 7-5,141,12,1,79,51,28,1,84,0,0,1,Novak Djokovic,Federer,2015,2,2
+2015-02-23,Dubai,Hard,SF,2,84,6-2 6-1,89,3,3,49,32,17,2,56,0,0,1,Borna Coric,Federer,2015,2,2
+2015-02-23,Dubai,Hard,QF,2,27,6-1 RET,37,3,0,12,8,4,0,21,1,0,1,Richard Gasquet,Federer,2015,2,2
+2015-02-23,Dubai,Hard,R16,2,31,6-4 6-3,93,4,0,40,28,12,5,60,0,0,1,Fernando Verdasco,Federer,2015,2,2
+2015-02-23,Dubai,Hard,R32,2,55,6-3 6-1,94,8,2,49,31,18,0,56,0,0,1,Mikhail Youzhny,Federer,2015,2,2
+2015-01-19,Australian Open,Hard,R32,2,46,6-4 7-6(5) 4-6 7-6(5),289,15,9,138,82,56,4,177,0,0,0,Andreas Seppi,Andreas Seppi,2015,1,4
+2015-01-19,Australian Open,Hard,R64,2,48,3-6 6-3 6-2 6-2,201,16,0,92,64,28,8,129,0,0,1,Simone Bolelli,Federer,2015,1,4
+2015-01-19,Australian Open,Hard,R128,2,47,6-4 6-2 7-5,180,9,3,83,56,27,1,113,0,0,1,Yen Hsun Lu,Federer,2015,1,3
+2015-01-04,Brisbane,Hard,F,2,8,6-4 6-7(2) 6-4,208,21,0,100,64,36,14,133,0,0,1,Milos Raonic,Federer,2015,1,3
+2015-01-04,Brisbane,Hard,SF,2,11,6-2 6-2,96,1,1,48,33,15,4,53,0,0,1,Grigor Dimitrov,Federer,2015,1,2
+2015-01-04,Brisbane,Hard,QF,2,125,6-0 6-1,68,12,2,30,21,9,0,41,0,0,1,James Duckworth,Federer,2015,1,2
+2015-01-04,Brisbane,Hard,R16,2,153,4-6 6-4 6-3,197,8,3,85,50,35,2,122,0,0,1,John Millman,Federer,2015,1,3
+2014-11-21,Davis Cup WG F: FRA vs SUI,Clay,RR,2,19,6-1 6-4 6-3,,,,,,,,,0,0,0,Gael Monfils,Gael Monfils,2014,11,3
+2014-11-21,Davis Cup WG F: FRA vs SUI,Clay,RR,2,26,6-4 6-2 6-2,,,,,,,,,0,0,1,Richard Gasquet,Federer,2014,11,3
+2014-11-09,Tour Finals,Hard,F,2,1,W/O,,,,,,,,,0,1,0,Novak Djokovic,,2014,11,1
+2014-11-09,Tour Finals,Hard,SF,2,4,4-6 7-5 7-6(6),231,4,0,108,57,51,10,168,0,0,1,Stan Wawrinka,Federer,2014,11,3
+2014-11-09,Tour Finals,Hard,RR,2,5,6-3 6-2,111,7,1,59,34,25,1,69,0,0,1,Kei Nishikori,Federer,2014,11,2
+2014-11-09,Tour Finals,Hard,RR,2,6,6-0 6-1,78,0,1,36,14,22,3,56,0,0,1,Andy Murray,Federer,2014,11,2
+2014-11-09,Tour Finals,Hard,RR,2,8,6-1 7-6(0),135,5,2,75,42,33,10,89,0,0,1,Milos Raonic,Federer,2014,11,2
+2014-10-27,Paris Masters,Hard,QF,2,10,7-6(5) 7-5,139,8,1,69,43,26,21,93,0,0,0,Milos Raonic,Milos Raonic,2014,10,2
+2014-10-27,Paris Masters,Hard,R16,2,176,6-4 6-4,131,4,1,54,29,25,7,75,0,0,1,Lucas Pouille,Federer,2014,10,2
+2014-10-27,Paris Masters,Hard,R32,2,30,7-6(5) 6-7(5) 6-4,242,10,3,123,72,51,7,152,0,0,1,Jeremy Chardy,Federer,2014,10,3
+2014-10-20,Basel,Hard,F,2,28,6-2 6-2,84,5,1,37,22,15,6,52,0,0,1,David Goffin,Federer,2014,10,2
+2014-10-20,Basel,Hard,SF,2,31,7-6(8) 3-6 6-3,171,7,3,86,55,31,33,102,0,0,1,Ivo Karlovic,Federer,2014,10,3
+2014-10-20,Basel,Hard,QF,2,11,7-6(4) 6-2,139,10,1,65,37,28,7,90,0,0,1,Grigor Dimitrov,Federer,2014,10,2
+2014-10-20,Basel,Hard,R16,2,55,3-6 6-3 6-4,169,6,0,71,44,27,11,108,0,0,1,Denis Istomin,Federer,2014,10,3
+2014-10-20,Basel,Hard,R32,2,51,6-2 6-1,74,9,2,36,21,15,3,46,0,0,1,Gilles Muller,Federer,2014,10,2
+2014-10-05,Shanghai Masters,Hard,F,3,29,7-6(6) 7-6(2),161,4,0,71,50,21,3,113,0,0,1,Gilles Simon,Federer,2014,10,2
+2014-10-05,Shanghai Masters,Hard,SF,3,1,6-4 6-4,149,8,1,72,51,21,5,96,0,0,1,Novak Djokovic,Federer,2014,10,2
+2014-10-05,Shanghai Masters,Hard,QF,3,30,7-6(4) 6-0,112,11,0,48,37,11,5,70,0,0,1,Julien Benneteau,Federer,2014,10,2
+2014-10-05,Shanghai Masters,Hard,R16,3,18,6-4 6-2,113,8,0,53,37,16,0,73,0,0,1,Roberto Bautista Agut,Federer,2014,10,2
+2014-10-05,Shanghai Masters,Hard,R32,3,25,7-5 3-6 7-6(7),247,10,2,130,92,38,3,162,0,0,1,Leonardo Mayer,Federer,2014,10,3
+2014-09-12,Davis Cup WG SF: SUI vs ITA,Hard,RR,3,76,7-6(5) 6-4 6-4,,,,,,,,,0,0,1,Simone Bolelli,Federer,2014,9,3
+2014-09-12,Davis Cup WG SF: SUI vs ITA,Hard,RR,3,17,6-2 6-3 7-6(4),,,,,,,,,0,0,1,Fabio Fognini,Federer,2014,9,3
+2014-08-25,US Open,Hard,SF,3,16,6-3 6-4 6-4,165,12,1,84,52,32,13,105,0,0,0,Marin Cilic,Marin Cilic,2014,8,3
+2014-08-25,US Open,Hard,QF,3,24,4-6 3-6 6-4 7-5 6-2,308,5,2,151,86,65,6,200,0,0,1,Gael Monfils,Federer,2014,8,5
+2014-08-25,US Open,Hard,R16,3,19,6-4 6-3 6-2,189,8,5,87,51,36,2,116,0,0,1,Roberto Bautista Agut,Federer,2014,8,3
+2014-08-25,US Open,Hard,R32,3,42,4-6 6-1 6-1 6-1,192,12,0,93,58,35,5,118,0,0,1,Marcel Granollers,Federer,2014,8,4
+2014-08-25,US Open,Hard,R64,3,104,6-4 6-4 6-4,188,9,4,79,49,30,9,108,0,0,1,Samuel Groth,Federer,2014,8,3
+2014-08-25,US Open,Hard,R128,3,76,6-3 6-4 7-6(4),207,10,1,87,60,27,4,127,0,0,1,Marinko Matosevic,Federer,2014,8,3
+2014-08-10,Cincinnati Masters,Hard,F,3,6,6-3 1-6 6-2,162,6,2,74,47,27,3,102,0,0,1,David Ferrer,Federer,2014,8,3
+2014-08-10,Cincinnati Masters,Hard,SF,3,7,6-2 6-3,109,2,0,52,33,19,6,69,0,0,1,Milos Raonic,Federer,2014,8,2
+2014-08-10,Cincinnati Masters,Hard,QF,3,9,6-3 7-5,136,3,3,63,38,25,6,93,0,0,1,Andy Murray,Federer,2014,8,2
+2014-08-10,Cincinnati Masters,Hard,R16,3,23,6-4 4-6 6-3,178,4,5,87,52,35,7,109,0,0,1,Gael Monfils,Federer,2014,8,3
+2014-08-10,Cincinnati Masters,Hard,R32,3,46,7-6(4) 5-7 6-2,187,6,0,88,61,27,8,122,0,0,1,Vasek Pospisil,Federer,2014,8,3
+2014-08-04,Canada Masters,Hard,F,3,15,7-5 7-6(3),170,7,4,100,64,36,11,108,0,0,0,Jo Wilfried Tsonga,Jo Wilfried Tsonga,2014,8,2
+2014-08-04,Canada Masters,Hard,SF,3,25,6-3 6-4,130,13,1,53,29,24,8,82,0,0,1,Feliciano Lopez,Federer,2014,8,2
+2014-08-04,Canada Masters,Hard,QF,3,7,6-3 4-6 6-3,179,7,3,87,50,37,0,114,0,0,1,David Ferrer,Federer,2014,8,3
+2014-08-04,Canada Masters,Hard,R16,3,18,7-6(5) 6-7(3) 6-4,251,11,4,106,67,39,12,159,0,0,1,Marin Cilic,Federer,2014,8,3
+2014-08-04,Canada Masters,Hard,R32,3,129,6-2 6-0,92,5,3,43,29,14,0,52,0,0,1,Peter Polansky,Federer,2014,8,2
+2014-06-23,Wimbledon,Grass,F,4,2,6-7(7) 6-4 7-6(4) 5-7 6-4,366,29,5,192,133,59,13,236,0,0,0,Novak Djokovic,Novak Djokovic,2014,6,5
+2014-06-23,Wimbledon,Grass,SF,4,9,6-4 6-4 6-4,164,6,1,80,52,28,17,101,0,0,1,Milos Raonic,Federer,2014,6,3
+2014-06-23,Wimbledon,Grass,QF,4,3,3-6 7-6(5) 6-4 6-4,243,10,1,119,77,42,9,153,0,0,1,Stan Wawrinka,Federer,2014,6,4
+2014-06-23,Wimbledon,Grass,R16,4,22,6-1 6-4 6-4,162,11,0,75,42,33,3,94,0,0,1,Tommy Robredo,Federer,2014,6,3
+2014-06-23,Wimbledon,Grass,R32,4,35,6-3 6-1 6-3,158,8,1,73,50,23,0,81,0,0,1,Santiago Giraldo,Federer,2014,6,3
+2014-06-23,Wimbledon,Grass,R64,4,103,6-3 7-5 6-3,161,25,1,69,53,16,12,94,0,0,1,Gilles Muller,Federer,2014,6,3
+2014-06-23,Wimbledon,Grass,R128,4,83,6-1 6-1 6-3,167,9,1,69,48,21,4,93,0,0,1,Paolo Lorenzi,Federer,2014,6,3
+2014-06-09,Halle,Grass,F,4,69,7-6(2) 7-6(3),151,5,2,75,46,29,5,88,0,0,1,Alejandro Falla,Federer,2014,6,2
+2014-06-09,Halle,Grass,SF,4,12,6-3 7-6(4),124,10,2,70,53,17,1,73,0,0,1,Kei Nishikori,Federer,2014,6,2
+2014-06-09,Halle,Grass,QF,4,48,W/O,,,,,,,,,0,1,1,Yen Hsun Lu,,2014,6,1
+2014-06-09,Halle,Grass,R16,4,47,6-7(8) 6-4 6-2,200,11,1,87,72,15,3,110,0,0,1,Joao Sousa,Federer,2014,6,3
+2014-05-26,Roland Garros,Clay,R16,4,17,6-7(5) 7-6(3) 6-2 4-6 6-3,315,7,3,161,102,59,13,222,0,0,0,Ernests Gulbis,Ernests Gulbis,2014,5,5
+2014-05-26,Roland Garros,Clay,R32,4,32,7-5 6-7(7) 6-2 6-4,279,15,1,120,81,39,6,187,0,0,1,Dmitry Tursunov,Federer,2014,5,4
+2014-05-26,Roland Garros,Clay,R64,4,109,6-3 6-4 6-4,176,9,2,81,51,30,1,103,0,0,1,Diego Schwartzman,Federer,2014,5,3
+2014-05-26,Roland Garros,Clay,R128,4,87,6-2 6-4 6-2,152,7,1,61,44,17,3,84,0,0,1,Lukas Lacko,Federer,2014,5,3
+2014-05-11,Rome Masters,Clay,R32,4,47,1-6 6-3 7-6(6),193,9,1,101,69,32,2,127,0,0,0,Jeremy Chardy,Jeremy Chardy,2014,5,3
+2014-04-13,Monte Carlo Masters,Clay,F,4,3,4-6 7-6(5) 6-2,196,3,1,103,69,34,5,134,0,0,0,Stan Wawrinka,Stan Wawrinka,2014,4,3
+2014-04-13,Monte Carlo Masters,Clay,SF,4,2,7-5 6-2,116,3,1,57,40,17,2,75,0,0,1,Novak Djokovic,Federer,2014,4,2
+2014-04-13,Monte Carlo Masters,Clay,QF,4,12,2-6 7-6(6) 6-1,231,4,0,92,61,31,3,146,0,0,1,Jo Wilfried Tsonga,Federer,2014,4,3
+2014-04-13,Monte Carlo Masters,Clay,R16,4,47,6-4 6-1,96,6,1,53,31,22,0,58,0,0,1,Lukas Rosol,Federer,2014,4,2
+2014-04-13,Monte Carlo Masters,Clay,R32,4,41,6-1 6-2,83,2,1,42,33,9,0,52,0,0,1,Radek Stepanek,Federer,2014,4,2
+2014-04-04,Davis Cup WG QF: SUI vs KAZ,Hard,RR,4,56,6-4 6-4 6-2,,,,,,,,,0,0,1,Mikhail Kukushkin,Federer,2014,4,3
+2014-04-04,Davis Cup WG QF: SUI vs KAZ,Hard,RR,4,64,7-6(0) 6-2 6-3,,,,,,,,,0,0,1,Andrey Golubev,Federer,2014,4,3
+2014-03-19,Miami Masters,Hard,QF,5,21,3-6 7-5 6-4,196,7,3,88,47,41,6,129,0,0,0,Kei Nishikori,Kei Nishikori,2014,3,3
+2014-03-19,Miami Masters,Hard,R16,5,9,6-1 6-2,80,6,0,37,25,12,0,49,0,0,1,Richard Gasquet,Federer,2014,3,2
+2014-03-19,Miami Masters,Hard,R32,5,162,6-3 6-3,111,6,1,43,26,17,7,63,0,0,1,Thiemo De Bakker,Federer,2014,3,2
+2014-03-19,Miami Masters,Hard,R64,5,53,6-4 7-6(4),120,6,0,52,39,13,13,75,0,0,1,Ivo Karlovic,Federer,2014,3,2
+2014-03-06,Indian Wells Masters,Hard,F,8,2,3-6 6-3 7-6(3),197,6,4,101,64,37,6,132,0,0,0,Novak Djokovic,Novak Djokovic,2014,3,3
+2014-03-06,Indian Wells Masters,Hard,SF,8,31,6-3 6-1,104,7,1,43,31,12,2,62,0,0,1,Alexandr Dolgopolov,Federer,2014,3,2
+2014-03-06,Indian Wells Masters,Hard,QF,8,18,7-5 6-1,105,3,0,51,33,18,3,69,0,0,1,Kevin Anderson,Federer,2014,3,2
+2014-03-06,Indian Wells Masters,Hard,R16,8,12,6-4 6-4,131,7,1,62,40,22,3,84,0,0,1,Tommy Haas,Federer,2014,3,2
+2014-03-06,Indian Wells Masters,Hard,R32,8,30,7-6(7) 7-6(2),158,9,1,78,53,25,7,106,0,0,1,Dmitry Tursunov,Federer,2014,3,2
+2014-03-06,Indian Wells Masters,Hard,R64,8,123,6-2 7-6(5),134,9,1,62,38,24,1,91,0,0,1,Paul Henri Mathieu,Federer,2014,3,2
+2014-02-24,Dubai,Hard,F,8,6,3-6 6-4 6-3,169,8,1,84,43,41,5,119,0,0,1,Tomas Berdych,Federer,2014,2,3
+2014-02-24,Dubai,Hard,SF,8,2,3-6 6-3 6-2,163,7,0,77,46,31,5,106,0,0,1,Novak Djokovic,Federer,2014,2,3
+2014-02-24,Dubai,Hard,QF,8,49,6-2 6-2,103,4,1,48,30,18,2,58,0,0,1,Lukas Rosol,Federer,2014,2,2
+2014-02-24,Dubai,Hard,R16,8,48,6-2 6-7(4) 6-3,184,8,5,87,54,33,3,129,0,0,1,Radek Stepanek,Federer,2014,2,3
+2014-02-24,Dubai,Hard,R32,8,90,6-1 6-4,112,5,2,50,31,19,1,62,0,0,1,Benjamin Becker,Federer,2014,2,2
+2014-01-31,Davis Cup WG R1: SRB vs SUI,Hard,RR,8,268,6-4 7-5 6-2,,,,,,,,,0,0,1,Ilija Bozoljac,Federer,2014,1,3
+2014-01-13,Australian Open,Hard,SF,6,1,7-6(4) 6-3 6-3,191,8,1,105,69,36,3,144,0,0,0,Rafael Nadal,Rafael Nadal,2014,1,3
+2014-01-13,Australian Open,Hard,QF,6,4,6-3 6-4 6-7(6) 6-3,268,10,0,122,78,44,9,200,0,0,1,Andy Murray,Federer,2014,1,4
+2014-01-13,Australian Open,Hard,R16,6,10,6-3 7-5 6-4,172,7,1,84,48,36,8,112,0,0,1,Jo Wilfried Tsonga,Federer,2014,1,3
+2014-01-13,Australian Open,Hard,R32,6,79,6-2 6-2 6-3,164,6,1,73,45,28,3,101,0,0,1,Teymuraz Gabashvili,Federer,2014,1,3
+2014-01-13,Australian Open,Hard,R64,6,99,6-2 6-1 7-6(4),175,11,0,76,58,18,6,107,0,0,1,Blaz Kavcic,Federer,2014,1,3
+2014-01-13,Australian Open,Hard,R128,6,133,6-4 6-4 6-2,170,11,5,78,45,33,13,106,0,0,1,James Duckworth,Federer,2014,1,3
+2013-12-29,Brisbane,Hard,F,6,60,6-1 4-6 6-3,187,13,0,86,55,31,4,127,0,0,0,Lleyton Hewitt,Lleyton Hewitt,2013,12,3
+2013-12-29,Brisbane,Hard,SF,6,34,6-3 6-7(3) 6-3,181,20,3,95,56,39,4,116,0,0,1,Jeremy Chardy,Federer,2013,12,3
+2013-12-29,Brisbane,Hard,QF,6,61,6-1 6-1,95,9,1,41,25,16,3,58,0,0,1,Marinko Matosevic,Federer,2013,12,2
+2013-12-29,Brisbane,Hard,R16,6,39,6-4 6-2,119,9,0,56,34,22,1,68,0,0,1,Jarkko Nieminen,Federer,2013,12,2
+2013-11-04,Tour Finals,Hard,SF,7,1,7-5 6-3,115,6,1,59,39,20,2,80,0,0,0,Rafael Nadal,Rafael Nadal,2013,11,2
+2013-11-04,Tour Finals,Hard,RR,7,2,6-4 6-7(2) 6-2,204,5,5,103,56,47,9,142,0,0,0,Novak Djokovic,Novak Djokovic,2013,11,3
+2013-11-04,Tour Finals,Hard,RR,7,5,4-6 7-6(2) 7-5,199,10,1,98,64,34,7,147,0,0,1,Juan Martin Del Potro,Federer,2013,11,3
+2013-11-04,Tour Finals,Hard,RR,7,9,6-4 6-3,131,6,1,64,48,16,0,82,0,0,1,Richard Gasquet,Federer,2013,11,2
+2013-10-28,Paris Masters,Hard,SF,6,2,4-6 6-3 6-2,181,5,4,89,59,30,7,121,0,0,0,Novak Djokovic,Novak Djokovic,2013,10,3
+2013-10-28,Paris Masters,Hard,QF,6,5,6-3 4-6 6-3,152,6,0,69,47,22,3,104,0,0,1,Juan Martin Del Potro,Federer,2013,10,3
+2013-10-28,Paris Masters,Hard,R16,6,23,6-3 6-4,111,8,1,55,41,14,5,64,0,0,1,Philipp Kohlschreiber,Federer,2013,10,2
+2013-10-28,Paris Masters,Hard,R32,6,21,6-4 6-4,127,7,0,62,39,23,9,83,0,0,1,Kevin Anderson,Federer,2013,10,2
+2013-10-21,Basel,Hard,F,6,5,7-6(3) 2-6 6-4,192,14,5,101,61,40,8,140,0,0,0,Juan Martin Del Potro,Juan Martin Del Potro,2013,10,3
+2013-10-21,Basel,Hard,SF,6,40,6-3 6-7(3) 7-5,225,4,1,107,60,47,11,160,0,0,1,Vasek Pospisil,Federer,2013,10,3
+2013-10-21,Basel,Hard,QF,6,22,6-3 7-6(2),144,3,4,68,38,30,7,92,0,0,1,Grigor Dimitrov,Federer,2013,10,2
+2013-10-21,Basel,Hard,R16,6,48,4-6 6-3 6-2,172,4,1,82,46,36,5,111,0,0,1,Denis Istomin,Federer,2013,10,3
+2013-10-21,Basel,Hard,R32,6,62,6-4 6-2,112,3,2,49,25,24,1,71,0,0,1,Adrian Mannarino,Federer,2013,10,2
+2013-10-07,Shanghai Masters,Hard,R16,7,42,6-4 6-7(5) 6-3,206,3,2,102,73,29,15,129,0,0,0,Gael Monfils,Gael Monfils,2013,10,3
+2013-10-07,Shanghai Masters,Hard,R32,7,22,6-4 6-3,122,7,2,67,40,27,0,74,0,0,1,Andreas Seppi,Federer,2013,10,2
+2013-08-26,US Open,Hard,R16,7,22,7-6(3) 6-3 6-4,211,5,0,86,52,34,6,144,0,0,0,Tommy Robredo,Tommy Robredo,2013,8,3
+2013-08-26,US Open,Hard,R32,7,63,6-3 6-0 6-2,144,8,4,69,39,30,1,81,0,0,1,Adrian Mannarino,Federer,2013,8,3
+2013-08-26,US Open,Hard,R64,7,48,6-3 6-2 6-1,152,6,2,69,36,33,1,95,0,0,1,Carlos Berlocq,Federer,2013,8,3
+2013-08-26,US Open,Hard,R128,7,62,6-3 6-2 7-5,168,12,2,80,49,31,8,93,0,0,1,Grega Zemlja,Federer,2013,8,3
+2013-08-11,Cincinnati Masters,Hard,QF,5,3,5-7 6-4 6-3,196,4,0,102,65,37,3,134,0,0,0,Rafael Nadal,Rafael Nadal,2013,8,3
+2013-08-11,Cincinnati Masters,Hard,R16,5,13,1-6 7-5 6-3,193,10,4,100,66,34,10,113,0,0,1,Tommy Haas,Federer,2013,8,3
+2013-08-11,Cincinnati Masters,Hard,R32,5,26,6-3 7-6(7),147,8,1,62,38,24,5,87,0,0,1,Philipp Kohlschreiber,Federer,2013,8,2
+2013-07-22,Gstaad,Clay,R16,5,55,6-3 6-4,124,8,1,57,30,27,11,66,0,0,0,Daniel Brands,Daniel Brands,2013,7,2
+2013-07-15,Hamburg,Clay,SF,5,114,7-6(7) 7-6(4),177,5,2,97,56,41,3,113,0,0,0,Federico Delbonis,Federico Delbonis,2013,7,2
+2013-07-15,Hamburg,Clay,QF,5,45,7-6(4) 3-6 7-5,205,2,3,107,63,44,6,120,0,0,1,Florian Mayer,Federer,2013,7,3
+2013-07-15,Hamburg,Clay,R16,5,140,6-4 6-3,126,7,1,58,30,28,2,72,0,0,1,Jan Hajek,Federer,2013,7,2
+2013-07-15,Hamburg,Clay,R32,5,58,3-6 6-3 6-2,151,9,2,70,42,28,5,86,0,0,1,Daniel Brands,Federer,2013,7,3
+2013-06-24,Wimbledon,Grass,R64,3,116,6-7(5) 7-6(5) 7-5 7-6(5),323,16,1,158,114,44,17,180,0,0,0,Sergiy Stakhovsky,Sergiy Stakhovsky,2013,6,4
+2013-06-24,Wimbledon,Grass,R128,3,48,6-3 6-2 6-0,117,7,0,56,39,17,3,69,0,0,1,Victor Hanescu,Federer,2013,6,3
+2013-06-10,Halle,Grass,F,3,29,6-7(5) 6-3 6-4,193,11,1,97,64,33,3,123,0,0,1,Mikhail Youzhny,Federer,2013,6,3
+2013-06-10,Halle,Grass,SF,3,11,3-6 6-3 6-4,163,15,1,78,50,28,6,98,0,0,1,Tommy Haas,Federer,2013,6,3
+2013-06-10,Halle,Grass,QF,3,156,6-0 6-0,76,4,1,33,21,12,0,40,0,0,1,Mischa Zverev,Federer,2013,6,2
+2013-06-10,Halle,Grass,R16,3,166,6-3 6-3,120,3,2,62,36,26,5,68,0,0,1,Cedrik Marcel Stebe,Federer,2013,6,2
+2013-05-27,Roland Garros,Clay,QF,3,8,7-5 6-3 6-3,176,0,3,100,67,33,2,111,0,0,0,Jo Wilfried Tsonga,Jo Wilfried Tsonga,2013,5,3
+2013-05-27,Roland Garros,Clay,R16,3,18,6-1 4-6 2-6 6-2 6-3,278,9,2,117,75,42,5,179,0,0,1,Gilles Simon,Federer,2013,5,5
+2013-05-27,Roland Garros,Clay,R32,3,32,6-3 6-4 7-5,162,7,0,79,51,28,2,91,0,0,1,Julien Benneteau,Federer,2013,5,3
+2013-05-27,Roland Garros,Clay,R64,3,188,6-2 6-1 6-1,140,3,0,65,40,25,2,82,0,0,1,Somdev Devvarman,Federer,2013,5,3
+2013-05-27,Roland Garros,Clay,R128,3,164,6-2 6-2 6-3,138,10,0,59,40,19,1,80,0,0,1,Pablo Carreno Busta,Federer,2013,5,3
+2013-05-12,Rome Masters,Clay,F,3,5,6-1 6-3,95,3,0,53,30,23,1,69,0,0,0,Rafael Nadal,Rafael Nadal,2013,5,2
+2013-05-12,Rome Masters,Clay,SF,3,36,7-6(5) 6-4,148,1,3,74,44,30,8,88,0,0,1,Benoit Paire,Federer,2013,5,2
+2013-05-12,Rome Masters,Clay,QF,3,24,6-4 7-6(2),139,11,0,66,50,16,5,86,0,0,1,Jerzy Janowicz,Federer,2013,5,2
+2013-05-12,Rome Masters,Clay,R16,3,17,6-1 6-2,99,3,0,44,32,12,1,63,0,0,1,Gilles Simon,Federer,2013,5,2
+2013-05-12,Rome Masters,Clay,R32,3,293,6-1 6-2,87,4,0,40,30,10,2,51,0,0,1,Potito Starace,Federer,2013,5,2
+2013-05-05,Madrid Masters,Clay,R16,2,16,6-4 1-6 6-2,145,7,0,65,42,23,1,95,0,0,0,Kei Nishikori,Kei Nishikori,2013,5,3
+2013-05-05,Madrid Masters,Clay,R32,2,48,6-3 6-3,135,1,2,70,40,30,3,81,0,0,1,Radek Stepanek,Federer,2013,5,2
+2013-03-07,Indian Wells Masters,Hard,QF,2,5,6-4 6-2,127,4,0,75,48,27,1,85,0,0,0,Rafael Nadal,Rafael Nadal,2013,3,2
+2013-03-07,Indian Wells Masters,Hard,R16,2,18,6-3 6-7(4) 7-5,223,5,2,104,62,42,6,140,0,0,1,Stan Wawrinka,Federer,2013,3,3
+2013-03-07,Indian Wells Masters,Hard,R32,2,60,6-3 6-1,97,5,3,56,28,28,1,61,0,0,1,Ivan Dodig,Federer,2013,3,2
+2013-03-07,Indian Wells Masters,Hard,R64,2,43,6-2 6-3,93,3,2,36,26,10,3,58,0,0,1,Denis Istomin,Federer,2013,3,2
+2013-02-25,Dubai,Hard,SF,2,6,3-6 7-6(8) 6-4,223,13,5,118,69,49,8,139,0,0,0,Tomas Berdych,Tomas Berdych,2013,2,3
+2013-02-25,Dubai,Hard,QF,2,46,6-2 6-2,92,5,0,42,32,10,0,54,0,0,1,Nikolay Davydenko,Federer,2013,2,2
+2013-02-25,Dubai,Hard,R16,2,34,6-3 6-4,116,2,1,63,38,25,3,71,0,0,1,Marcel Granollers,Federer,2013,2,2
+2013-02-25,Dubai,Hard,R32,2,128,5-7 6-0 6-2,147,10,3,66,36,30,2,90,0,0,1,Malek Jaziri,Federer,2013,2,3
+2013-02-11,Rotterdam,Hard,QF,2,39,6-3 7-5,126,7,4,69,39,30,6,81,0,0,0,Julien Benneteau,Julien Benneteau,2013,2,2
+2013-02-11,Rotterdam,Hard,R16,2,123,6-3 6-4,113,4,3,60,34,26,3,63,0,0,1,Thiemo De Bakker,Federer,2013,2,2
+2013-02-11,Rotterdam,Hard,R32,2,64,6-3 6-1,92,3,1,47,30,17,2,58,0,0,1,Grega Zemlja,Federer,2013,2,2
+2013-01-14,Australian Open,Hard,SF,2,3,6-4 6-7(5) 6-3 6-7(2) 6-2,328,5,2,171,106,65,21,240,0,0,0,Andy Murray,Andy Murray,2013,1,5
+2013-01-14,Australian Open,Hard,QF,2,8,7-6(4) 4-6 7-6(4) 3-6 6-3,333,6,3,158,98,60,20,214,0,0,1,Jo Wilfried Tsonga,Federer,2013,1,5
+2013-01-14,Australian Open,Hard,R16,2,15,6-4 7-6(4) 6-2,174,14,1,78,50,28,19,113,0,0,1,Milos Raonic,Federer,2013,1,3
+2013-01-14,Australian Open,Hard,R32,2,43,6-4 7-6(5) 6-1,216,11,4,95,67,28,8,118,0,0,1,Bernard Tomic,Federer,2013,1,3
+2013-01-14,Australian Open,Hard,R64,2,40,6-3 6-4 6-4,197,9,2,91,62,29,9,119,0,0,1,Nikolay Davydenko,Federer,2013,1,3
+2013-01-14,Australian Open,Hard,R128,2,46,6-2 6-4 6-1,158,3,0,69,45,24,8,83,0,0,1,Benoit Paire,Federer,2013,1,3
+2012-11-05,Tour Finals,Hard,F,2,1,7-6(6) 7-5,191,8,2,93,57,36,6,135,0,0,0,Novak Djokovic,Novak Djokovic,2012,11,2
+2012-11-05,Tour Finals,Hard,SF,2,3,7-6(5) 6-2,125,2,0,59,32,27,5,94,0,0,1,Andy Murray,Federer,2012,11,2
+2012-11-05,Tour Finals,Hard,RR,2,9,6-3 6-1,100,7,1,41,21,20,3,69,0,0,1,Janko Tipsarevic,Federer,2012,11,2
+2012-11-05,Tour Finals,Hard,RR,2,5,6-4 7-6(5),153,4,3,83,44,39,0,109,0,0,1,David Ferrer,Federer,2012,11,2
+2012-11-05,Tour Finals,Hard,RR,2,7,7-6(3) 4-6 6-3,174,12,1,88,55,33,8,121,0,0,0,Juan Martin Del Potro,Juan Martin Del Potro,2012,11,3
+2012-10-22,Basel,Hard,F,1,8,6-4 6-7(5) 7-6(3),222,18,1,111,75,36,10,164,0,0,0,Juan Martin Del Potro,Juan Martin Del Potro,2012,10,3
+2012-10-22,Basel,Hard,SF,1,101,7-5 6-4,129,10,0,60,35,25,4,86,0,0,1,Paul Henri Mathieu,Federer,2012,10,2
+2012-10-22,Basel,Hard,QF,1,46,6-2 6-2,99,4,1,39,25,14,7,55,0,0,1,Benoit Paire,Federer,2012,10,2
+2012-10-22,Basel,Hard,R16,1,34,6-3 6-7(6) 7-5,186,8,0,96,59,37,6,124,0,0,1,Thomaz Bellucci,Federer,2012,10,3
+2012-10-22,Basel,Hard,R32,1,83,7-5 6-3,139,10,2,61,34,27,3,89,0,0,1,Benjamin Becker,Federer,2012,10,2
+2012-10-07,Shanghai Masters,Hard,SF,1,3,6-4 6-4,137,4,5,80,47,33,5,98,0,0,0,Andy Murray,Andy Murray,2012,10,2
+2012-10-07,Shanghai Masters,Hard,QF,1,16,6-3 6-4,128,8,2,62,42,20,1,82,0,0,1,Marin Cilic,Federer,2012,10,2
+2012-10-07,Shanghai Masters,Hard,R16,1,17,4-6 7-6(4) 6-0,178,6,1,86,54,32,7,116,0,0,1,Stan Wawrinka,Federer,2012,10,3
+2012-10-07,Shanghai Masters,Hard,R32,1,62,6-3 7-5,126,5,1,56,30,26,4,80,0,0,1,Yen Hsun Lu,Federer,2012,10,2
+2012-09-14,Davis Cup WG PO: NED vs SUI,Clay,RR,1,159,6-3 6-4 6-4,,,,,,,,,0,0,1,Thiemo De Bakker,Federer,2012,9,3
+2012-09-14,Davis Cup WG PO: NED vs SUI,Clay,RR,1,50,6-1 6-4 6-4,,,,,,,,,0,0,1,Robin Haase,Federer,2012,9,3
+2012-08-27,US Open,Hard,QF,1,7,7-6(1) 6-4 3-6 6-3,225,7,3,115,73,42,14,162,0,0,0,Tomas Berdych,Tomas Berdych,2012,8,4
+2012-08-27,US Open,Hard,R16,1,25,W/O,,,,,,,,,0,1,1,Mardy Fish,,2012,8,1
+2012-08-27,US Open,Hard,R32,1,26,6-3 6-4 6-4,177,7,1,82,56,26,6,122,0,0,1,Fernando Verdasco,Federer,2012,8,3
+2012-08-27,US Open,Hard,R64,1,83,6-2 6-3 6-2,150,15,1,76,52,24,2,90,0,0,1,Bjorn Phau,Federer,2012,8,3
+2012-08-27,US Open,Hard,R128,1,81,6-3 6-2 6-4,155,7,2,76,54,22,0,94,0,0,1,Donald Young,Federer,2012,8,3
+2012-08-12,Cincinnati Masters,Hard,F,1,2,6-0 7-6(7),117,8,1,56,33,23,2,80,0,0,1,Novak Djokovic,Federer,2012,8,2
+2012-08-12,Cincinnati Masters,Hard,SF,1,26,7-6(4) 6-3,151,5,5,68,37,31,6,95,0,0,1,Stan Wawrinka,Federer,2012,8,2
+2012-08-12,Cincinnati Masters,Hard,QF,1,20,6-3 7-6(4),136,5,0,57,42,15,10,88,0,0,1,Mardy Fish,Federer,2012,8,2
+2012-08-12,Cincinnati Masters,Hard,R16,1,49,6-2 6-4,114,7,1,50,28,22,7,62,0,0,1,Bernard Tomic,Federer,2012,8,2
+2012-08-12,Cincinnati Masters,Hard,R32,1,62,6-3 6-2,100,12,2,51,30,21,1,61,0,0,1,Alex Bogomolov Jr,Federer,2012,8,2
+2012-07-25,London Olympics,Grass,F,1,4,6-2 6-1 6-4,165,9,1,78,51,27,5,116,0,0,0,Andy Murray,Andy Murray,2012,7,3
+2012-07-25,London Olympics,Grass,SF,1,9,3-6 7-6(5) 19-17,366,23,2,174,118,56,11,266,0,0,1,Juan Martin Del Potro,Federer,2012,7,3
+2012-07-25,London Olympics,Grass,QF,1,11,6-4 7-6(5),141,3,1,73,46,27,8,85,0,0,1,John Isner,Federer,2012,7,2
+2012-07-25,London Olympics,Grass,R16,1,34,7-5 6-3,128,3,0,68,50,18,7,81,0,0,1,Denis Istomin,Federer,2012,7,2
+2012-07-25,London Olympics,Grass,R32,1,32,6-2 6-2,101,7,0,47,31,16,3,58,0,0,1,Julien Benneteau,Federer,2012,7,2
+2012-07-25,London Olympics,Grass,R64,1,51,6-3 5-7 6-3,180,9,1,87,55,32,3,107,0,0,1,Alejandro Falla,Federer,2012,7,3
+2012-06-25,Wimbledon,Grass,F,3,4,4-6 7-5 6-3 6-4,288,12,3,131,90,41,16,204,0,0,1,Andy Murray,Federer,2012,6,4
+2012-06-25,Wimbledon,Grass,SF,3,1,6-3 3-6 6-4 6-3,216,12,0,101,65,36,9,139,0,0,1,Novak Djokovic,Federer,2012,6,4
+2012-06-25,Wimbledon,Grass,QF,3,33,6-1 6-2 6-2,148,2,0,66,41,25,3,92,0,0,1,Mikhail Youzhny,Federer,2012,6,3
+2012-06-25,Wimbledon,Grass,R16,3,75,7-6(1) 6-1 4-6 6-3,228,9,1,117,82,35,9,131,0,0,1,Xavier Malisse,Federer,2012,6,4
+2012-06-25,Wimbledon,Grass,R32,3,32,4-6 6-7(3) 6-2 7-6(6) 6-1,324,14,4,156,101,55,15,214,0,0,1,Julien Benneteau,Federer,2012,6,5
+2012-06-25,Wimbledon,Grass,R64,3,68,6-1 6-3 6-2,133,13,2,60,41,19,1,74,0,0,1,Fabio Fognini,Federer,2012,6,3
+2012-06-25,Wimbledon,Grass,R128,3,43,6-1 6-1 6-1,138,9,1,58,40,18,0,79,0,0,1,Albert Ramos,Federer,2012,6,3
+2012-06-11,Halle,Grass,F,3,87,7-6(5) 6-4,154,7,3,84,58,26,5,95,0,0,0,Tommy Haas,Tommy Haas,2012,6,2
+2012-06-11,Halle,Grass,SF,3,31,6-1 6-4,95,8,0,47,32,15,2,60,0,0,1,Mikhail Youzhny,Federer,2012,6,2
+2012-06-11,Halle,Grass,QF,3,21,6-7(4) 6-4 7-6(3),193,9,0,94,65,29,25,119,0,0,1,Milos Raonic,Federer,2012,6,3
+2012-06-11,Halle,Grass,R16,3,29,6-4 7-5,129,11,1,59,42,17,5,74,0,0,1,Florian Mayer,Federer,2012,6,2
+2012-05-27,Roland Garros,Clay,SF,3,1,6-4 7-5 6-3,177,9,3,86,48,38,6,125,0,0,0,Novak Djokovic,Novak Djokovic,2012,5,3
+2012-05-27,Roland Garros,Clay,QF,3,9,3-6 6-7(4) 6-2 6-0 6-3,273,11,1,138,80,58,6,194,0,0,1,Juan Martin Del Potro,Federer,2012,5,5
+2012-05-27,Roland Garros,Clay,R16,3,109,5-7 7-5 6-2 6-4,275,12,1,125,76,49,4,174,0,0,1,David Goffin,Federer,2012,5,4
+2012-05-27,Roland Garros,Clay,R32,3,89,6-3 4-6 6-2 7-5,232,7,3,104,60,44,2,157,0,0,1,Nicolas Mahut,Federer,2012,5,4
+2012-05-27,Roland Garros,Clay,R64,3,92,6-3 6-2 6-7(6) 6-3,254,15,1,130,83,47,5,147,0,0,1,Adrian Ungur,Federer,2012,5,4
+2012-05-27,Roland Garros,Clay,R128,3,78,6-2 7-5 6-3,198,7,5,101,60,41,2,117,0,0,1,Tobias Kamke,Federer,2012,5,3
+2012-05-13,Rome Masters,Clay,SF,2,1,6-2 7-6(4),131,6,0,65,32,33,1,100,0,0,0,Novak Djokovic,Novak Djokovic,2012,5,2
+2012-05-13,Rome Masters,Clay,QF,2,30,6-1 6-2,88,1,1,47,38,9,0,54,0,0,1,Andreas Seppi,Federer,2012,5,2
+2012-05-13,Rome Masters,Clay,R16,2,47,6-2 5-7 6-1,157,12,1,76,39,37,2,108,0,0,1,Juan Carlos Ferrero,Federer,2012,5,3
+2012-05-13,Rome Masters,Clay,R32,2,38,6-3 6-4,99,2,0,54,33,21,1,70,0,0,1,Carlos Berlocq,Federer,2012,5,2
+2012-05-06,Madrid Masters,Clay,F,3,7,3-6 7-5 7-5,204,13,2,104,68,36,10,158,0,0,1,Tomas Berdych,Federer,2012,5,3
+2012-05-06,Madrid Masters,Clay,SF,3,8,6-2 6-3,101,8,3,51,36,15,5,67,0,0,1,Janko Tipsarevic,Federer,2012,5,2
+2012-05-06,Madrid Masters,Clay,QF,3,6,6-4 6-4,129,7,0,46,36,10,3,82,0,0,1,David Ferrer,Federer,2012,5,2
+2012-05-06,Madrid Masters,Clay,R16,3,18,6-3 6-2,97,10,0,54,38,16,2,58,0,0,1,Richard Gasquet,Federer,2012,5,2
+2012-05-06,Madrid Masters,Clay,R32,3,23,4-6 7-5 7-6(4),202,7,2,111,71,40,21,134,0,0,1,Milos Raonic,Federer,2012,5,3
+2012-03-21,Miami Masters,Hard,R32,3,34,7-6(4) 1-6 6-4,169,11,1,75,44,31,12,121,0,0,0,Andy Roddick,Andy Roddick,2012,3,3
+2012-03-21,Miami Masters,Hard,R64,3,73,6-2 7-6(3),122,5,1,53,34,19,4,84,0,0,1,Ryan Harrison,Federer,2012,3,2
+2012-03-08,Indian Wells Masters,Hard,F,3,11,7-6(7) 6-3,127,7,2,56,35,21,4,82,0,0,1,John Isner,Federer,2012,3,2
+2012-03-08,Indian Wells Masters,Hard,SF,3,2,6-3 6-4,112,6,2,56,36,20,0,92,0,0,1,Rafael Nadal,Federer,2012,3,2
+2012-03-08,Indian Wells Masters,Hard,QF,3,9,6-3 6-2,99,13,0,62,35,27,0,70,0,0,1,Juan Martin Del Potro,Federer,2012,3,2
+2012-03-08,Indian Wells Masters,Hard,R16,3,50,3-6 6-3 6-4,156,8,1,73,49,24,6,101,0,0,1,Thomaz Bellucci,Federer,2012,3,3
+2012-03-08,Indian Wells Masters,Hard,R32,3,27,6-7(4) 6-2 6-4,184,10,6,88,51,37,10,128,0,0,1,Milos Raonic,Federer,2012,3,3
+2012-03-08,Indian Wells Masters,Hard,R64,3,185,6-4 6-1,100,8,1,46,28,18,1,57,0,0,1,Denis Kudla,Federer,2012,3,2
+2012-02-27,Dubai,Hard,F,3,4,7-5 6-4,130,4,2,64,32,32,7,97,0,0,1,Andy Murray,Federer,2012,2,2
+2012-02-27,Dubai,Hard,SF,3,10,7-6(5) 7-6(6),163,11,4,74,45,29,11,120,0,0,1,Juan Martin Del Potro,Federer,2012,2,2
+2012-02-27,Dubai,Hard,QF,3,34,6-3 6-4,120,5,0,54,29,25,6,70,0,0,1,Mikhail Youzhny,Federer,2012,2,2
+2012-02-27,Dubai,Hard,R16,3,15,7-5 6-3,119,12,1,53,37,16,8,76,0,0,1,Feliciano Lopez,Federer,2012,2,2
+2012-02-27,Dubai,Hard,R32,3,40,6-0 7-6(6),113,7,1,57,26,31,4,67,0,0,1,Michael Llodra,Federer,2012,2,2
+2012-02-13,Rotterdam,Hard,F,3,10,6-1 6-4,115,5,3,69,34,35,6,86,0,0,1,Juan Martin Del Potro,Federer,2012,2,2
+2012-02-13,Rotterdam,Hard,SF,3,49,4-6 6-3 6-4,194,7,1,92,57,35,2,136,0,0,1,Nikolay Davydenko,Federer,2012,2,3
+2012-02-13,Rotterdam,Hard,QF,3,46,7-5 7-6(2),156,8,1,68,42,26,4,91,0,0,1,Jarkko Nieminen,Federer,2012,2,2
+2012-02-13,Rotterdam,Hard,R16,3,31,W/O,,,,,,,,,0,1,1,Mikhail Youzhny,,2012,2,1
+2012-02-13,Rotterdam,Hard,R32,3,83,6-4 6-4,110,3,1,53,34,19,3,67,0,0,1,Nicolas Mahut,Federer,2012,2,2
+2012-02-10,Davis Cup WG R1: SUI vs USA,Clay,RR,3,17,4-6 6-3 7-6(4) 6-2,,,,,,,,,0,0,0,John Isner,John Isner,2012,2,4
+2012-01-16,Australian Open,Hard,SF,3,2,6-7(5) 6-2 7-6(5) 6-4,276,11,5,135,86,49,4,222,0,0,0,Rafael Nadal,Rafael Nadal,2012,1,4
+2012-01-16,Australian Open,Hard,QF,3,11,6-4 6-3 6-2,164,4,1,77,44,33,5,119,0,0,1,Juan Martin Del Potro,Federer,2012,1,3
+2012-01-16,Australian Open,Hard,R16,3,38,6-4 6-2 6-2,171,13,3,76,44,32,0,104,0,0,1,Bernard Tomic,Federer,2012,1,3
+2012-01-16,Australian Open,Hard,R32,3,57,7-6(6) 7-5 6-3,218,9,0,99,61,38,15,137,0,0,1,Ivo Karlovic,Federer,2012,1,3
+2012-01-16,Australian Open,Hard,R64,3,93,W/O,,,,,,,,,0,1,1,Andreas Beck,,2012,1,1
+2012-01-16,Australian Open,Hard,R128,3,172,7-5 6-2 6-2,176,14,2,87,56,31,4,98,0,0,1,Alexander Kudryavtsev,Federer,2012,1,3
+2012-01-02,Doha,Hard,SF,3,6,W/O,,,,,,,,,0,1,0,Jo Wilfried Tsonga,,2012,1,1
+2012-01-02,Doha,Hard,QF,3,38,6-3 5-7 6-4,173,12,2,95,66,29,6,98,0,0,1,Andreas Seppi,Federer,2012,1,3
+2012-01-02,Doha,Hard,R16,3,116,6-2 6-3,99,2,0,49,32,17,5,61,0,0,1,Grega Zemlja,Federer,2012,1,2
+2012-01-02,Doha,Hard,R32,3,41,6-2 6-2,86,4,0,41,35,6,2,54,0,0,1,Nikolay Davydenko,Federer,2012,1,2
+2011-11-20,Tour Finals,Hard,F,4,6,6-3 6-7(6) 6-3,196,11,2,98,54,44,11,139,0,0,1,Jo Wilfried Tsonga,Federer,2011,11,3
+2011-11-20,Tour Finals,Hard,SF,4,5,7-5 6-3,129,6,0,59,37,22,1,86,0,0,1,David Ferrer,Federer,2011,11,2
+2011-11-20,Tour Finals,Hard,RR,4,2,6-3 6-0,81,6,1,40,27,13,1,61,0,0,1,Rafael Nadal,Federer,2011,11,2
+2011-11-20,Tour Finals,Hard,RR,4,8,6-1 3-6 6-3,166,7,0,83,49,34,10,108,0,0,1,Mardy Fish,Federer,2011,11,3
+2011-11-20,Tour Finals,Hard,RR,4,6,6-2 2-6 6-4,134,3,1,73,48,25,6,89,0,0,1,Jo Wilfried Tsonga,Federer,2011,11,3
+2011-11-07,Paris Masters,Hard,F,4,8,6-1 7-6(3),131,4,1,70,43,27,7,86,0,0,1,Jo Wilfried Tsonga,Federer,2011,11,2
+2011-11-07,Paris Masters,Hard,SF,4,7,6-4 6-3,113,5,3,46,32,14,10,80,0,0,1,Tomas Berdych,Federer,2011,11,2
+2011-11-07,Paris Masters,Hard,QF,4,34,6-3 7-5,131,7,0,70,43,27,4,85,0,0,1,Juan Monaco,Federer,2011,11,2
+2011-11-07,Paris Masters,Hard,R16,4,20,6-2 6-4,99,3,1,44,33,11,2,66,0,0,1,Richard Gasquet,Federer,2011,11,2
+2011-11-07,Paris Masters,Hard,R32,4,85,6-2 6-3,83,4,0,40,26,14,1,56,0,0,1,Adrian Mannarino,Federer,2011,11,2
+2011-10-31,Basel,Hard,F,4,32,6-1 6-3,104,5,0,39,25,14,0,72,0,0,1,Kei Nishikori,Federer,2011,10,2
+2011-10-31,Basel,Hard,SF,4,19,7-6(5) 6-2,129,3,3,62,37,25,3,88,0,0,1,Stan Wawrinka,Federer,2011,10,2
+2011-10-31,Basel,Hard,QF,4,15,6-3 6-2,89,5,1,47,25,22,3,64,0,0,1,Andy Roddick,Federer,2011,10,2
+2011-10-31,Basel,Hard,R16,4,66,6-1 4-6 6-3,160,10,4,78,42,36,2,95,0,0,1,Jarkko Nieminen,Federer,2011,10,3
+2011-10-31,Basel,Hard,R32,4,54,7-6(3) 6-4,130,4,5,65,43,22,7,79,0,0,1,Potito Starace,Federer,2011,10,2
+2011-09-16,Davis Cup WG PO: AUS vs SUI,Grass,RR,3,199,5-7 7-6(5) 6-2 6-3,,,,,,,,,0,0,1,Lleyton Hewitt,Federer,2011,9,4
+2011-09-16,Davis Cup WG PO: AUS vs SUI,Grass,RR,3,59,6-2 7-5 3-6 6-3,,,,,,,,,0,0,1,Bernard Tomic,Federer,2011,9,4
+2011-08-29,US Open,Hard,SF,3,1,6-7(7) 4-6 6-3 6-2 7-5,304,11,4,164,101,63,8,231,0,0,0,Novak Djokovic,Novak Djokovic,2011,8,5
+2011-08-29,US Open,Hard,QF,3,11,6-4 6-3 6-3,171,5,2,86,61,25,5,113,0,0,1,Jo Wilfried Tsonga,Federer,2011,8,3
+2011-08-29,US Open,Hard,R16,3,36,6-1 6-2 6-0,127,14,1,59,39,20,1,82,0,0,1,Juan Monaco,Federer,2011,8,3
+2011-08-29,US Open,Hard,R32,3,28,6-3 4-6 6-4 6-2,227,6,3,108,63,45,12,160,0,0,1,Marin Cilic,Federer,2011,8,4
+2011-08-29,US Open,Hard,R64,3,93,6-3 6-2 6-2,131,6,1,60,43,17,0,77,0,0,1,Dudi Sela,Federer,2011,8,3
+2011-08-29,US Open,Hard,R128,3,54,6-4 6-3 6-2,181,5,3,83,51,32,2,106,0,0,1,Santiago Giraldo,Federer,2011,8,3
+2011-08-14,Cincinnati Masters,Hard,QF,3,9,6-2 7-6(3),138,11,2,81,53,28,10,92,0,0,0,Tomas Berdych,Tomas Berdych,2011,8,2
+2011-08-14,Cincinnati Masters,Hard,R16,3,84,6-4 6-1,100,4,1,41,22,19,4,55,0,0,1,James Blake,Federer,2011,8,2
+2011-08-14,Cincinnati Masters,Hard,R32,3,19,6-3 7-5,138,12,1,61,46,15,7,92,0,0,1,Juan Martin Del Potro,Federer,2011,8,2
+2011-08-08,Canada Masters,Hard,R16,3,16,7-6(3) 4-6 6-1,184,10,2,93,58,35,7,134,0,0,0,Jo Wilfried Tsonga,Jo Wilfried Tsonga,2011,8,3
+2011-08-08,Canada Masters,Hard,R32,3,155,7-5 6-3,116,4,0,52,30,22,8,78,0,0,1,Vasek Pospisil,Federer,2011,8,2
+2011-07-08,Davis Cup G1 R2: SUI vs POR,Hard,RR,3,93,5-7 6-3 6-4 6-2,,,,,,,,,0,0,1,Rui Machado,Federer,2011,7,4
+2011-06-20,Wimbledon,Grass,QF,3,19,3-6 6-7(3) 6-4 6-4 6-4,282,17,1,137,103,34,18,188,0,0,0,Jo Wilfried Tsonga,Jo Wilfried Tsonga,2011,6,5
+2011-06-20,Wimbledon,Grass,R16,3,17,6-7(5) 6-3 6-3 6-3,254,14,1,114,71,43,6,182,0,0,1,Mikhail Youzhny,Federer,2011,6,4
+2011-06-20,Wimbledon,Grass,R32,3,23,6-4 6-2 6-4,174,14,0,89,63,26,5,106,0,0,1,David Nalbandian,Federer,2011,6,3
+2011-06-20,Wimbledon,Grass,R64,3,55,6-2 6-3 6-2,139,11,0,64,41,23,0,88,0,0,1,Adrian Mannarino,Federer,2011,6,3
+2011-06-20,Wimbledon,Grass,R128,3,61,7-6(2) 6-4 6-2,173,12,1,80,57,23,4,102,0,0,1,Mikhail Kukushkin,Federer,2011,6,3
+2011-05-22,Roland Garros,Clay,F,3,1,7-5 7-6(3) 5-7 6-1,273,11,1,126,80,46,4,220,0,0,0,Rafael Nadal,Rafael Nadal,2011,5,4
+2011-05-22,Roland Garros,Clay,SF,3,2,7-6(5) 6-3 3-6 7-6(5),309,18,2,141,91,50,7,219,0,0,1,Novak Djokovic,Federer,2011,5,4
+2011-05-22,Roland Garros,Clay,QF,3,9,6-4 6-3 7-6(3),221,4,3,88,47,41,4,154,0,0,1,Gael Monfils,Federer,2011,5,3
+2011-05-22,Roland Garros,Clay,R16,3,14,6-3 6-2 7-5,160,8,2,77,49,28,5,106,0,0,1,Stan Wawrinka,Federer,2011,5,3
+2011-05-22,Roland Garros,Clay,R32,3,32,6-1 6-4 6-3,147,10,2,76,51,25,1,90,0,0,1,Janko Tipsarevic,Federer,2011,5,3
+2011-05-22,Roland Garros,Clay,R64,3,181,6-3 6-0 6-2,136,7,0,63,44,19,0,84,0,0,1,Maxime Teixeira,Federer,2011,5,3
+2011-05-22,Roland Garros,Clay,R128,3,41,6-3 6-4 7-6(3),188,12,0,89,56,33,7,119,0,0,1,Feliciano Lopez,Federer,2011,5,3
+2011-05-08,Rome Masters,Clay,R16,3,16,4-6 7-6(2) 7-6(4),199,8,2,93,59,34,6,140,0,0,0,Richard Gasquet,Richard Gasquet,2011,5,3
+2011-05-08,Rome Masters,Clay,R32,3,18,6-4 6-2,119,2,0,66,43,23,3,83,0,0,1,Jo Wilfried Tsonga,Federer,2011,5,2
+2011-05-01,Madrid Masters,Clay,SF,3,1,5-7 6-1 6-3,204,0,1,103,63,40,1,156,0,0,0,Rafael Nadal,Rafael Nadal,2011,5,3
+2011-05-01,Madrid Masters,Clay,QF,3,5,7-6(2) 6-4,150,8,2,73,44,29,8,103,0,0,1,Robin Soderling,Federer,2011,5,2
+2011-05-01,Madrid Masters,Clay,R16,3,49,6-4 6-3,107,5,0,52,32,20,6,71,0,0,1,Xavier Malisse,Federer,2011,5,2
+2011-05-01,Madrid Masters,Clay,R32,3,39,7-6(13) 6-7(1) 7-6(7),266,25,3,136,93,43,23,176,0,0,1,Feliciano Lopez,Federer,2011,5,3
+2011-04-10,Monte Carlo Masters,Clay,QF,3,9,6-4 6-4,140,2,0,66,44,22,2,104,0,0,0,Jurgen Melzer,Jurgen Melzer,2011,4,2
+2011-04-10,Monte Carlo Masters,Clay,R16,3,22,6-4 6-3,106,0,0,54,38,16,3,72,0,0,1,Marin Cilic,Federer,2011,4,2
+2011-04-10,Monte Carlo Masters,Clay,R32,3,32,6-2 6-1,87,5,2,46,33,13,3,50,0,0,1,Philipp Kohlschreiber,Federer,2011,4,2
+2011-03-23,Miami Masters,Hard,SF,3,1,6-3 6-2,103,6,1,58,35,23,0,79,0,0,0,Rafael Nadal,Rafael Nadal,2011,3,2
+2011-03-23,Miami Masters,Hard,QF,3,27,3-0 RET,14,0,0,5,3,2,0,11,1,0,1,Gilles Simon,Federer,2011,3,2
+2011-03-23,Miami Masters,Hard,R16,3,89,6-3 6-1,93,6,1,37,25,12,1,53,0,0,1,Olivier Rochus,Federer,2011,3,2
+2011-03-23,Miami Masters,Hard,R32,3,35,7-6(4) 6-4,145,3,2,64,32,32,2,104,0,0,1,Juan Monaco,Federer,2011,3,2
+2011-03-23,Miami Masters,Hard,R64,3,68,6-3 6-3,91,7,1,47,33,14,4,62,0,0,1,Radek Stepanek,Federer,2011,3,2
+2011-03-10,Indian Wells Masters,Hard,SF,2,3,6-3 3-6 6-2,170,1,2,85,48,37,3,127,0,0,0,Novak Djokovic,Novak Djokovic,2011,3,3
+2011-03-10,Indian Wells Masters,Hard,QF,2,14,6-3 6-4,102,2,2,52,29,23,0,64,0,0,1,Stan Wawrinka,Federer,2011,3,2
+2011-03-10,Indian Wells Masters,Hard,R16,2,152,7-6(4) 6-3,133,10,3,68,42,26,4,85,0,0,1,Ryan Harrison,Federer,2011,3,2
+2011-03-10,Indian Wells Masters,Hard,R32,2,32,6-0 6-2,91,2,0,42,25,17,0,58,0,0,1,Juan Ignacio Chela,Federer,2011,3,2
+2011-03-10,Indian Wells Masters,Hard,R64,2,96,7-5 7-6(4),143,4,4,69,37,32,2,95,0,0,1,Igor Andreev,Federer,2011,3,2
+2011-02-21,Dubai,Hard,F,2,3,6-3 6-3,107,5,1,58,35,23,5,72,0,0,0,Novak Djokovic,Novak Djokovic,2011,2,2
+2011-02-21,Dubai,Hard,SF,2,28,6-2 7-5,124,6,1,57,38,19,7,74,0,0,1,Richard Gasquet,Federer,2011,2,2
+2011-02-21,Dubai,Hard,QF,2,43,6-3 6-4,124,6,2,67,42,25,3,73,0,0,1,Sergiy Stakhovsky,Federer,2011,2,2
+2011-02-21,Dubai,Hard,R16,2,53,6-3 6-4,114,4,3,61,35,26,3,70,0,0,1,Marcel Granollers,Federer,2011,2,2
+2011-02-21,Dubai,Hard,R32,2,79,6-3 6-3,123,4,4,54,36,18,2,76,0,0,1,Somdev Devvarman,Federer,2011,2,2
+2011-01-17,Australian Open,Hard,SF,2,3,7-6(3) 7-5 6-4,230,5,0,105,62,43,6,180,0,0,0,Novak Djokovic,Novak Djokovic,2011,1,3
+2011-01-17,Australian Open,Hard,QF,2,19,6-1 6-3 6-3,156,5,0,75,58,17,1,107,0,0,1,Stan Wawrinka,Federer,2011,1,3
+2011-01-17,Australian Open,Hard,R16,2,52,6-3 3-6 6-3 6-2,214,11,1,105,73,32,7,145,0,0,1,Tommy Robredo,Federer,2011,1,4
+2011-01-17,Australian Open,Hard,R32,2,45,6-3 6-3 6-1,168,6,1,83,50,33,4,105,0,0,1,Xavier Malisse,Federer,2011,1,3
+2011-01-17,Australian Open,Hard,R64,2,34,6-2 6-3 4-6 4-6 6-3,281,11,1,126,77,49,8,193,0,0,1,Gilles Simon,Federer,2011,1,5
+2011-01-17,Australian Open,Hard,R128,2,97,6-1 6-1 6-3,142,8,1,59,38,21,3,84,0,0,1,Lukas Lacko,Federer,2011,1,3
+2011-01-03,Doha,Hard,F,2,22,6-3 6-4,112,5,1,51,34,17,5,80,0,0,1,Nikolay Davydenko,Federer,2011,1,2
+2011-01-03,Doha,Hard,SF,2,13,6-3 7-6(2),128,3,0,60,40,20,3,85,0,0,1,Jo Wilfried Tsonga,Federer,2011,1,2
+2011-01-03,Doha,Hard,QF,2,28,6-2 6-2,107,0,0,43,30,13,5,65,0,0,1,Viktor Troicki,Federer,2011,1,2
+2011-01-03,Doha,Hard,R16,2,117,7-6(5) 7-5,151,7,1,67,43,24,1,108,0,0,1,Marco Chiudinelli,Federer,2011,1,2
+2011-01-03,Doha,Hard,R32,2,168,7-6(3) 6-3,136,13,0,70,46,24,4,79,0,0,1,Thomas Schoorel,Federer,2011,1,2
+2010-11-21,Tour Finals,Hard,F,2,1,6-3 3-6 6-1,130,7,1,64,40,24,1,98,0,0,1,Rafael Nadal,Federer,2010,11,3
+2010-11-21,Tour Finals,Hard,SF,2,3,6-1 6-4,112,4,1,55,34,21,2,81,0,0,1,Novak Djokovic,Federer,2010,11,2
+2010-11-21,Tour Finals,Hard,RR,2,7,6-1 6-4,143,6,1,72,44,28,0,88,0,0,1,David Ferrer,Federer,2010,11,2
+2010-11-21,Tour Finals,Hard,RR,2,5,6-4 6-2,106,4,0,44,24,20,4,77,0,0,1,Andy Murray,Federer,2010,11,2
+2010-11-21,Tour Finals,Hard,RR,2,4,7-6(5) 6-3,138,11,3,68,43,25,12,88,0,0,1,Robin Soderling,Federer,2010,11,2
+2010-11-07,Paris Masters,Hard,SF,2,14,7-6(7) 6-7(1) 7-6(4),246,18,1,122,76,46,15,161,0,0,0,Gael Monfils,Gael Monfils,2010,11,3
+2010-11-07,Paris Masters,Hard,QF,2,12,6-1 7-6(4),116,18,2,55,38,17,3,70,0,0,1,Jurgen Melzer,Federer,2010,11,2
+2010-11-07,Paris Masters,Hard,R16,2,41,6-4 6-3,125,11,0,57,39,18,4,79,0,0,1,Radek Stepanek,Federer,2010,11,2
+2010-11-07,Paris Masters,Hard,R32,2,28,6-4 6-4,115,7,0,50,26,24,5,69,0,0,1,Richard Gasquet,Federer,2010,11,2
+2010-11-01,Basel,Hard,F,2,3,6-4 3-6 6-1,166,6,4,84,49,35,4,115,0,0,1,Novak Djokovic,Federer,2010,11,3
+2010-11-01,Basel,Hard,SF,2,9,6-2 6-4,107,13,1,53,31,22,4,70,0,0,1,Andy Roddick,Federer,2010,11,2
+2010-11-01,Basel,Hard,QF,2,38,6-3 6-2,92,7,1,45,28,17,2,60,0,0,1,Radek Stepanek,Federer,2010,11,2
+2010-11-01,Basel,Hard,R16,2,46,6-3 6-4,102,8,1,47,25,22,2,61,0,0,1,Janko Tipsarevic,Federer,2010,11,2
+2010-11-01,Basel,Hard,R32,2,48,6-4 5-2 RET,91,9,1,37,20,17,4,52,1,0,1,Alexandr Dolgopolov,Federer,2010,11,3
+2010-10-18,Stockholm,Hard,F,2,47,6-4 6-3,111,4,0,54,33,21,6,64,0,0,1,Florian Mayer,Federer,2010,10,2
+2010-10-18,Stockholm,Hard,SF,2,17,7-6(5) 6-2,125,10,0,60,41,19,5,78,0,0,1,Ivan Ljubicic,Federer,2010,10,2
+2010-10-18,Stockholm,Hard,QF,2,21,2-6 6-3 6-2,159,6,2,84,55,29,4,108,0,0,1,Stan Wawrinka,Federer,2010,10,3
+2010-10-18,Stockholm,Hard,R16,2,101,6-1 6-2,90,3,1,48,34,14,1,51,0,0,1,Taylor Dent,Federer,2010,10,2
+2010-10-10,Shanghai Masters,Hard,F,3,4,6-3 6-2,122,3,2,69,48,21,6,85,0,0,0,Andy Murray,Andy Murray,2010,10,2
+2010-10-10,Shanghai Masters,Hard,SF,3,2,7-5 6-4,148,7,3,73,45,28,4,102,0,0,1,Novak Djokovic,Federer,2010,10,2
+2010-10-10,Shanghai Masters,Hard,QF,3,5,6-1 6-1,84,5,2,39,24,15,3,54,0,0,1,Robin Soderling,Federer,2010,10,2
+2010-10-10,Shanghai Masters,Hard,R16,3,58,6-3 6-4,119,6,1,66,42,24,0,74,0,0,1,Andreas Seppi,Federer,2010,10,2
+2010-10-10,Shanghai Masters,Hard,R32,3,20,6-3 6-4,104,5,1,53,32,21,7,63,0,0,1,John Isner,Federer,2010,10,2
+2010-08-30,US Open,Hard,SF,2,3,5-7 6-1 5-7 6-2 7-5,311,12,5,160,84,76,4,224,0,0,0,Novak Djokovic,Novak Djokovic,2010,8,5
+2010-08-30,US Open,Hard,QF,2,5,6-4 6-4 7-5,184,18,2,91,58,33,2,116,0,0,1,Robin Soderling,Federer,2010,8,3
+2010-08-30,US Open,Hard,R16,2,15,6-3 7-6(4) 6-3,201,10,1,105,64,41,1,123,0,0,1,Jurgen Melzer,Federer,2010,8,3
+2010-08-30,US Open,Hard,R32,2,109,6-4 6-3 6-3,148,13,0,77,47,30,3,99,0,0,1,Paul Henri Mathieu,Federer,2010,8,3
+2010-08-30,US Open,Hard,R64,2,104,6-3 6-4 6-3,160,15,0,74,40,34,8,101,0,0,1,Andreas Beck,Federer,2010,8,3
+2010-08-30,US Open,Hard,R128,2,96,6-1 6-4 6-2,159,18,1,74,49,25,0,93,0,0,1,Brian Dabul,Federer,2010,8,3
+2010-08-15,Cincinnati Masters,Hard,F,2,36,6-7(5) 7-6(1) 6-4,238,11,1,110,70,40,17,160,0,0,1,Mardy Fish,Federer,2010,8,3
+2010-08-15,Cincinnati Masters,Hard,SF,2,20,6-4 6-3,109,7,2,51,30,21,3,71,0,0,1,Marcos Baghdatis,Federer,2010,8,2
+2010-08-15,Cincinnati Masters,Hard,QF,2,6,6-4 7-5,155,12,1,71,41,30,5,99,0,0,1,Nikolay Davydenko,Federer,2010,8,2
+2010-08-15,Cincinnati Masters,Hard,R16,2,33,W/O,,,,,,,,,0,1,1,Philipp Kohlschreiber,,2010,8,1
+2010-08-15,Cincinnati Masters,Hard,R32,2,53,5-2 RET,44,2,1,21,12,9,1,36,1,0,1,Denis Istomin,Federer,2010,8,2
+2010-08-09,Canada Masters,Hard,F,3,4,7-5 7-5,132,4,1,67,43,24,6,125,0,0,0,Andy Murray,Andy Murray,2010,8,2
+2010-08-09,Canada Masters,Hard,SF,3,2,6-1 3-6 7-5,213,11,2,95,55,40,1,142,0,0,1,Novak Djokovic,Federer,2010,8,3
+2010-08-09,Canada Masters,Hard,QF,3,7,6-3 5-7 7-6(5),222,8,2,109,65,44,8,161,0,0,1,Tomas Berdych,Federer,2010,8,3
+2010-08-09,Canada Masters,Hard,R16,3,35,7-6(2) 6-3,127,4,3,61,37,24,2,79,0,0,1,Michael Llodra,Federer,2010,8,2
+2010-08-09,Canada Masters,Hard,R32,3,50,7-6(7) 6-3,140,9,0,55,38,17,2,82,0,0,1,Juan Ignacio Chela,Federer,2010,8,2
+2010-06-21,Wimbledon,Grass,QF,2,13,6-4 3-6 6-1 6-4,245,14,1,121,82,39,12,155,0,0,0,Tomas Berdych,Tomas Berdych,2010,6,4
+2010-06-21,Wimbledon,Grass,R16,2,16,6-3 6-2 6-3,142,11,2,65,34,31,6,84,0,0,1,Jurgen Melzer,Federer,2010,6,3
+2010-06-21,Wimbledon,Grass,R32,2,86,6-2 6-4 6-2,144,7,3,68,44,24,5,95,0,0,1,Arnaud Clement,Federer,2010,6,3
+2010-06-21,Wimbledon,Grass,R64,2,152,6-3 6-7(4) 6-4 7-6(5),275,16,1,135,94,41,31,166,0,0,1,Ilija Bozoljac,Federer,2010,6,4
+2010-06-21,Wimbledon,Grass,R128,2,60,5-7 4-6 6-4 7-6(1) 6-0,328,21,7,151,89,62,8,198,0,0,1,Alejandro Falla,Federer,2010,6,5
+2010-06-07,Halle,Grass,F,2,32,3-6 7-6(4) 6-4,224,13,1,125,75,50,6,142,0,0,0,Lleyton Hewitt,Lleyton Hewitt,2010,6,3
+2010-06-07,Halle,Grass,SF,2,41,7-6(3) 6-4,146,6,1,75,45,30,7,92,0,0,1,Philipp Petzschner,Federer,2010,6,2
+2010-06-07,Halle,Grass,QF,2,35,7-5 6-3,111,12,1,55,39,16,3,68,0,0,1,Philipp Kohlschreiber,Federer,2010,6,2
+2010-06-07,Halle,Grass,R16,2,67,6-1 6-2,93,6,1,44,30,14,4,52,0,0,1,Alejandro Falla,Federer,2010,6,2
+2010-06-07,Halle,Grass,R32,2,65,6-4 6-4,119,11,2,57,43,14,3,64,0,0,1,Jarkko Nieminen,Federer,2010,6,2
+2010-05-24,Roland Garros,Clay,QF,1,7,3-6 6-3 7-5 6-4,245,12,2,119,76,43,14,150,0,0,0,Robin Soderling,Robin Soderling,2010,5,4
+2010-05-24,Roland Garros,Clay,R16,1,24,6-3 7-6(5) 6-2,176,7,0,89,59,30,5,116,0,0,1,Stan Wawrinka,Federer,2010,5,3
+2010-05-24,Roland Garros,Clay,R32,1,165,6-4 6-0 6-4,152,6,3,72,41,31,1,93,0,0,1,Julian Reister,Federer,2010,5,3
+2010-05-24,Roland Garros,Clay,R64,1,70,7-6(4) 6-2 6-4,198,6,0,104,65,39,3,120,0,0,1,Alejandro Falla,Federer,2010,5,3
+2010-05-24,Roland Garros,Clay,R128,1,71,6-4 6-1 6-2,150,7,0,69,49,20,6,108,0,0,1,Peter Luczak,Federer,2010,5,3
+2010-05-09,Madrid Masters,Clay,F,1,3,6-4 7-6(5),169,9,0,88,59,29,2,131,0,0,0,Rafael Nadal,Rafael Nadal,2010,5,2
+2010-05-09,Madrid Masters,Clay,SF,1,12,7-5 3-6 6-3,182,8,2,81,49,32,3,126,0,0,1,David Ferrer,Federer,2010,5,3
+2010-05-09,Madrid Masters,Clay,QF,1,34,3-6 6-1 6-4,159,6,2,80,56,24,6,113,0,0,1,Ernests Gulbis,Federer,2010,5,3
+2010-05-09,Madrid Masters,Clay,R16,1,23,6-3 6-1,105,6,1,41,26,15,3,69,0,0,1,Stan Wawrinka,Federer,2010,5,2
+2010-05-09,Madrid Masters,Clay,R32,1,46,6-2 7-6(4),130,8,1,57,39,18,9,82,0,0,1,Benjamin Becker,Federer,2010,5,2
+2010-05-03,Estoril,Clay,SF,1,34,6-2 7-6(5),126,2,1,65,43,22,0,82,0,0,0,Albert Montanes,Albert Montanes,2010,5,2
+2010-05-03,Estoril,Clay,QF,1,83,7-6(7) 6-2,138,4,0,62,37,25,3,97,0,0,1,Arnaud Clement,Federer,2010,5,2
+2010-05-03,Estoril,Clay,R16,1,138,6-3 6-4,134,3,0,56,27,29,4,83,0,0,1,Bjorn Phau,Federer,2010,5,2
+2010-04-25,Rome Masters,Clay,R32,1,40,2-6 6-1 7-5,183,2,3,94,53,41,8,123,0,0,0,Ernests Gulbis,Ernests Gulbis,2010,4,3
+2010-03-24,Miami Masters,Hard,R16,1,20,6-4 6-7(3) 7-6(6),238,5,2,103,57,46,6,172,0,0,0,Tomas Berdych,Tomas Berdych,2010,3,3
+2010-03-24,Miami Masters,Hard,R32,1,61,7-6(2) 7-6(3),157,6,2,79,46,33,4,92,0,0,1,Florent Serra,Federer,2010,3,2
+2010-03-24,Miami Masters,Hard,R64,1,102,6-3 6-3,98,10,0,48,31,17,1,67,0,0,1,Nicolas Lapentti,Federer,2010,3,2
+2010-03-11,Indian Wells Masters,Hard,R32,1,33,5-7 7-5 7-6(4),216,8,1,105,63,42,3,142,0,0,0,Marcos Baghdatis,Marcos Baghdatis,2010,3,3
+2010-03-11,Indian Wells Masters,Hard,R64,1,43,6-3 6-7(5) 6-1,196,10,2,95,52,43,1,117,0,0,1,Victor Hanescu,Federer,2010,3,3
+2010-01-18,Australian Open,Hard,F,1,4,6-3 6-4 7-6(11),216,11,2,112,75,37,10,161,0,0,1,Andy Murray,Federer,2010,1,3
+2010-01-18,Australian Open,Hard,SF,1,10,6-2 6-3 6-2,139,4,0,69,44,25,6,88,0,0,1,Jo Wilfried Tsonga,Federer,2010,1,3
+2010-01-18,Australian Open,Hard,QF,1,6,2-6 6-3 6-0 7-5,229,8,4,122,73,49,1,156,0,0,1,Nikolay Davydenko,Federer,2010,1,4
+2010-01-18,Australian Open,Hard,R16,1,22,6-2 6-3 6-4,179,7,0,79,50,29,5,115,0,0,1,Lleyton Hewitt,Federer,2010,1,3
+2010-01-18,Australian Open,Hard,R32,1,32,6-3 6-4 6-4,170,10,3,79,52,27,7,108,0,0,1,Albert Montanes,Federer,2010,1,3
+2010-01-18,Australian Open,Hard,R64,1,47,6-2 6-3 6-2,160,8,1,73,50,23,3,99,0,0,1,Victor Hanescu,Federer,2010,1,3
+2010-01-18,Australian Open,Hard,R128,1,37,4-6 6-2 7-6(2) 6-0,238,9,2,102,57,45,2,164,0,0,1,Igor Andreev,Federer,2010,1,4
+2010-01-04,Doha,Hard,SF,1,6,6-4 6-4,123,2,3,62,34,28,2,81,0,0,0,Nikolay Davydenko,Nikolay Davydenko,2010,1,2
+2010-01-04,Doha,Hard,QF,1,90,6-2 4-6 6-4,183,10,0,88,54,34,13,107,0,0,1,Ernests Gulbis,Federer,2010,1,3
+2010-01-04,Doha,Hard,R16,1,53,6-2 6-4,107,3,1,43,25,18,0,64,0,0,1,Evgeny Korolev,Federer,2010,1,2
+2010-01-04,Doha,Hard,R32,1,86,6-1 6-2,107,12,1,53,36,17,0,57,0,0,1,Christophe Rochus,Federer,2010,1,2
+2009-11-22,Tour Finals,Hard,SF,1,7,6-2 4-6 7-5,167,8,3,77,50,27,4,116,0,0,0,Nikolay Davydenko,Nikolay Davydenko,2009,11,3
+2009-11-22,Tour Finals,Hard,RR,1,8,4-6 7-5 6-1,170,4,2,81,56,25,1,120,0,0,1,Fernando Verdasco,Federer,2009,11,3
+2009-11-22,Tour Finals,Hard,RR,1,4,3-6 6-3 6-1,168,6,1,67,43,24,9,118,0,0,1,Andy Murray,Federer,2009,11,3
+2009-11-22,Tour Finals,Hard,RR,1,5,6-2 6-7(5) 6-3,179,6,4,82,51,31,11,127,0,0,0,Juan Martin Del Potro,Juan Martin Del Potro,2009,11,3
+2009-11-08,Paris Masters,Hard,R32,1,49,3-6 7-6(4) 6-4,187,14,0,96,70,26,7,115,0,0,0,Julien Benneteau,Julien Benneteau,2009,11,3
+2009-11-02,Basel,Hard,F,1,3,6-4 4-6 6-2,184,10,1,86,61,25,6,131,0,0,0,Novak Djokovic,Novak Djokovic,2009,11,3
+2009-11-02,Basel,Hard,SF,1,73,7-6(7) 6-3,130,4,0,63,44,19,1,85,0,0,1,Marco Chiudinelli,Federer,2009,11,2
+2009-11-02,Basel,Hard,QF,1,58,6-3 6-2,98,7,0,55,41,14,3,56,0,0,1,Evgeny Korolev,Federer,2009,11,2
+2009-11-02,Basel,Hard,R16,1,51,6-3 6-3,111,6,0,55,38,17,2,61,0,0,1,Andreas Seppi,Federer,2009,11,2
+2009-11-02,Basel,Hard,R32,1,61,6-3 6-4,114,12,1,55,37,18,1,67,0,0,1,Olivier Rochus,Federer,2009,11,2
+2009-09-18,Davis Cup WG PO: ITA vs SUI,Clay,RR,1,64,6-3 6-4 6-1,,,,,,,,,0,0,1,Simone Bolelli,Federer,2009,9,3
+2009-09-18,Davis Cup WG PO: ITA vs SUI,Clay,RR,1,90,6-3 6-0 6-4,,,,,,,,,0,0,1,Potito Starace,Federer,2009,9,3
+2009-08-31,US Open,Hard,F,1,6,3-6 7-6(5) 4-6 7-6(4) 6-2,352,14,11,181,93,88,8,246,0,0,0,Juan Martin Del Potro,Juan Martin Del Potro,2009,8,5
+2009-08-31,US Open,Hard,SF,1,4,7-6(3) 7-5 7-5,224,8,3,109,63,46,6,154,0,0,1,Novak Djokovic,Federer,2009,8,3
+2009-08-31,US Open,Hard,QF,1,12,6-0 6-3 6-7(6) 7-6(6),255,28,3,128,85,43,11,153,0,0,1,Robin Soderling,Federer,2009,8,4
+2009-08-31,US Open,Hard,R16,1,15,7-5 6-2 6-2,168,9,0,75,47,28,2,108,0,0,1,Tommy Robredo,Federer,2009,8,3
+2009-08-31,US Open,Hard,R32,1,32,4-6 6-3 7-5 6-4,244,15,4,134,75,59,5,153,0,0,1,Lleyton Hewitt,Federer,2009,8,4
+2009-08-31,US Open,Hard,R64,1,65,6-3 7-5 7-5,192,8,2,99,66,33,0,118,0,0,1,Simon Greul,Federer,2009,8,3
+2009-08-31,US Open,Hard,R128,1,1370,6-1 6-3 7-5,169,6,3,69,45,24,6,88,0,0,1,Devin Britton,Federer,2009,8,3
+2009-08-16,Cincinnati Masters,Hard,F,1,4,6-1 7-5,141,7,0,60,33,27,3,127,0,0,1,Novak Djokovic,Federer,2009,8,2
+2009-08-16,Cincinnati Masters,Hard,SF,1,2,6-2 7-6(8),132,4,1,62,35,27,10,90,0,0,1,Andy Murray,Federer,2009,8,2
+2009-08-16,Cincinnati Masters,Hard,QF,1,42,6-3 6-4,116,11,1,51,27,24,2,70,0,0,1,Lleyton Hewitt,Federer,2009,8,2
+2009-08-16,Cincinnati Masters,Hard,R16,1,19,3-6 6-3 6-4,161,6,2,85,53,32,3,102,0,0,1,David Ferrer,Federer,2009,8,3
+2009-08-16,Cincinnati Masters,Hard,R32,1,51,6-3 7-5,118,14,2,58,40,18,11,70,0,0,1,Jose Acasuso,Federer,2009,8,2
+2009-08-10,Canada Masters,Hard,QF,1,7,7-6(5) 1-6 7-6(3),197,9,2,101,58,43,11,139,0,0,0,Jo Wilfried Tsonga,Jo Wilfried Tsonga,2009,8,3
+2009-08-10,Canada Masters,Hard,R16,1,22,6-3 7-6(5),152,4,0,75,49,26,11,106,0,0,1,Stan Wawrinka,Federer,2009,8,2
+2009-08-10,Canada Masters,Hard,R32,1,487,7-6(3) 6-4,137,12,1,65,46,19,6,86,0,0,1,Frederic Niemeyer,Federer,2009,8,2
+2009-06-22,Wimbledon,Grass,F,2,6,5-7 7-6(6) 7-6(5) 3-6 16-14,436,50,4,197,127,70,27,256,0,0,1,Andy Roddick,Federer,2009,6,5
+2009-06-22,Wimbledon,Grass,SF,2,34,7-6(3) 7-5 6-3,193,11,1,83,62,21,11,123,0,0,1,Tommy Haas,Federer,2009,6,3
+2009-06-22,Wimbledon,Grass,QF,2,36,6-3 7-5 7-6(3),167,7,2,85,53,32,23,103,0,0,1,Ivo Karlovic,Federer,2009,6,3
+2009-06-22,Wimbledon,Grass,R16,2,12,6-4 7-6(5) 7-6(5),200,23,0,102,68,34,16,119,0,0,1,Robin Soderling,Federer,2009,6,3
+2009-06-22,Wimbledon,Grass,R32,2,32,6-3 6-2 6-7(5) 6-1,252,15,2,126,87,39,5,151,0,0,1,Philipp Kohlschreiber,Federer,2009,6,4
+2009-06-22,Wimbledon,Grass,R64,2,42,6-2 6-2 6-4,149,11,2,75,48,27,3,90,0,0,1,Guillermo Garcia Lopez,Federer,2009,6,3
+2009-06-22,Wimbledon,Grass,R128,2,65,7-5 6-3 6-2,168,10,1,75,53,22,3,105,0,0,1,Yen Hsun Lu,Federer,2009,6,3
+2009-05-25,Roland Garros,Clay,F,2,25,6-1 7-6(1) 6-4,170,16,2,79,52,27,2,115,0,0,1,Robin Soderling,Federer,2009,5,3
+2009-05-25,Roland Garros,Clay,SF,2,5,3-6 7-6(2) 2-6 6-1 6-4,310,5,1,142,92,50,16,209,0,0,1,Juan Martin Del Potro,Federer,2009,5,5
+2009-05-25,Roland Garros,Clay,QF,2,10,7-6(6) 6-2 6-4,199,8,1,94,54,40,7,130,0,0,1,Gael Monfils,Federer,2009,5,3
+2009-05-25,Roland Garros,Clay,R16,2,63,6-7(4) 5-7 6-4 6-0 6-2,275,16,1,130,82,48,11,187,0,0,1,Tommy Haas,Federer,2009,5,5
+2009-05-25,Roland Garros,Clay,R32,2,35,4-6 6-1 6-4 6-4,236,14,3,110,65,45,8,166,0,0,1,Paul Henri Mathieu,Federer,2009,5,4
+2009-05-25,Roland Garros,Clay,R64,2,45,7-6(8) 5-7 7-6(2) 6-2,296,11,0,142,101,41,5,205,0,0,1,Jose Acasuso,Federer,2009,5,4
+2009-05-25,Roland Garros,Clay,R128,2,98,6-4 6-3 6-2,162,10,0,75,51,24,0,103,0,0,1,Alberto Martin,Federer,2009,5,3
+2009-05-10,Madrid Masters,Clay,F,2,1,6-4 6-4,121,6,3,67,42,25,1,86,0,0,1,Rafael Nadal,Federer,2009,5,2
+2009-05-10,Madrid Masters,Clay,SF,2,5,6-3 6-4,119,8,1,60,39,21,3,81,0,0,1,Juan Martin Del Potro,Federer,2009,5,2
+2009-05-10,Madrid Masters,Clay,QF,2,6,7-5 6-7(5) 6-1,188,15,2,97,56,41,9,131,0,0,1,Andy Roddick,Federer,2009,5,3
+2009-05-10,Madrid Masters,Clay,R16,2,16,6-2 6-4,108,5,0,54,31,23,1,62,0,0,1,James Blake,Federer,2009,5,2
+2009-05-10,Madrid Masters,Clay,R32,2,23,6-1 7-5,111,11,1,54,27,27,4,70,0,0,1,Robin Soderling,Federer,2009,5,2
+2009-04-27,Rome Masters,Clay,SF,2,3,4-6 6-3 6-3,181,6,3,81,40,41,3,131,0,0,0,Novak Djokovic,Novak Djokovic,2009,4,3
+2009-04-27,Rome Masters,Clay,QF,2,76,7-6(3) 6-2,138,2,0,55,36,19,4,88,0,0,1,Mischa Zverev,Federer,2009,4,2
+2009-04-27,Rome Masters,Clay,R16,2,19,6-4 6-1,102,5,2,49,21,28,1,68,0,0,1,Radek Stepanek,Federer,2009,4,2
+2009-04-27,Rome Masters,Clay,R32,2,24,6-4 6-4,111,1,2,58,33,25,15,69,0,0,1,Ivo Karlovic,Federer,2009,4,2
+2009-04-12,Monte Carlo Masters,Clay,R16,2,16,6-4 7-5,162,2,1,85,44,41,0,110,0,0,0,Stan Wawrinka,Stan Wawrinka,2009,4,2
+2009-04-12,Monte Carlo Masters,Clay,R32,2,40,6-4 6-4,129,4,0,64,30,34,1,83,0,0,1,Andreas Seppi,Federer,2009,4,2
+2009-03-25,Miami Masters,Hard,SF,2,3,3-6 6-2 6-3,153,4,4,80,48,32,4,106,0,0,0,Novak Djokovic,Novak Djokovic,2009,3,3
+2009-03-25,Miami Masters,Hard,QF,2,6,6-3 4-6 6-4,181,7,5,80,51,29,6,123,0,0,1,Andy Roddick,Federer,2009,3,3
+2009-03-25,Miami Masters,Hard,R16,2,467,6-3 6-2,149,5,4,68,41,27,3,86,0,0,1,Taylor Dent,Federer,2009,3,2
+2009-03-25,Miami Masters,Hard,R32,2,29,6-4 6-1,103,5,1,44,35,9,5,71,0,0,1,Nicolas Kiefer,Federer,2009,3,2
+2009-03-25,Miami Masters,Hard,R64,2,107,6-3 6-2,120,4,1,58,35,23,5,65,0,0,1,Kevin Kim,Federer,2009,3,2
+2009-03-12,Indian Wells Masters,Hard,SF,2,4,6-3 4-6 6-1,156,3,0,74,42,32,6,108,0,0,0,Andy Murray,Andy Murray,2009,3,3
+2009-03-12,Indian Wells Masters,Hard,QF,2,10,6-3 7-6(5),144,4,3,67,42,25,2,92,0,0,1,Fernando Verdasco,Federer,2009,3,2
+2009-03-12,Indian Wells Masters,Hard,R16,2,17,6-3 5-7 6-2,172,3,3,86,44,42,6,110,0,0,1,Fernando Gonzalez,Federer,2009,3,3
+2009-03-12,Indian Wells Masters,Hard,R32,2,28,7-6(4) 6-3,120,1,2,59,36,23,13,74,0,0,1,Ivo Karlovic,Federer,2009,3,2
+2009-03-12,Indian Wells Masters,Hard,R64,2,52,7-6(4) 6-4,147,12,2,59,36,23,8,84,0,0,1,Marc Gicquel,Federer,2009,3,2
+2009-01-19,Australian Open,Hard,F,2,1,7-5 3-6 7-6(3) 3-6 6-2,347,11,6,172,89,83,4,259,0,0,0,Rafael Nadal,Rafael Nadal,2009,1,5
+2009-01-19,Australian Open,Hard,SF,2,9,6-2 7-5 7-5,190,16,0,96,63,33,8,125,0,0,1,Andy Roddick,Federer,2009,1,3
+2009-01-19,Australian Open,Hard,QF,2,6,6-3 6-0 6-0,119,12,0,53,37,16,5,80,0,0,1,Juan Martin Del Potro,Federer,2009,1,3
+2009-01-19,Australian Open,Hard,R16,2,21,4-6 6-7(4) 6-4 6-4 6-2,310,20,5,159,108,51,7,205,0,0,1,Tomas Berdych,Federer,2009,1,5
+2009-01-19,Australian Open,Hard,R32,2,27,6-3 6-2 7-6(5),177,9,1,89,54,35,14,110,0,0,1,Marat Safin,Federer,2009,1,3
+2009-01-19,Australian Open,Hard,R64,2,118,6-2 6-3 6-1,148,8,3,68,41,27,2,85,0,0,1,Evgeny Korolev,Federer,2009,1,3
+2009-01-19,Australian Open,Hard,R128,2,35,6-1 7-6(4) 7-5,224,9,5,115,76,39,1,280,0,0,1,Andreas Seppi,Federer,2009,1,3
+2009-01-05,Doha,Hard,SF,2,4,6-7(6) 6-2 6-2,182,7,4,95,61,34,7,125,0,0,0,Andy Murray,Andy Murray,2009,1,3
+2009-01-05,Doha,Hard,QF,2,28,6-2 7-6(6),134,4,0,60,42,18,1,86,0,0,1,Philipp Kohlschreiber,Federer,2009,1,2
+2009-01-05,Doha,Hard,R16,2,34,6-3 6-3,131,4,2,66,38,28,0,80,0,0,1,Andreas Seppi,Federer,2009,1,2
+2009-01-05,Doha,Hard,R32,2,71,6-2 6-2,88,5,1,39,25,14,4,49,0,0,1,Potito Starace,Federer,2009,1,2
+2008-11-09,Masters Cup,Hard,RR,2,9,4-6 6-4 6-3,192,3,2,91,47,44,7,128,0,0,0,Gilles Simon,Gilles Simon,2008,11,3
+2008-11-09,Masters Cup,Hard,RR,2,4,4-6 7-6(3) 7-5,243,11,3,131,68,63,7,181,0,0,0,Andy Murray,Andy Murray,2008,11,3
+2008-11-09,Masters Cup,Hard,RR,2,27,7-6(4) 6-4,151,6,1,74,47,27,4,101,0,0,1,Radek Stepanek,Federer,2008,11,2
+2008-10-26,Paris Masters,Hard,QF,2,11,W/O,,,,,,,,,0,1,0,James Blake,,2008,10,1
+2008-10-26,Paris Masters,Hard,R16,2,25,6-3 6-4,120,4,0,61,37,24,7,71,0,0,1,Marin Cilic,Federer,2008,10,2
+2008-10-26,Paris Masters,Hard,R32,2,18,6-4 7-6(7),128,10,0,60,42,18,5,75,0,0,1,Robin Soderling,Federer,2008,10,2
+2008-10-20,Basel,Hard,F,2,8,6-3 6-4,108,8,0,47,30,17,5,70,0,0,1,David Nalbandian,Federer,2008,10,2
+2008-10-20,Basel,Hard,SF,2,39,6-3 6-2,106,15,2,54,31,23,5,61,0,0,1,Feliciano Lopez,Federer,2008,10,2
+2008-10-20,Basel,Hard,QF,2,42,6-2 6-3,103,8,1,56,39,17,3,67,0,0,1,Simone Bolelli,Federer,2008,10,2
+2008-10-20,Basel,Hard,R16,2,29,7-6(6) 7-6(1),167,11,0,89,64,25,1,96,0,0,1,Jarkko Nieminen,Federer,2008,10,2
+2008-10-20,Basel,Hard,R32,2,86,6-3 6-7(6) 6-3,184,17,2,89,53,36,15,110,0,0,1,Bobby Reynolds,Federer,2008,10,3
+2008-10-12,Madrid Masters,Hard,SF,2,4,3-6 6-3 7-5,184,7,1,98,65,33,14,117,0,0,0,Andy Murray,Andy Murray,2008,10,3
+2008-10-12,Madrid Masters,Hard,QF,2,9,6-3 6-3,121,3,0,53,37,16,12,86,0,0,1,Juan Martin Del Potro,Federer,2008,10,2
+2008-10-12,Madrid Masters,Hard,R16,2,15,6-4 6-1,100,9,1,50,31,19,3,63,0,0,1,Jo Wilfried Tsonga,Federer,2008,10,2
+2008-10-12,Madrid Masters,Hard,R32,2,30,6-3 7-6(6),128,10,1,65,40,25,9,87,0,0,1,Radek Stepanek,Federer,2008,10,2
+2008-09-19,Davis Cup WG PO: SUI vs BEL,Hard,RR,2,95,7-6(1) 6-4 6-2,,,,,,,,,0,0,1,Kristof Vliegen,Federer,2008,9,3
+2008-08-25,US Open,Hard,F,2,6,6-2 7-5 6-2,162,3,0,81,47,34,3,111,0,0,1,Andy Murray,Federer,2008,8,3
+2008-08-25,US Open,Hard,SF,2,3,6-3 5-7 7-5 6-2,249,20,1,125,80,45,6,164,0,0,1,Novak Djokovic,Federer,2008,8,4
+2008-08-25,US Open,Hard,QF,2,130,7-6(5) 6-4 7-6(5),224,8,0,103,63,40,16,144,0,0,1,Gilles Muller,Federer,2008,8,3
+2008-08-25,US Open,Hard,R16,2,23,6-7(5) 7-6(5) 6-3 3-6 6-3,333,10,5,168,114,54,8,211,0,0,1,Igor Andreev,Federer,2008,8,5
+2008-08-25,US Open,Hard,R32,2,30,6-3 6-3 6-2,162,12,3,76,55,21,1,96,0,0,1,Radek Stepanek,Federer,2008,8,3
+2008-08-25,US Open,Hard,R64,2,137,6-3 7-5 6-4,220,19,2,95,61,34,2,134,0,0,1,Thiago Alves,Federer,2008,8,3
+2008-08-25,US Open,Hard,R128,2,118,6-3 6-0 6-3,151,14,1,76,57,19,1,82,0,0,1,Maximo Gonzalez,Federer,2008,8,3
+2008-08-11,Beijing Olympics,Hard,QF,1,7,6-4 7-6(2),154,3,2,89,48,41,2,91,0,0,0,James Blake,James Blake,2008,8,2
+2008-08-11,Beijing Olympics,Hard,R16,1,20,6-3 7-6(4),136,11,3,61,37,24,4,90,0,0,1,Tomas Berdych,Federer,2008,8,2
+2008-08-11,Beijing Olympics,Hard,R32,1,447,6-2 6-4,106,7,0,47,27,20,0,77,0,0,1,Rafael Arevalo,Federer,2008,8,2
+2008-08-11,Beijing Olympics,Hard,R64,1,29,6-4 6-2,98,5,0,52,32,20,3,66,0,0,1,Dmitry Tursunov,Federer,2008,8,2
+2008-07-28,Cincinnati Masters,Hard,R16,1,22,7-6(6) 4-6 7-6(5),207,6,0,97,66,31,22,130,0,0,0,Ivo Karlovic,Ivo Karlovic,2008,7,3
+2008-07-28,Cincinnati Masters,Hard,R32,1,64,6-7(2) 7-6(5) 6-0,224,21,2,94,60,34,7,133,0,0,1,Robby Ginepri,Federer,2008,7,3
+2008-07-21,Canada Masters,Hard,R32,1,22,2-6 7-5 6-4,177,6,1,91,48,43,0,122,0,0,0,Gilles Simon,Gilles Simon,2008,7,3
+2008-06-23,Wimbledon,Grass,F,1,2,6-4 6-4 6-7(5) 6-7(8) 9-7,413,25,2,195,127,68,6,288,0,0,0,Rafael Nadal,Rafael Nadal,2008,6,5
+2008-06-23,Wimbledon,Grass,SF,1,75,6-3 7-6(3) 6-4,183,15,0,90,60,30,13,103,0,0,1,Marat Safin,Federer,2008,6,3
+2008-06-23,Wimbledon,Grass,QF,1,43,6-1 7-5 6-4,166,15,0,71,49,22,9,102,0,0,1,Mario Ancic,Federer,2008,6,3
+2008-06-23,Wimbledon,Grass,R16,1,27,7-6(7) 6-2 6-4,185,21,3,98,60,38,8,110,0,0,1,Lleyton Hewitt,Federer,2008,6,3
+2008-06-23,Wimbledon,Grass,R32,1,53,6-3 6-3 6-1,150,10,1,68,49,19,5,82,0,0,1,Marc Gicquel,Federer,2008,6,3
+2008-06-23,Wimbledon,Grass,R64,1,41,6-3 6-4 7-6(3),210,15,0,96,58,38,6,121,0,0,1,Robin Soderling,Federer,2008,6,3
+2008-06-23,Wimbledon,Grass,R128,1,273,6-3 6-2 6-2,147,10,0,78,54,24,2,80,0,0,1,Dominik Hrbaty,Federer,2008,6,3
+2008-06-09,Halle,Grass,F,1,40,6-3 6-4,116,6,0,51,36,15,6,74,0,0,1,Philipp Kohlschreiber,Federer,2008,6,2
+2008-06-09,Halle,Grass,SF,1,38,6-1 6-4,99,7,1,59,37,22,4,65,0,0,1,Nicolas Kiefer,Federer,2008,6,2
+2008-06-09,Halle,Grass,QF,1,23,6-4 6-4,119,0,0,58,45,13,4,72,0,0,1,Marcos Baghdatis,Federer,2008,6,2
+2008-06-09,Halle,Grass,R16,1,342,7-5 6-3,126,5,0,56,43,13,2,70,0,0,1,Jan Vacek,Federer,2008,6,2
+2008-06-09,Halle,Grass,R32,1,83,6-4 6-2,106,11,1,48,37,11,2,62,0,0,1,Michael Berrer,Federer,2008,6,2
+2008-05-25,Roland Garros,Clay,F,1,2,6-1 6-3 6-0,144,2,0,77,53,24,0,108,0,0,0,Rafael Nadal,Rafael Nadal,2008,5,3
+2008-05-25,Roland Garros,Clay,SF,1,59,6-2 5-7 6-3 7-5,286,2,1,136,97,39,10,185,0,0,1,Gael Monfils,Federer,2008,5,4
+2008-05-25,Roland Garros,Clay,QF,1,25,2-6 6-2 6-3 6-4,196,11,0,96,62,34,3,121,0,0,1,Fernando Gonzalez,Federer,2008,5,4
+2008-05-25,Roland Garros,Clay,R16,1,55,6-4 7-5 7-5,216,6,3,98,52,46,5,146,0,0,1,Julien Benneteau,Federer,2008,5,3
+2008-05-25,Roland Garros,Clay,R32,1,46,6-3 6-4 6-2,146,8,1,71,45,26,2,96,0,0,1,Mario Ancic,Federer,2008,5,3
+2008-05-25,Roland Garros,Clay,R64,1,60,6-7(5) 6-1 6-0 6-4,245,13,1,110,76,34,2,145,0,0,1,Albert Montanes,Federer,2008,5,4
+2008-05-25,Roland Garros,Clay,R128,1,40,6-4 6-4 6-3,171,5,1,79,53,26,6,95,0,0,1,Sam Querrey,Federer,2008,5,3
+2008-05-11,Hamburg Masters,Clay,F,1,2,7-5 6-7(3) 6-3,219,7,0,118,72,46,3,172,0,0,0,Rafael Nadal,Rafael Nadal,2008,5,3
+2008-05-11,Hamburg Masters,Clay,SF,1,43,6-3 6-1,119,1,0,46,24,22,2,79,0,0,1,Andreas Seppi,Federer,2008,5,2
+2008-05-11,Hamburg Masters,Clay,QF,1,28,6-3 6-3,115,2,1,55,38,17,1,81,0,0,1,Fernando Verdasco,Federer,2008,5,2
+2008-05-11,Hamburg Masters,Clay,R16,1,48,6-3 6-2,104,6,0,48,25,23,6,64,0,0,1,Robin Soderling,Federer,2008,5,2
+2008-05-11,Hamburg Masters,Clay,R32,1,27,6-1 6-3,101,2,0,42,33,9,1,58,0,0,1,Jarkko Nieminen,Federer,2008,5,2
+2008-05-05,Rome Masters,Clay,QF,1,27,7-6(4) 7-6(7),170,7,1,76,48,28,8,115,0,0,0,Radek Stepanek,Radek Stepanek,2008,5,2
+2008-05-05,Rome Masters,Clay,R16,1,22,7-6(4) 6-3,137,2,0,55,32,23,12,93,0,0,1,Ivo Karlovic,Federer,2008,5,2
+2008-05-05,Rome Masters,Clay,R32,1,30,6-3 6-3,112,8,0,51,29,22,0,83,0,0,1,Guillermo Canas,Federer,2008,5,2
+2008-04-20,Monte Carlo Masters,Clay,F,1,2,7-5 7-5,138,5,0,75,47,28,1,103,0,0,0,Rafael Nadal,Rafael Nadal,2008,4,2
+2008-04-20,Monte Carlo Masters,Clay,SF,1,3,6-3 3-2 RET,104,1,0,42,22,20,2,72,1,0,1,Novak Djokovic,Federer,2008,4,3
+2008-04-20,Monte Carlo Masters,Clay,QF,1,7,5-7 6-2 6-2,181,9,2,88,46,42,2,128,0,0,1,David Nalbandian,Federer,2008,4,3
+2008-04-20,Monte Carlo Masters,Clay,R16,1,64,6-3 6-4,112,0,0,57,36,21,7,71,0,0,1,Gael Monfils,Federer,2008,4,2
+2008-04-20,Monte Carlo Masters,Clay,R32,1,137,6-1 3-6 7-6(1),193,5,3,92,57,35,2,124,0,0,1,Ruben Ramirez Hidalgo,Federer,2008,4,3
+2008-04-14,Estoril,Clay,F,1,4,7-6(5) 1-2 RET,111,5,0,58,36,22,3,79,1,0,1,Nikolay Davydenko,Federer,2008,4,3
+2008-04-14,Estoril,Clay,SF,1,104,2-6 7-5 6-1,154,10,0,73,51,22,3,93,0,0,1,Denis Gremelmayr,Federer,2008,4,3
+2008-04-14,Estoril,Clay,QF,1,146,6-4 6-1,94,5,1,50,35,15,0,94,0,0,1,Frederico Gil,Federer,2008,4,2
+2008-04-14,Estoril,Clay,R16,1,68,6-3 6-2,99,3,1,48,26,22,1,60,0,0,1,Victor Hanescu,Federer,2008,4,2
+2008-04-14,Estoril,Clay,R32,1,77,4-6 6-3 6-2,189,17,3,79,46,33,1,120,0,0,1,Olivier Rochus,Federer,2008,4,3
+2008-03-27,Miami Masters,Hard,QF,1,6,7-6(4) 4-6 6-3,186,7,1,85,54,31,17,115,0,0,0,Andy Roddick,Andy Roddick,2008,3,3
+2008-03-27,Miami Masters,Hard,R16,1,45,7-6(5) 6-2,118,12,4,55,39,16,5,75,0,0,1,Jose Acasuso,Federer,2008,3,2
+2008-03-27,Miami Masters,Hard,R32,1,39,6-4 3-0 RET,74,6,1,41,29,12,0,47,1,0,1,Robin Soderling,Federer,2008,3,3
+2008-03-27,Miami Masters,Hard,R64,1,65,6-3 6-4,119,2,1,67,46,21,8,67,0,0,1,Gael Monfils,Federer,2008,3,2
+2008-03-13,Indian Wells Masters,Hard,SF,1,98,6-3 6-2,103,2,0,53,28,25,7,64,0,0,0,Mardy Fish,Mardy Fish,2008,3,2
+2008-03-13,Indian Wells Masters,Hard,QF,1,36,W/O,,,,,,,,,0,1,1,Tommy Haas,,2008,3,1
+2008-03-13,Indian Wells Masters,Hard,R16,1,23,6-3 6-4,119,6,0,51,38,13,4,76,0,0,1,Ivan Ljubicic,Federer,2008,3,2
+2008-03-13,Indian Wells Masters,Hard,R32,1,44,6-1 6-1,82,9,1,32,24,8,0,53,0,0,1,Nicolas Mahut,Federer,2008,3,2
+2008-03-13,Indian Wells Masters,Hard,R64,1,62,6-3 6-2,105,6,0,48,29,19,2,66,0,0,1,Guillermo Garcia Lopez,Federer,2008,3,2
+2008-03-03,Dubai,Hard,R32,1,11,6-7(6) 6-3 6-4,184,6,2,88,58,30,10,115,0,0,0,Andy Murray,Andy Murray,2008,3,3
+2008-01-14,Australian Open,Hard,SF,1,3,7-5 6-3 7-6(5),222,10,2,109,68,41,13,146,0,0,0,Novak Djokovic,Novak Djokovic,2008,1,3
+2008-01-14,Australian Open,Hard,QF,1,15,7-5 7-6(5) 6-4,212,13,0,96,65,31,8,119,0,0,1,James Blake,Federer,2008,1,3
+2008-01-14,Australian Open,Hard,R16,1,13,6-4 7-6(7) 6-3,190,11,1,94,59,35,7,117,0,0,1,Tomas Berdych,Federer,2008,1,3
+2008-01-14,Australian Open,Hard,R32,1,49,6-7(5) 7-6(1) 5-7 6-1 10-8,374,39,1,167,107,60,12,265,0,0,1,Janko Tipsarevic,Federer,2008,1,5
+2008-01-14,Australian Open,Hard,R64,1,36,6-1 6-2 6-0,130,6,1,61,42,19,2,80,0,0,1,Fabrice Santoro,Federer,2008,1,3
+2008-01-14,Australian Open,Hard,R128,1,107,6-0 6-3 6-0,127,11,1,65,50,15,3,72,0,0,1,Diego Hartfield,Federer,2008,1,3
+2007-11-12,Masters Cup,Hard,F,1,6,6-2 6-3 6-2,155,9,2,73,48,25,1,99,0,0,1,David Ferrer,Federer,2007,11,3
+2007-11-12,Masters Cup,Hard,SF,1,2,6-4 6-1,87,11,0,48,39,9,1,59,0,0,1,Rafael Nadal,Federer,2007,11,2
+2007-11-12,Masters Cup,Hard,RR,1,5,6-4 6-2,101,7,0,47,39,8,7,61,0,0,1,Andy Roddick,Federer,2007,11,2
+2007-11-12,Masters Cup,Hard,RR,1,7,3-6 7-6(1) 7-5,201,5,1,92,64,28,4,129,0,0,0,Fernando Gonzalez,Fernando Gonzalez,2007,11,3
+2007-11-12,Masters Cup,Hard,RR,1,4,6-4 6-3,126,3,1,60,41,19,0,87,0,0,1,Nikolay Davydenko,Federer,2007,11,2
+2007-10-28,Paris Masters,Hard,R16,1,21,6-4 7-6(3),154,4,0,66,44,22,6,102,0,0,0,David Nalbandian,David Nalbandian,2007,10,2
+2007-10-28,Paris Masters,Hard,R32,1,24,6-3 4-6 6-3,166,6,0,74,41,33,16,104,0,0,1,Ivo Karlovic,Federer,2007,10,3
+2007-10-22,Basel,Hard,F,1,29,6-3 6-4,106,4,0,56,33,23,2,61,0,0,1,Jarkko Nieminen,Federer,2007,10,2
+2007-10-22,Basel,Hard,SF,1,25,7-6(6) 7-6(5),160,10,1,81,57,24,16,98,0,0,1,Ivo Karlovic,Federer,2007,10,2
+2007-10-22,Basel,Hard,QF,1,64,6-3 6-2,105,1,1,56,33,23,4,71,0,0,1,Nicolas Kiefer,Federer,2007,10,2
+2007-10-22,Basel,Hard,R16,1,49,6-1 6-4,97,10,1,51,34,17,2,58,0,0,1,Juan Martin Del Potro,Federer,2007,10,2
+2007-10-22,Basel,Hard,R32,1,56,6-1 3-6 6-3,144,11,0,69,43,26,5,88,0,0,1,Michael Berrer,Federer,2007,10,3
+2007-10-15,Madrid Masters,Hard,F,1,25,1-6 6-3 6-3,156,8,1,81,48,33,4,109,0,0,0,David Nalbandian,David Nalbandian,2007,10,3
+2007-10-15,Madrid Masters,Hard,SF,1,112,6-4 6-4,123,10,0,51,34,17,4,84,0,0,1,Nicolas Kiefer,Federer,2007,10,2
+2007-10-15,Madrid Masters,Hard,QF,1,42,7-6(4) 6-4,150,8,1,56,33,23,11,96,0,0,1,Feliciano Lopez,Federer,2007,10,2
+2007-10-15,Madrid Masters,Hard,R16,1,14,6-0 6-3,91,4,1,41,26,15,5,53,0,0,1,Guillermo Canas,Federer,2007,10,2
+2007-10-15,Madrid Masters,Hard,R32,1,72,7-6(2) 6-4,143,11,1,70,44,26,1,86,0,0,1,Robby Ginepri,Federer,2007,10,2
+2007-09-21,Davis Cup WG PO: CZE vs SUI,Carpet,RR,1,34,6-3 6-2 6-7(4) 7-6(5),,,,,,,,,0,0,1,Radek Stepanek,Federer,2007,9,4
+2007-09-21,Davis Cup WG PO: CZE vs SUI,Carpet,RR,1,10,7-6(5) 7-6(10) 6-3,,,,,,,,,0,0,1,Tomas Berdych,Federer,2007,9,3
+2007-08-27,US Open,Hard,F,1,3,7-6(4) 7-6(2) 6-4,222,11,4,106,66,40,5,144,0,0,1,Novak Djokovic,Federer,2007,8,3
+2007-08-27,US Open,Hard,SF,1,4,7-5 6-1 7-5,210,10,3,108,59,49,1,138,0,0,1,Nikolay Davydenko,Federer,2007,8,3
+2007-08-27,US Open,Hard,QF,1,5,7-6(5) 7-6(4) 6-2,204,15,0,101,62,39,14,121,0,0,1,Andy Roddick,Federer,2007,8,3
+2007-08-27,US Open,Hard,R16,1,60,3-6 6-4 6-1 6-4,199,11,0,85,62,23,13,118,0,0,1,Feliciano Lopez,Federer,2007,8,4
+2007-08-27,US Open,Hard,R32,1,184,6-7(4) 6-2 6-4 6-2,228,10,1,107,71,36,17,135,0,0,1,John Isner,Federer,2007,8,4
+2007-08-27,US Open,Hard,R64,1,120,6-1 6-4 6-4,156,5,1,72,47,25,5,88,0,0,1,Paul Capdeville,Federer,2007,8,3
+2007-08-27,US Open,Hard,R128,1,319,6-3 6-2 6-4,154,13,2,73,46,27,9,90,0,0,1,Scoville Jenkins,Federer,2007,8,3
+2007-08-13,Cincinnati Masters,Hard,F,1,8,6-1 6-4,113,9,2,66,40,26,3,65,0,0,1,James Blake,Federer,2007,8,2
+2007-08-13,Cincinnati Masters,Hard,SF,1,20,6-3 6-7(7) 7-6(1),225,18,2,112,70,42,5,155,0,0,1,Lleyton Hewitt,Federer,2007,8,3
+2007-08-13,Cincinnati Masters,Hard,QF,1,32,6-3 3-6 6-2,139,9,2,61,46,15,5,82,0,0,1,Nicolas Almagro,Federer,2007,8,3
+2007-08-13,Cincinnati Masters,Hard,R16,1,18,7-6(5) 7-5,172,8,1,86,50,36,8,102,0,0,1,Marcos Baghdatis,Federer,2007,8,2
+2007-08-13,Cincinnati Masters,Hard,R32,1,68,6-3 6-3,123,3,1,51,28,23,5,77,0,0,1,Julien Benneteau,Federer,2007,8,2
+2007-08-05,Canada Masters,Hard,F,1,4,7-6(2) 2-6 7-6(2),198,15,1,102,69,33,6,133,0,0,0,Novak Djokovic,Novak Djokovic,2007,8,3
+2007-08-05,Canada Masters,Hard,SF,1,60,7-6(6) 6-2,129,13,0,63,38,25,3,82,0,0,1,Radek Stepanek,Federer,2007,8,2
+2007-08-05,Canada Masters,Hard,QF,1,21,6-3 6-4,131,13,2,70,40,30,5,86,0,0,1,Lleyton Hewitt,Federer,2007,8,2
+2007-08-05,Canada Masters,Hard,R16,1,139,6-1 6-1,83,3,2,35,25,10,3,45,0,0,1,Fabio Fognini,Federer,2007,8,2
+2007-08-05,Canada Masters,Hard,R32,1,34,7-6(2) 7-6(3),139,3,0,65,55,10,16,83,0,0,1,Ivo Karlovic,Federer,2007,8,2
+2007-06-25,Wimbledon,Grass,F,1,2,7-6(7) 4-6 7-6(3) 2-6 6-2,323,24,3,156,111,45,1,225,0,0,1,Rafael Nadal,Federer,2007,6,5
+2007-06-25,Wimbledon,Grass,SF,1,14,7-5 6-3 6-4,179,20,0,90,64,26,4,104,0,0,1,Richard Gasquet,Federer,2007,6,3
+2007-06-25,Wimbledon,Grass,QF,1,18,7-6(2) 3-6 6-1 6-3,233,15,1,113,67,46,3,136,0,0,1,Juan Carlos Ferrero,Federer,2007,6,4
+2007-06-25,Wimbledon,Grass,R16,1,10,W/O,,,,,,,,,0,1,1,Tommy Haas,,2007,6,1
+2007-06-25,Wimbledon,Grass,R32,1,24,6-1 6-4 7-6(4),175,12,1,86,56,30,5,99,0,0,1,Marat Safin,Federer,2007,6,3
+2007-06-25,Wimbledon,Grass,R64,1,56,6-2 7-5 6-1,153,5,1,77,45,32,1,93,0,0,1,Juan Martin Del Potro,Federer,2007,6,3
+2007-06-25,Wimbledon,Grass,R128,1,86,6-3 6-2 6-4,164,9,0,78,48,30,2,92,0,0,1,Teymuraz Gabashvili,Federer,2007,6,3
+2007-05-28,Roland Garros,Clay,F,1,2,6-3 4-6 6-3 6-4,255,9,1,118,76,42,2,190,0,0,0,Rafael Nadal,Rafael Nadal,2007,5,4
+2007-05-28,Roland Garros,Clay,SF,1,4,7-5 7-6(5) 7-6(7),278,10,3,138,71,67,2,181,0,0,1,Nikolay Davydenko,Federer,2007,5,3
+2007-05-28,Roland Garros,Clay,QF,1,9,7-5 1-6 6-1 6-2,189,8,0,87,51,36,2,122,0,0,1,Tommy Robredo,Federer,2007,5,4
+2007-05-28,Roland Garros,Clay,R16,1,15,7-6(3) 6-4 6-4,210,1,2,100,50,50,3,145,0,0,1,Mikhail Youzhny,Federer,2007,5,3
+2007-05-28,Roland Garros,Clay,R32,1,57,6-2 6-3 6-0,145,5,2,76,47,29,1,91,0,0,1,Potito Starace,Federer,2007,5,3
+2007-05-28,Roland Garros,Clay,R64,1,168,6-1 6-2 7-6(8),212,6,0,94,64,30,3,111,0,0,1,Thierry Ascione,Federer,2007,5,3
+2007-05-28,Roland Garros,Clay,R128,1,68,6-4 6-2 6-4,168,6,0,75,53,22,1,105,0,0,1,Michael Russell,Federer,2007,5,3
+2007-05-14,Hamburg Masters,Clay,F,1,2,2-6 6-2 6-0,152,6,0,73,38,35,1,115,0,0,1,Rafael Nadal,Federer,2007,5,3
+2007-05-14,Hamburg Masters,Clay,SF,1,36,4-6 6-4 6-2,202,6,3,106,68,38,3,127,0,0,1,Carlos Moya,Federer,2007,5,3
+2007-05-14,Hamburg Masters,Clay,QF,1,14,6-3 4-6 6-3,165,8,1,77,44,33,1,106,0,0,1,David Ferrer,Federer,2007,5,3
+2007-05-14,Hamburg Masters,Clay,R16,1,19,6-2 6-3,90,5,1,50,28,22,1,65,0,0,1,Juan Carlos Ferrero,Federer,2007,5,2
+2007-05-14,Hamburg Masters,Clay,R32,1,48,6-3 2-6 6-4,176,5,4,93,49,44,0,117,0,0,1,Juan Monaco,Federer,2007,5,3
+2007-05-07,Rome Masters,Clay,R16,1,53,6-2 6-4,116,5,4,54,24,30,0,78,0,0,0,Filippo Volandri,Filippo Volandri,2007,5,2
+2007-05-07,Rome Masters,Clay,R32,1,40,6-3 6-4,120,3,0,60,37,23,3,75,0,0,1,Nicolas Almagro,Federer,2007,5,2
+2007-04-15,Monte Carlo Masters,Clay,F,1,2,6-4 6-4,132,3,4,66,36,30,1,95,0,0,0,Rafael Nadal,Rafael Nadal,2007,4,2
+2007-04-15,Monte Carlo Masters,Clay,SF,1,21,6-3 6-4,114,3,1,65,38,27,0,85,0,0,1,Juan Carlos Ferrero,Federer,2007,4,2
+2007-04-15,Monte Carlo Masters,Clay,QF,1,16,6-4 6-0,93,6,0,43,24,19,0,59,0,0,1,David Ferrer,Federer,2007,4,2
+2007-04-15,Monte Carlo Masters,Clay,R16,1,49,6-4 6-3,111,1,2,56,35,21,0,65,0,0,1,Hyung Taik Lee,Federer,2007,4,2
+2007-04-15,Monte Carlo Masters,Clay,R32,1,101,7-6(4) 7-6(6),168,6,3,78,42,36,3,108,0,0,1,Andreas Seppi,Federer,2007,4,2
+2007-03-19,Miami Masters,Hard,R16,1,55,7-6(2) 2-6 7-6(5),219,7,1,97,54,43,5,159,0,0,0,Guillermo Canas,Guillermo Canas,2007,3,3
+2007-03-19,Miami Masters,Hard,R32,1,34,7-5 6-3,130,9,1,57,27,30,5,82,0,0,1,Nicolas Almagro,Federer,2007,3,2
+2007-03-19,Miami Masters,Hard,R64,1,69,6-4 6-3,110,6,1,45,26,19,5,62,0,0,1,Sam Querrey,Federer,2007,3,2
+2007-03-05,Indian Wells Masters,Hard,R64,1,60,7-5 6-2,145,5,2,77,44,33,1,105,0,0,0,Guillermo Canas,Guillermo Canas,2007,3,2
+2007-02-26,Dubai,Hard,F,1,18,6-4 6-3,124,4,0,51,29,22,3,85,0,0,1,Mikhail Youzhny,Federer,2007,2,2
+2007-02-26,Dubai,Hard,SF,1,9,6-4 7-5,138,11,0,75,43,32,5,91,0,0,1,Tommy Haas,Federer,2007,2,2
+2007-02-26,Dubai,Hard,QF,1,14,6-3 6-7(6) 6-3,198,8,1,100,62,38,6,123,0,0,1,Novak Djokovic,Federer,2007,2,3
+2007-02-26,Dubai,Hard,R16,1,88,7-5 6-3,139,5,0,58,36,22,9,87,0,0,1,Daniele Bracciali,Federer,2007,2,2
+2007-02-26,Dubai,Hard,R32,1,86,7-6(2) 3-6 6-3,174,11,0,80,54,26,9,88,0,0,1,Kristian Pless,Federer,2007,2,3
+2007-01-15,Australian Open,Hard,F,1,9,7-6(2) 6-4 6-4,213,5,1,86,50,36,6,140,0,0,1,Fernando Gonzalez,Federer,2007,1,3
+2007-01-15,Australian Open,Hard,SF,1,7,6-4 6-0 6-2,128,10,2,63,32,31,4,83,0,0,1,Andy Roddick,Federer,2007,1,3
+2007-01-15,Australian Open,Hard,QF,1,6,6-3 7-6(2) 7-5,213,5,1,96,60,36,4,140,0,0,1,Tommy Robredo,Federer,2007,1,3
+2007-01-15,Australian Open,Hard,R16,1,15,6-2 7-5 6-3,181,12,1,80,50,30,7,110,0,0,1,Novak Djokovic,Federer,2007,1,3
+2007-01-15,Australian Open,Hard,R32,1,25,6-3 6-3 7-6(5),201,7,1,100,53,47,7,124,0,0,1,Mikhail Youzhny,Federer,2007,1,3
+2007-01-15,Australian Open,Hard,R64,1,50,6-2 6-3 6-2,152,7,1,66,42,24,2,95,0,0,1,Jonas Bjorkman,Federer,2007,1,3
+2007-01-15,Australian Open,Hard,R128,1,82,7-5 6-0 6-4,186,7,1,79,56,23,3,107,0,0,1,Bjorn Phau,Federer,2007,1,3
+2006-11-13,Masters Cup,Hard,F,1,8,6-0 6-3 6-4,167,11,1,86,59,27,4,97,0,0,1,James Blake,Federer,2006,11,3
+2006-11-13,Masters Cup,Hard,SF,1,2,6-4 7-5,140,7,4,60,37,23,0,113,0,0,1,Rafael Nadal,Federer,2006,11,2
+2006-11-13,Masters Cup,Hard,RR,1,7,3-6 6-1 6-1,128,9,1,67,39,28,0,88,0,0,1,David Nalbandian,Federer,2006,11,3
+2006-11-13,Masters Cup,Hard,RR,1,5,4-6 7-6(8) 6-4,215,12,4,107,64,43,12,149,0,0,1,Andy Roddick,Federer,2006,11,3
+2006-11-13,Masters Cup,Hard,RR,1,4,7-6(2) 6-4,134,7,0,67,44,23,8,94,0,0,1,Ivan Ljubicic,Federer,2006,11,2
+2006-10-23,Basel,Carpet,F,1,7,6-3 6-2 7-6(3),207,14,1,86,67,19,6,119,0,0,1,Fernando Gonzalez,Federer,2006,10,3
+2006-10-23,Basel,Carpet,SF,1,54,6-4 3-6 7-6(5),193,8,0,83,60,23,6,118,0,0,1,Paradorn Srichaphan,Federer,2006,10,3
+2006-10-23,Basel,Carpet,QF,1,15,6-3 7-6(14),135,2,1,67,41,26,3,87,0,0,1,David Ferrer,Federer,2006,10,2
+2006-10-23,Basel,Carpet,R16,1,75,6-2 6-0,92,4,1,37,21,16,2,53,0,0,1,Guillermo Garcia Lopez,Federer,2006,10,2
+2006-10-23,Basel,Carpet,R32,1,151,6-1 6-2,85,11,0,38,27,11,0,50,0,0,1,Tomas Zib,Federer,2006,10,2
+2006-10-16,Madrid Masters,Hard,F,1,10,7-5 6-1 6-0,160,11,2,81,45,36,4,108,0,0,1,Fernando Gonzalez,Federer,2006,10,3
+2006-10-16,Madrid Masters,Hard,SF,1,4,6-4 6-0,95,9,0,41,27,14,1,59,0,0,1,David Nalbandian,Federer,2006,10,2
+2006-10-16,Madrid Masters,Hard,QF,1,47,6-3 7-6(4),142,6,1,76,49,27,2,82,0,0,1,Robby Ginepri,Federer,2006,10,2
+2006-10-16,Madrid Masters,Hard,R16,1,29,7-6(5) 7-6(8),181,13,0,79,60,19,8,108,0,0,1,Robin Soderling,Federer,2006,10,2
+2006-10-16,Madrid Masters,Hard,R32,1,45,6-3 6-2,112,7,0,57,31,26,2,85,0,0,1,Nicolas Massu,Federer,2006,10,2
+2006-10-02,Tokyo,Hard,F,1,55,6-3 6-3,113,4,2,48,27,21,0,67,0,0,1,Tim Henman,Federer,2006,10,2
+2006-10-02,Tokyo,Hard,SF,1,72,6-3 6-4,106,8,0,49,29,20,4,60,0,0,1,Benjamin Becker,Federer,2006,10,2
+2006-10-02,Tokyo,Hard,QF,1,1078,4-6 7-5 7-6(3),199,15,0,88,60,28,6,124,0,0,1,Takao Suzuki,Federer,2006,10,3
+2006-10-02,Tokyo,Hard,R16,1,73,6-2 6-1,84,5,0,40,27,13,4,52,0,0,1,Wesley Moodie,Federer,2006,10,2
+2006-10-02,Tokyo,Hard,R32,1,276,7-6(2) 7-6(3),166,6,1,82,53,29,9,101,0,0,1,Viktor Troicki,Federer,2006,10,2
+2006-09-22,Davis Cup WG PO: SUI vs SCG,Hard,RR,1,92,6-3 6-2 6-2,,,,,,,,,0,0,1,Janko Tipsarevic,Federer,2006,9,3
+2006-09-22,Davis Cup WG PO: SUI vs SCG,Hard,RR,1,21,6-3 6-2 6-3,,,,,,,,,0,0,1,Novak Djokovic,Federer,2006,9,3
+2006-08-28,US Open,Hard,F,1,10,6-2 4-6 7-5 6-1,225,17,0,103,63,40,7,145,0,0,1,Andy Roddick,Federer,2006,8,4
+2006-08-28,US Open,Hard,SF,1,6,6-1 7-5 6-4,166,4,1,81,54,27,2,101,0,0,1,Nikolay Davydenko,Federer,2006,8,3
+2006-08-28,US Open,Hard,QF,1,7,7-6(7) 6-0 6-7(9) 6-4,291,9,4,137,84,53,8,165,0,0,1,James Blake,Federer,2006,8,4
+2006-08-28,US Open,Hard,R16,1,79,6-3 7-6(2) 6-3,181,15,2,94,61,33,8,104,0,0,1,Marc Gicquel,Federer,2006,8,3
+2006-08-28,US Open,Hard,R32,1,84,6-3 6-3 6-0,149,7,0,74,46,28,2,88,0,0,1,Vincent Spadea,Federer,2006,8,3
+2006-08-28,US Open,Hard,R64,1,62,6-3 6-4 7-5,194,6,1,81,56,25,2,121,0,0,1,Tim Henman,Federer,2006,8,3
+2006-08-28,US Open,Hard,R128,1,109,6-4 6-1 6-0,168,7,1,64,39,25,3,99,0,0,1,Jimmy Wang,Federer,2006,8,3
+2006-08-14,Cincinnati Masters,Hard,R32,1,21,7-5 6-4,144,6,3,76,42,34,4,97,0,0,0,Andy Murray,Andy Murray,2006,8,2
+2006-08-14,Cincinnati Masters,Hard,R64,1,45,7-5 6-4,143,10,3,73,46,27,5,84,0,0,1,Paradorn Srichaphan,Federer,2006,8,2
+2006-08-07,Canada Masters,Hard,F,1,51,2-6 6-3 6-2,165,6,4,88,50,38,2,107,0,0,1,Richard Gasquet,Federer,2006,8,3
+2006-08-07,Canada Masters,Hard,SF,1,16,6-1 5-7 6-3,169,3,3,81,54,27,1,110,0,0,1,Fernando Gonzalez,Federer,2006,8,3
+2006-08-07,Canada Masters,Hard,QF,1,41,7-6(4) 6-7(5) 6-3,222,2,3,110,70,40,4,147,0,0,1,Xavier Malisse,Federer,2006,8,3
+2006-08-07,Canada Masters,Hard,R16,1,27,6-3 5-7 6-0,174,8,1,92,61,31,1,107,0,0,1,Dmitry Tursunov,Federer,2006,8,3
+2006-08-07,Canada Masters,Hard,R32,1,33,6-3 6-3,112,3,2,56,31,25,3,67,0,0,1,Sebastien Grosjean,Federer,2006,8,2
+2006-08-07,Canada Masters,Hard,R64,1,36,6-3 6-4,108,14,0,48,24,24,2,74,0,0,1,Paul Henri Mathieu,Federer,2006,8,2
+2006-06-26,Wimbledon,Grass,F,1,2,6-0 7-6(5) 6-7(2) 6-3,246,13,1,119,83,36,9,178,0,0,1,Rafael Nadal,Federer,2006,6,4
+2006-06-26,Wimbledon,Grass,SF,1,59,6-2 6-0 6-2,123,9,0,59,43,16,3,77,0,0,1,Jonas Bjorkman,Federer,2006,6,3
+2006-06-26,Wimbledon,Grass,QF,1,10,6-4 6-4 6-4,167,7,1,87,50,37,7,107,0,0,1,Mario Ancic,Federer,2006,6,3
+2006-06-26,Wimbledon,Grass,R16,1,14,6-3 6-3 6-4,156,21,1,72,49,23,1,83,0,0,1,Tomas Berdych,Federer,2006,6,3
+2006-06-26,Wimbledon,Grass,R32,1,77,6-3 7-6(2) 6-4,189,7,1,93,60,33,10,125,0,0,1,Nicolas Mahut,Federer,2006,6,3
+2006-06-26,Wimbledon,Grass,R64,1,64,6-4 6-0 6-2,132,6,0,71,44,27,0,85,0,0,1,Tim Henman,Federer,2006,6,3
+2006-06-26,Wimbledon,Grass,R128,1,50,6-3 6-2 6-2,139,5,1,70,47,23,2,74,0,0,1,Richard Gasquet,Federer,2006,6,3
+2006-06-12,Halle,Grass,F,1,15,6-0 6-7(4) 6-2,156,11,3,73,48,25,10,95,0,0,1,Tomas Berdych,Federer,2006,6,3
+2006-06-12,Halle,Grass,SF,1,26,6-4 6-7(4) 6-3,218,9,1,97,65,32,4,137,0,0,1,Tommy Haas,Federer,2006,6,3
+2006-06-12,Halle,Grass,QF,1,29,6-7(2) 7-6(9) 7-6(5),262,19,2,134,88,46,2,165,0,0,1,Olivier Rochus,Federer,2006,6,3
+2006-06-12,Halle,Grass,R16,1,51,7-6(7) 6-7(7) 6-4,223,10,0,113,74,39,1,134,0,0,1,Richard Gasquet,Federer,2006,6,3
+2006-06-12,Halle,Grass,R32,1,267,7-6(4) 6-2,132,7,0,56,37,19,9,71,0,0,1,Rohan Bopanna,Federer,2006,6,2
+2006-05-29,Roland Garros,Clay,F,1,2,1-6 6-1 6-4 7-6(4),230,8,1,119,72,47,3,182,0,0,0,Rafael Nadal,Rafael Nadal,2006,5,4
+2006-05-29,Roland Garros,Clay,SF,1,3,3-6 6-4 5-2 RET,146,4,1,72,41,31,1,98,1,0,1,David Nalbandian,Federer,2006,5,4
+2006-05-29,Roland Garros,Clay,QF,1,12,6-4 6-3 6-4,204,4,0,104,65,39,3,137,0,0,1,Mario Ancic,Federer,2006,5,3
+2006-05-29,Roland Garros,Clay,R16,1,20,6-3 6-2 6-3,171,9,1,79,50,29,7,107,0,0,1,Tomas Berdych,Federer,2006,5,3
+2006-05-29,Roland Garros,Clay,R32,1,35,6-1 6-2 6-7(4) 7-5,233,6,3,114,70,44,4,155,0,0,1,Nicolas Massu,Federer,2006,5,4
+2006-05-29,Roland Garros,Clay,R64,1,139,6-1 6-4 6-3,154,4,0,68,46,22,4,86,0,0,1,Alejandro Falla,Federer,2006,5,3
+2006-05-29,Roland Garros,Clay,R128,1,157,7-5 7-6(2) 6-2,239,5,2,106,70,36,0,156,0,0,1,Diego Hartfield,Federer,2006,5,3
+2006-05-08,Rome Masters,Clay,F,1,2,6-7(0) 7-6(5) 6-4 2-6 7-6(5),353,10,0,180,112,68,4,305,0,0,0,Rafael Nadal,Rafael Nadal,2006,5,5
+2006-05-08,Rome Masters,Clay,SF,1,3,6-3 3-6 7-6(5),229,9,2,117,56,61,2,163,0,0,1,David Nalbandian,Federer,2006,5,3
+2006-05-08,Rome Masters,Clay,QF,1,54,6-3 6-7(2) 7-5,229,9,2,111,69,42,1,153,0,0,1,Nicolas Almagro,Federer,2006,5,3
+2006-05-08,Rome Masters,Clay,R16,1,18,6-1 6-4,93,2,2,46,24,22,3,57,0,0,1,Radek Stepanek,Federer,2006,5,2
+2006-05-08,Rome Masters,Clay,R32,1,81,6-3 7-6(2),163,2,2,80,39,41,0,111,0,0,1,Potito Starace,Federer,2006,5,2
+2006-05-08,Rome Masters,Clay,R64,1,30,6-2 6-1,101,3,0,51,29,22,0,68,0,0,1,Juan Ignacio Chela,Federer,2006,5,2
+2006-04-17,Monte Carlo Masters,Clay,F,1,2,6-2 6-7(2) 6-3 7-6(5),295,3,3,143,86,57,1,230,0,0,0,Rafael Nadal,Rafael Nadal,2006,4,4
+2006-04-17,Monte Carlo Masters,Clay,SF,1,21,6-2 6-4,107,3,0,52,36,16,0,69,0,0,1,Fernando Gonzalez,Federer,2006,4,2
+2006-04-17,Monte Carlo Masters,Clay,QF,1,15,6-1 6-3,96,3,1,45,28,17,1,61,0,0,1,David Ferrer,Federer,2006,4,2
+2006-04-17,Monte Carlo Masters,Clay,R16,1,351,6-3 6-2,96,3,0,44,30,14,2,55,0,0,1,Benjamin Balleret,Federer,2006,4,2
+2006-04-17,Monte Carlo Masters,Clay,R32,1,66,6-0 6-1,70,2,1,33,20,13,0,46,0,0,1,Alberto Martin,Federer,2006,4,2
+2006-04-17,Monte Carlo Masters,Clay,R64,1,67,6-3 2-6 6-3,167,1,0,73,39,34,1,109,0,0,1,Novak Djokovic,Federer,2006,4,3
+2006-03-20,Miami Masters,Hard,F,1,6,7-6(5) 7-6(4) 7-6(6),245,8,3,124,78,46,21,177,0,0,1,Ivan Ljubicic,Federer,2006,3,3
+2006-03-20,Miami Masters,Hard,SF,1,11,6-1 6-4,104,2,1,52,35,17,0,60,0,0,1,David Ferrer,Federer,2006,3,2
+2006-03-20,Miami Masters,Hard,QF,1,9,7-6(2) 6-4,149,6,1,78,46,32,4,87,0,0,1,James Blake,Federer,2006,3,2
+2006-03-20,Miami Masters,Hard,R16,1,36,6-3 6-3,99,5,2,43,29,14,4,58,0,0,1,Dmitry Tursunov,Federer,2006,3,2
+2006-03-20,Miami Masters,Hard,R32,1,28,6-1 6-3,110,4,2,55,36,19,2,74,0,0,1,Tommy Haas,Federer,2006,3,2
+2006-03-20,Miami Masters,Hard,R64,1,53,6-2 6-7(4) 6-0,169,6,2,94,60,34,2,119,0,0,1,Arnaud Clement,Federer,2006,3,3
+2006-03-06,Indian Wells Masters,Hard,F,1,14,7-5 6-3 6-0,168,3,1,79,46,33,3,103,0,0,1,James Blake,Federer,2006,3,3
+2006-03-06,Indian Wells Masters,Hard,SF,1,61,6-2 6-3,105,3,0,50,36,14,4,60,0,0,1,Paradorn Srichaphan,Federer,2006,3,2
+2006-03-06,Indian Wells Masters,Hard,QF,1,6,6-2 6-3,104,5,1,53,37,16,4,67,0,0,1,Ivan Ljubicic,Federer,2006,3,2
+2006-03-06,Indian Wells Masters,Hard,R16,1,18,6-3 6-4,100,3,1,48,32,16,1,57,0,0,1,Richard Gasquet,Federer,2006,3,2
+2006-03-06,Indian Wells Masters,Hard,R32,1,32,3-6 6-2 7-5,184,8,3,97,54,43,1,114,0,0,1,Olivier Rochus,Federer,2006,3,3
+2006-03-06,Indian Wells Masters,Hard,R64,1,47,6-3 7-6(4),133,3,1,66,40,26,2,94,0,0,1,Nicolas Massu,Federer,2006,3,2
+2006-02-27,Dubai,Hard,F,1,2,2-6 6-4 6-4,149,9,0,69,41,28,1,113,0,0,0,Rafael Nadal,Rafael Nadal,2006,2,3
+2006-02-27,Dubai,Hard,SF,1,52,6-2 6-3,112,3,0,58,31,27,4,66,0,0,1,Mikhail Youzhny,Federer,2006,2,2
+2006-02-27,Dubai,Hard,QF,1,75,6-3 6-2,100,8,1,56,40,16,2,58,0,0,1,Robin Vik,Federer,2006,2,2
+2006-02-27,Dubai,Hard,R16,1,488,7-6(5) 6-4,156,7,0,67,45,22,6,88,0,0,1,Mohammad Ghareeb,Federer,2006,2,2
+2006-02-27,Dubai,Hard,R32,1,57,7-6(3) 6-3,133,3,0,71,46,25,2,81,0,0,1,Stan Wawrinka,Federer,2006,2,2
+2006-01-16,Australian Open,Hard,F,1,54,5-7 7-5 6-0 6-2,258,11,6,144,77,67,6,166,0,0,1,Marcos Baghdatis,Federer,2006,1,4
+2006-01-16,Australian Open,Hard,SF,1,25,6-3 5-7 6-0 6-2,228,7,5,106,70,36,14,160,0,0,1,Nicolas Kiefer,Federer,2006,1,4
+2006-01-16,Australian Open,Hard,QF,1,5,6-4 3-6 7-6(7) 7-6(5),283,6,0,139,86,53,1,193,0,0,1,Nikolay Davydenko,Federer,2006,1,4
+2006-01-16,Australian Open,Hard,R16,1,41,6-4 6-0 3-6 4-6 6-2,270,10,1,132,77,55,5,178,0,0,1,Tommy Haas,Federer,2006,1,5
+2006-01-16,Australian Open,Hard,R32,1,34,6-3 6-4 6-3,178,6,2,70,47,23,5,109,0,0,1,Max Mirnyi,Federer,2006,1,3
+2006-01-16,Australian Open,Hard,R64,1,69,6-1 6-4 6-0,143,9,1,74,45,29,2,72,0,0,1,Florian Mayer,Federer,2006,1,3
+2006-01-16,Australian Open,Hard,R128,1,195,6-2 6-3 6-2,150,2,0,67,46,21,8,83,0,0,1,Denis Istomin,Federer,2006,1,3
+2006-01-02,Doha,Hard,F,1,30,6-3 7-6(5),165,2,0,69,40,29,12,115,0,0,1,Gael Monfils,Federer,2006,1,2
+2006-01-02,Doha,Hard,SF,1,45,6-3 6-3,104,3,3,55,26,29,2,70,0,0,1,Tommy Haas,Federer,2006,1,2
+2006-01-02,Doha,Hard,QF,1,55,6-4 6-3,114,3,1,61,43,18,4,69,0,0,1,Marcos Baghdatis,Federer,2006,1,2
+2006-01-02,Doha,Hard,R16,1,58,7-6(2) 7-6(5),166,11,0,74,57,17,4,95,0,0,1,Fabrice Santoro,Federer,2006,1,2
+2006-01-02,Doha,Hard,R32,1,73,6-1 6-3,128,0,1,62,33,29,5,64,0,0,1,Ivo Minar,Federer,2006,1,2
+2005-11-14,Masters Cup,Carpet,F,1,12,6-7(4) 6-7(11) 6-2 6-1 7-6(3),386,9,8,190,113,77,2,273,0,0,0,David Nalbandian,David Nalbandian,2005,11,5
+2005-11-14,Masters Cup,Carpet,SF,1,9,6-0 6-0,80,5,0,36,18,18,0,50,0,0,1,Gaston Gaudio,Federer,2005,11,2
+2005-11-14,Masters Cup,Carpet,RR,1,12,6-3 2-6 6-4,159,2,3,81,51,30,1,109,0,0,1,David Nalbandian,Federer,2005,11,3
+2005-11-14,Masters Cup,Carpet,RR,1,8,6-3 2-6 7-6(4),198,4,0,90,52,38,10,138,0,0,1,Ivan Ljubicic,Federer,2005,11,3
+2005-11-14,Masters Cup,Carpet,RR,1,6,6-0 1-6 6-2,134,3,2,64,46,18,0,85,0,0,1,Guillermo Coria,Federer,2005,11,3
+2005-09-26,Bangkok,Hard,F,1,109,6-3 7-5,142,2,2,67,36,31,6,86,0,0,1,Andy Murray,Federer,2005,9,2
+2005-09-26,Bangkok,Hard,SF,1,42,6-3 6-4,107,4,2,56,44,12,2,57,0,0,1,Jarkko Nieminen,Federer,2005,9,2
+2005-09-26,Bangkok,Hard,QF,1,66,6-4 6-3,118,6,0,50,28,22,7,71,0,0,1,Gilles Muller,Federer,2005,9,2
+2005-09-26,Bangkok,Hard,R16,1,239,6-3 6-2,116,3,1,66,38,28,1,63,0,0,1,Denis Gremelmayr,Federer,2005,9,2
+2005-09-26,Bangkok,Hard,R32,1,133,7-6(4) 6-4,159,5,1,64,41,23,4,92,0,0,1,Marcos Daniel,Federer,2005,9,2
+2005-09-23,Davis Cup WG PO: SUI vs GBR,Clay,RR,1,262,6-0 6-0 6-2,,,,,,,,,0,0,1,Alan Mackin,Federer,2005,9,3
+2005-08-29,US Open,Hard,F,1,7,6-3 2-6 7-6(1) 6-1,238,19,0,107,81,26,6,139,0,0,1,Andre Agassi,Federer,2005,8,4
+2005-08-29,US Open,Hard,SF,1,4,6-3 7-6(0) 4-6 6-3,290,8,2,150,91,59,6,178,0,0,1,Lleyton Hewitt,Federer,2005,8,4
+2005-08-29,US Open,Hard,QF,1,11,6-2 6-4 6-1,149,11,0,74,40,34,0,99,0,0,1,David Nalbandian,Federer,2005,8,3
+2005-08-29,US Open,Hard,R16,1,38,6-4 6-7(3) 6-3 6-4,264,7,4,133,81,52,12,180,0,0,1,Nicolas Kiefer,Federer,2005,8,4
+2005-08-29,US Open,Hard,R32,1,29,6-3 7-6(6) 6-2,192,10,2,95,66,29,2,114,0,0,1,Olivier Rochus,Federer,2005,8,3
+2005-08-29,US Open,Hard,R64,1,76,7-5 7-5 7-6(2),231,9,3,111,76,35,5,137,0,0,1,Fabrice Santoro,Federer,2005,8,3
+2005-08-29,US Open,Hard,R128,1,77,6-1 6-1 6-1,122,11,2,63,45,18,3,63,0,0,1,Ivo Minar,Federer,2005,8,3
+2005-08-15,Cincinnati Masters,Hard,F,1,5,6-3 7-5,109,5,1,50,32,18,11,75,0,0,1,Andy Roddick,Federer,2005,8,2
+2005-08-15,Cincinnati Masters,Hard,SF,1,58,4-6 7-5 6-4,174,12,1,77,49,28,3,108,0,0,1,Robby Ginepri,Federer,2005,8,3
+2005-08-15,Cincinnati Masters,Hard,QF,1,52,6-4 6-3,119,7,1,60,38,22,6,76,0,0,1,Jose Acasuso,Federer,2005,8,2
+2005-08-15,Cincinnati Masters,Hard,R16,1,34,6-3 6-4,104,14,2,50,37,13,0,63,0,0,1,Olivier Rochus,Federer,2005,8,2
+2005-08-15,Cincinnati Masters,Hard,R32,1,38,4-6 6-4 6-4,179,7,2,82,48,34,7,133,0,0,1,Nicolas Kiefer,Federer,2005,8,3
+2005-08-15,Cincinnati Masters,Hard,R64,1,70,7-6(3) 7-5,164,4,2,79,50,29,8,98,0,0,1,James Blake,Federer,2005,8,2
+2005-06-20,Wimbledon,Grass,F,1,4,6-2 7-6(2) 6-4,175,12,0,79,49,30,7,101,0,0,1,Andy Roddick,Federer,2005,6,3
+2005-06-20,Wimbledon,Grass,SF,1,2,6-3 6-4 7-6(4),196,10,3,94,49,45,5,128,0,0,1,Lleyton Hewitt,Federer,2005,6,3
+2005-06-20,Wimbledon,Grass,QF,1,24,7-5 6-2 7-6(2),187,9,0,89,53,36,5,111,0,0,1,Fernando Gonzalez,Federer,2005,6,3
+2005-06-20,Wimbledon,Grass,R16,1,31,6-3 6-4 7-6(6),212,12,1,102,67,35,4,135,0,0,1,Juan Carlos Ferrero,Federer,2005,6,3
+2005-06-20,Wimbledon,Grass,R32,1,26,6-2 6-7(5) 6-1 7-5,223,14,4,115,81,34,5,155,0,0,1,Nicolas Kiefer,Federer,2005,6,4
+2005-06-20,Wimbledon,Grass,R64,1,99,6-4 6-4 6-1,165,10,1,72,54,18,3,82,0,0,1,Ivo Minar,Federer,2005,6,3
+2005-06-20,Wimbledon,Grass,R128,1,58,6-4 6-2 6-4,167,18,1,72,51,21,2,110,0,0,1,Paul Henri Mathieu,Federer,2005,6,3
+2005-06-06,Halle,Grass,F,1,5,6-4 6-7(6) 6-4,194,9,1,97,59,38,12,125,0,0,1,Marat Safin,Federer,2005,6,3
+2005-06-06,Halle,Grass,SF,1,23,6-4 7-6(9),148,8,0,63,44,19,7,99,0,0,1,Tommy Haas,Federer,2005,6,2
+2005-06-06,Halle,Grass,QF,1,71,6-3 6-4,105,10,2,56,38,18,3,62,0,0,1,Philipp Kohlschreiber,Federer,2005,6,2
+2005-06-06,Halle,Grass,R16,1,60,6-2 6-4,105,5,1,43,33,10,3,58,0,0,1,Florian Mayer,Federer,2005,6,2
+2005-06-06,Halle,Grass,R32,1,35,6-7(5) 7-6(6) 6-4,237,9,2,112,80,32,15,141,0,0,1,Robin Soderling,Federer,2005,6,3
+2005-05-23,Roland Garros,Clay,SF,1,5,6-3 4-6 6-4 6-3,239,3,5,119,74,45,2,167,0,0,0,Rafael Nadal,Rafael Nadal,2005,5,4
+2005-05-23,Roland Garros,Clay,QF,1,90,6-2 7-6(3) 6-3,202,7,7,92,43,49,2,124,0,0,1,Victor Hanescu,Federer,2005,5,3
+2005-05-23,Roland Garros,Clay,R16,1,15,6-1 6-4 6-3,172,2,2,77,44,33,0,102,0,0,1,Carlos Moya,Federer,2005,5,3
+2005-05-23,Roland Garros,Clay,R32,1,26,7-6(9) 7-5 6-2,208,11,1,96,63,33,1,130,0,0,1,Fernando Gonzalez,Federer,2005,5,3
+2005-05-23,Roland Garros,Clay,R64,1,76,6-3 7-6(0) 6-2,179,6,3,88,53,35,7,107,0,0,1,Nicolas Almagro,Federer,2005,5,3
+2005-05-23,Roland Garros,Clay,R128,1,264,6-1 6-4 6-0,154,2,5,75,47,28,0,89,0,0,1,Dudi Sela,Federer,2005,5,3
+2005-05-09,Hamburg Masters,Clay,F,1,56,6-3 7-5 7-6(4),200,4,4,112,70,42,1,133,0,0,1,Richard Gasquet,Federer,2005,5,3
+2005-05-09,Hamburg Masters,Clay,SF,1,20,6-3 6-4,109,0,0,62,38,24,0,72,0,0,1,Nikolay Davydenko,Federer,2005,5,2
+2005-05-09,Hamburg Masters,Clay,QF,1,8,6-4 7-6(3),138,5,2,66,39,27,2,95,0,0,1,Guillermo Coria,Federer,2005,5,2
+2005-05-09,Hamburg Masters,Clay,R16,1,16,6-2 6-3,104,2,3,55,29,26,1,67,0,0,1,Tommy Robredo,Federer,2005,5,2
+2005-05-09,Hamburg Masters,Clay,R32,1,46,6-2 6-1,81,4,0,41,25,16,2,54,0,0,1,Tomas Berdych,Federer,2005,5,2
+2005-05-09,Hamburg Masters,Clay,R64,1,48,6-4 6-3,106,6,0,49,31,18,0,73,0,0,1,Fernando Verdasco,Federer,2005,5,2
+2005-04-11,Monte Carlo Masters,Clay,QF,1,101,6-7(1) 6-2 7-6(8),225,4,1,112,69,43,1,140,0,0,0,Richard Gasquet,Richard Gasquet,2005,4,3
+2005-04-11,Monte Carlo Masters,Clay,R16,1,26,6-2 6-7(3) 6-4,217,9,0,93,52,41,6,141,0,0,1,Fernando Gonzalez,Federer,2005,4,3
+2005-04-11,Monte Carlo Masters,Clay,R32,1,62,6-3 6-4,110,4,3,62,39,23,5,60,0,0,1,Albert Montanes,Federer,2005,4,2
+2005-04-11,Monte Carlo Masters,Clay,R64,1,44,6-3 6-1,104,0,1,46,28,18,2,63,0,0,1,Greg Rusedski,Federer,2005,4,2
+2005-03-21,Miami Masters,Hard,F,1,31,2-6 6-7(4) 7-6(5) 6-3 6-1,307,9,9,151,90,61,4,223,0,0,1,Rafael Nadal,Federer,2005,3,5
+2005-03-21,Miami Masters,Hard,SF,1,10,6-4 6-3,126,8,2,66,41,25,1,85,0,0,1,Andre Agassi,Federer,2005,3,2
+2005-03-21,Miami Masters,Hard,QF,1,7,6-4 6-2,98,2,0,49,32,17,5,72,0,0,1,Tim Henman,Federer,2005,3,2
+2005-03-21,Miami Masters,Hard,R16,1,20,6-3 4-6 6-4,158,5,2,76,50,26,6,106,0,0,1,Mario Ancic,Federer,2005,3,3
+2005-03-21,Miami Masters,Hard,R32,1,52,6-2 5-7 6-3,195,11,2,92,52,40,4,137,0,0,1,Mariano Zabaleta,Federer,2005,3,3
+2005-03-21,Miami Masters,Hard,R64,1,40,6-3 6-1,114,12,1,39,24,15,1,72,0,0,1,Olivier Rochus,Federer,2005,3,2
+2005-03-07,Indian Wells Masters,Hard,F,1,2,6-2 6-4 6-4,178,14,3,84,48,36,5,114,0,0,1,Lleyton Hewitt,Federer,2005,3,3
+2005-03-07,Indian Wells Masters,Hard,SF,1,14,6-3 6-1,108,7,2,56,34,22,2,73,0,0,1,Guillermo Canas,Federer,2005,3,2
+2005-03-07,Indian Wells Masters,Hard,QF,1,31,6-4 6-1,94,4,1,42,26,16,1,67,0,0,1,Nicolas Kiefer,Federer,2005,3,2
+2005-03-07,Indian Wells Masters,Hard,R16,1,13,7-6(3) 7-6(4),149,7,1,67,47,20,9,107,0,0,1,Ivan Ljubicic,Federer,2005,3,2
+2005-03-07,Indian Wells Masters,Hard,R32,1,67,6-3 6-2,141,7,1,61,35,26,3,83,0,0,1,Gilles Muller,Federer,2005,3,2
+2005-03-07,Indian Wells Masters,Hard,R64,1,49,6-3 6-3,106,1,0,50,31,19,1,74,0,0,1,Mardy Fish,Federer,2005,3,2
+2005-02-21,Dubai,Hard,F,1,14,6-1 6-7(6) 6-3,191,6,2,102,63,39,5,136,0,0,1,Ivan Ljubicic,Federer,2005,2,3
+2005-02-21,Dubai,Hard,SF,1,10,6-3 6-1,92,8,3,51,33,18,2,52,0,0,1,Andre Agassi,Federer,2005,2,2
+2005-02-21,Dubai,Hard,QF,1,17,6-3 7-5,124,3,1,72,42,30,0,73,0,0,1,Mikhail Youzhny,Federer,2005,2,2
+2005-02-21,Dubai,Hard,R16,1,98,4-6 6-3 7-6(6),202,7,1,100,66,34,1,136,0,0,1,Juan Carlos Ferrero,Federer,2005,2,3
+2005-02-21,Dubai,Hard,R32,1,119,6-7(5) 6-3 7-6(5),209,11,4,99,62,37,6,124,0,0,1,Ivo Minar,Federer,2005,2,3
+2005-02-14,Rotterdam,Hard,F,1,19,5-7 7-5 7-6(5),228,12,2,97,67,30,16,164,0,0,1,Ivan Ljubicic,Federer,2005,2,3
+2005-02-14,Rotterdam,Hard,SF,1,31,7-5 6-3,117,5,2,49,32,17,8,88,0,0,1,Mario Ancic,Federer,2005,2,2
+2005-02-14,Rotterdam,Hard,QF,1,15,7-5 7-5,155,6,1,88,54,34,2,101,0,0,1,Nikolay Davydenko,Federer,2005,2,2
+2005-02-14,Rotterdam,Hard,R16,1,128,6-1 6-4,111,0,1,58,37,21,2,64,0,0,1,Stan Wawrinka,Federer,2005,2,2
+2005-02-14,Rotterdam,Hard,R32,1,112,6-3 6-4,139,7,1,72,45,27,1,73,0,0,1,Bohdan Ulihrach,Federer,2005,2,2
+2005-01-17,Australian Open,Hard,SF,1,4,5-7 6-4 5-7 7-6(6) 9-7,395,22,8,188,107,81,16,268,0,0,0,Marat Safin,Marat Safin,2005,1,5
+2005-01-17,Australian Open,Hard,QF,1,8,6-3 6-4 6-4,178,22,4,99,65,34,1,99,0,0,1,Andre Agassi,Federer,2005,1,3
+2005-01-17,Australian Open,Hard,R16,1,155,6-2 6-2 7-6(4),174,9,0,78,47,31,4,103,0,0,1,Marcos Baghdatis,Federer,2005,1,3
+2005-01-17,Australian Open,Hard,R32,1,87,6-3 5-2 RET,105,2,1,49,35,14,1,57,1,0,1,Jarkko Nieminen,Federer,2005,1,3
+2005-01-17,Australian Open,Hard,R64,1,203,6-3 6-4 6-4,189,7,0,84,59,25,7,113,0,0,1,Takao Suzuki,Federer,2005,1,3
+2005-01-17,Australian Open,Hard,R128,1,49,6-1 6-1 6-2,166,4,1,68,41,27,1,94,0,0,1,Fabrice Santoro,Federer,2005,1,3
+2005-01-03,Doha,Hard,F,1,22,6-3 6-1,95,3,0,44,31,13,0,63,0,0,1,Ivan Ljubicic,Federer,2005,1,2
+2005-01-03,Doha,Hard,SF,1,28,6-3 6-4,110,7,0,58,37,21,0,65,0,0,1,Nikolay Davydenko,Federer,2005,1,2
+2005-01-03,Doha,Hard,QF,1,25,6-1 6-2,88,6,1,41,27,14,0,51,0,0,1,Feliciano Lopez,Federer,2005,1,2
+2005-01-03,Doha,Hard,R16,1,46,6-3 6-4,108,2,0,56,34,22,4,61,0,0,1,Greg Rusedski,Federer,2005,1,2
+2005-01-03,Doha,Hard,R32,1,49,6-1 6-1,98,1,1,52,39,13,1,58,0,0,1,David Ferrer,Federer,2005,1,2
+2004-11-15,Masters Cup,Hard,F,1,3,6-3 6-2,102,9,0,47,30,17,1,67,0,0,1,Lleyton Hewitt,Federer,2004,11,2
+2004-11-15,Masters Cup,Hard,SF,1,4,6-3 7-6(18),167,8,0,81,50,31,6,108,0,0,1,Marat Safin,Federer,2004,11,2
+2004-11-15,Masters Cup,Hard,RR,1,10,6-1 7-6(4),142,8,0,57,34,23,1,96,0,0,1,Gaston Gaudio,Federer,2004,11,2
+2004-11-15,Masters Cup,Hard,RR,1,3,6-3 6-4,123,6,0,63,39,24,6,76,0,0,1,Lleyton Hewitt,Federer,2004,11,2
+2004-11-15,Masters Cup,Hard,RR,1,5,6-3 3-6 6-3,178,9,2,91,64,27,6,107,0,0,1,Carlos Moya,Federer,2004,11,3
+2004-09-27,Bangkok,Hard,F,1,2,6-4 6-0,109,11,2,52,32,20,8,57,0,0,1,Andy Roddick,Federer,2004,9,2
+2004-09-27,Bangkok,Hard,SF,1,20,7-5 2-6 6-3,181,7,4,80,47,33,5,115,0,0,1,Paradorn Srichaphan,Federer,2004,9,3
+2004-09-27,Bangkok,Hard,QF,1,50,7-6(3) 6-4,145,14,3,71,39,32,3,82,0,0,1,Robin Soderling,Federer,2004,9,2
+2004-09-27,Bangkok,Hard,R16,1,129,6-1 6-3,93,6,1,46,26,20,3,51,0,0,1,Ivo Heuberger,Federer,2004,9,2
+2004-09-27,Bangkok,Hard,R32,1,507,6-4 7-6(4),154,13,2,69,45,24,6,96,0,0,1,Nicolas Thomann,Federer,2004,9,2
+2004-08-30,US Open,Hard,F,1,5,6-0 7-6(3) 6-0,164,11,1,89,49,40,1,109,0,0,1,Lleyton Hewitt,Federer,2004,8,3
+2004-08-30,US Open,Hard,SF,1,6,6-3 6-4 6-4,158,7,2,84,53,31,4,104,0,0,1,Tim Henman,Federer,2004,8,3
+2004-08-30,US Open,Hard,QF,1,7,6-3 2-6 7-5 3-6 6-3,300,16,9,158,101,57,4,180,0,0,1,Andre Agassi,Federer,2004,8,5
+2004-08-30,US Open,Hard,R16,1,18,W/O,,,,,,,,,0,1,1,Andrei Pavel,,2004,8,1
+2004-08-30,US Open,Hard,R32,1,34,6-0 6-4 7-6(7),191,10,2,96,59,37,2,123,0,0,1,Fabrice Santoro,Federer,2004,8,3
+2004-08-30,US Open,Hard,R64,1,240,6-2 6-7(4) 6-3 6-1,221,8,5,104,61,43,5,124,0,0,1,Marcos Baghdatis,Federer,2004,8,4
+2004-08-30,US Open,Hard,R128,1,44,7-5 6-2 6-4,182,11,5,73,49,24,1,120,0,0,1,Albert Costa,Federer,2004,8,3
+2004-08-16,Athens Olympics,Hard,R32,1,79,4-6 7-5 7-5,,,,,,,,,0,0,0,Tomas Berdych,Tomas Berdych,2004,8,3
+2004-08-16,Athens Olympics,Hard,R64,1,53,6-3 5-7 6-1,,,,,,,,,0,0,1,Nikolay Davydenko,Federer,2004,8,3
+2004-08-02,Cincinnati Masters,Hard,R64,1,21,1-6 7-6(7) 6-4,187,11,2,86,55,31,4,110,0,0,0,Dominik Hrbaty,Dominik Hrbaty,2004,8,3
+2004-07-26,Canada Masters,Hard,F,1,2,7-5 6-3,137,13,1,65,38,27,4,85,0,0,1,Andy Roddick,Federer,2004,7,2
+2004-07-26,Canada Masters,Hard,SF,1,99,4-6 6-3 6-2,164,8,0,77,46,31,6,104,0,0,1,Thomas Johansson,Federer,2004,7,3
+2004-07-26,Canada Masters,Hard,QF,1,58,7-5 6-4,159,4,1,65,46,19,3,97,0,0,1,Fabrice Santoro,Federer,2004,7,2
+2004-07-26,Canada Masters,Hard,R16,1,34,7-6(3) 7-6(4),147,3,1,68,50,18,7,93,0,0,1,Max Mirnyi,Federer,2004,7,2
+2004-07-26,Canada Masters,Hard,R32,1,50,7-5 6-1,114,13,0,67,47,20,2,64,0,0,1,Robin Soderling,Federer,2004,7,2
+2004-07-26,Canada Masters,Hard,R64,1,36,6-3 7-5,138,12,5,68,40,28,4,88,0,0,1,Hicham Arazi,Federer,2004,7,2
+2004-07-05,Gstaad,Clay,F,1,62,6-2 6-3 5-7 6-3,204,6,0,101,55,46,4,118,0,0,1,Igor Andreev,Federer,2004,7,4
+2004-07-05,Gstaad,Clay,SF,1,145,6-3 3-6 6-3,165,7,1,77,49,28,2,91,0,0,1,Potito Starace,Federer,2004,7,3
+2004-07-05,Gstaad,Clay,QF,1,72,6-1 5-7 6-4,172,7,4,90,51,39,5,98,0,0,1,Radek Stepanek,Federer,2004,7,3
+2004-07-05,Gstaad,Clay,R16,1,59,6-7(5) 6-3 7-6(4),203,8,0,98,63,35,15,114,0,0,1,Ivo Karlovic,Federer,2004,7,3
+2004-07-05,Gstaad,Clay,R32,1,130,6-1 6-1,93,9,2,38,21,17,0,47,0,0,1,Tomas Behrend,Federer,2004,7,2
+2004-06-21,Wimbledon,Grass,F,1,2,4-6 7-5 7-6(3) 6-4,287,12,3,154,95,59,11,151,0,0,1,Andy Roddick,Federer,2004,6,4
+2004-06-21,Wimbledon,Grass,SF,1,13,6-2 6-3 7-6(6),197,6,3,91,54,37,2,120,0,0,1,Sebastien Grosjean,Federer,2004,6,3
+2004-06-21,Wimbledon,Grass,QF,1,10,6-1 6-7(1) 6-0 6-4,227,19,0,125,72,53,4,140,0,0,1,Lleyton Hewitt,Federer,2004,6,4
+2004-06-21,Wimbledon,Grass,R16,1,62,6-3 7-6(3) 7-6(5),196,6,1,96,72,24,14,110,0,0,1,Ivo Karlovic,Federer,2004,6,3
+2004-06-21,Wimbledon,Grass,R32,1,123,6-3 6-4 6-3,170,11,2,80,53,27,4,98,0,0,1,Thomas Johansson,Federer,2004,6,3
+2004-06-21,Wimbledon,Grass,R64,1,138,6-1 6-2 6-0,109,6,1,57,43,14,2,54,0,0,1,Alejandro Falla,Federer,2004,6,3
+2004-06-21,Wimbledon,Grass,R128,1,295,6-3 6-3 6-0,150,6,4,64,43,21,3,80,0,0,1,Alex Bogdanovic,Federer,2004,6,3
+2004-06-07,Halle,Grass,F,1,23,6-0 6-3,102,3,0,42,31,11,3,57,0,0,1,Mardy Fish,Federer,2004,6,2
+2004-06-07,Halle,Grass,SF,1,19,6-3 6-4,99,4,2,50,31,19,1,53,0,0,1,Jiri Novak,Federer,2004,6,2
+2004-06-07,Halle,Grass,QF,1,37,6-3 7-5,118,5,4,56,39,17,1,72,0,0,1,Arnaud Clement,Federer,2004,6,2
+2004-06-07,Halle,Grass,R16,1,34,6-2 6-1,122,3,0,42,26,16,4,69,0,0,1,Mikhail Youzhny,Federer,2004,6,2
+2004-06-07,Halle,Grass,R32,1,191,6-3 6-2,118,10,4,56,34,22,3,69,0,0,1,Thomas Johansson,Federer,2004,6,2
+2004-05-24,Roland Garros,Clay,R32,1,30,6-4 6-4 6-4,186,10,2,95,60,35,6,124,0,0,0,Gustavo Kuerten,Gustavo Kuerten,2004,5,3
+2004-05-24,Roland Garros,Clay,R64,1,34,6-3 6-4 7-6(6),235,5,12,126,67,59,2,151,0,0,1,Nicolas Kiefer,Federer,2004,5,3
+2004-05-24,Roland Garros,Clay,R128,1,110,6-1 6-2 6-1,128,4,1,54,33,21,0,76,0,0,1,Kristof Vliegen,Federer,2004,5,3
+2004-05-10,Hamburg Masters,Clay,F,1,3,4-6 6-4 6-2 6-3,215,7,0,113,64,49,2,141,0,0,1,Guillermo Coria,Federer,2004,5,4
+2004-05-10,Hamburg Masters,Clay,SF,1,17,6-0 6-4,93,5,0,41,28,13,1,61,0,0,1,Lleyton Hewitt,Federer,2004,5,2
+2004-05-10,Hamburg Masters,Clay,QF,1,8,6-4 6-3,104,2,1,57,34,23,1,64,0,0,1,Carlos Moya,Federer,2004,5,2
+2004-05-10,Hamburg Masters,Clay,R16,1,14,7-5 6-1,122,1,2,54,40,14,2,74,0,0,1,Fernando Gonzalez,Federer,2004,5,2
+2004-05-10,Hamburg Masters,Clay,R32,1,67,6-3 6-3,93,1,0,46,30,16,4,60,0,0,1,Nicolas Lapentti,Federer,2004,5,2
+2004-05-10,Hamburg Masters,Clay,R64,1,34,6-1 5-7 6-4,182,11,1,97,55,42,1,116,0,0,1,Gaston Gaudio,Federer,2004,5,3
+2004-05-03,Rome Masters,Clay,R32,1,39,3-6 6-3 6-2,176,6,4,83,48,35,3,127,0,0,0,Albert Costa,Albert Costa,2004,5,3
+2004-05-03,Rome Masters,Clay,R64,1,26,7-6(4) 6-3,132,4,3,69,39,30,1,84,0,0,1,Jonas Bjorkman,Federer,2004,5,2
+2004-04-09,Davis Cup WG QF: SUI vs FRA,Hard,RR,1,81,6-2 6-4 6-4,,,,,,,,,0,0,1,Nicolas Escude,Federer,2004,4,3
+2004-04-09,Davis Cup WG QF: SUI vs FRA,Hard,RR,1,25,6-2 7-5 6-4,,,,,,,,,0,0,1,Arnaud Clement,Federer,2004,4,3
+2004-03-22,Miami Masters,Hard,R32,1,34,6-3 6-3,104,8,2,56,34,22,1,70,0,0,0,Rafael Nadal,Rafael Nadal,2004,3,2
+2004-03-22,Miami Masters,Hard,R64,1,54,6-2 3-6 7-5,175,7,3,96,63,33,0,117,0,0,1,Nikolay Davydenko,Federer,2004,3,3
+2004-03-08,Indian Wells Masters,Hard,F,1,10,6-3 6-3,97,3,0,45,27,18,0,67,0,0,1,Tim Henman,Federer,2004,3,2
+2004-03-08,Indian Wells Masters,Hard,SF,1,5,4-6 6-3 6-4,178,12,5,85,50,35,2,113,0,0,1,Andre Agassi,Federer,2004,3,3
+2004-03-08,Indian Wells Masters,Hard,QF,1,34,6-2 6-1,102,4,2,53,31,22,1,63,0,0,1,Juan Ignacio Chela,Federer,2004,3,2
+2004-03-08,Indian Wells Masters,Hard,R16,1,19,6-4 6-1,112,7,1,51,33,18,8,71,0,0,1,Mardy Fish,Federer,2004,3,2
+2004-03-08,Indian Wells Masters,Hard,R32,1,27,6-3 6-2,108,6,3,58,31,27,1,63,0,0,1,Fernando Gonzalez,Federer,2004,3,2
+2004-03-08,Indian Wells Masters,Hard,R64,1,49,6-1 6-1,103,5,2,44,29,15,1,64,0,0,1,Andrei Pavel,Federer,2004,3,2
+2004-03-01,Dubai,Hard,F,1,32,4-6 6-1 6-2,158,6,0,67,43,24,7,95,0,0,1,Feliciano Lopez,Federer,2004,3,3
+2004-03-01,Dubai,Hard,SF,1,34,7-6(7) 6-2,137,3,1,63,36,27,0,81,0,0,1,Jarkko Nieminen,Federer,2004,3,2
+2004-03-01,Dubai,Hard,QF,1,53,6-3 6-3,116,3,1,50,31,19,3,68,0,0,1,Andrei Pavel,Federer,2004,3,2
+2004-03-01,Dubai,Hard,R16,1,20,6-3 6-4,135,6,3,61,37,24,1,88,0,0,1,Tommy Robredo,Federer,2004,3,2
+2004-03-01,Dubai,Hard,R32,1,30,7-6(2) 7-6(4),174,4,3,96,46,50,5,119,0,0,1,Marat Safin,Federer,2004,3,2
+2004-02-16,Rotterdam,Hard,QF,1,11,6-3 7-6(9),151,2,3,75,45,30,6,98,0,0,0,Tim Henman,Tim Henman,2004,2,2
+2004-02-16,Rotterdam,Hard,R16,1,52,7-6(2) 7-5,169,4,4,85,55,30,1,96,0,0,1,Andrei Pavel,Federer,2004,2,2
+2004-02-16,Rotterdam,Hard,R32,1,29,6-4 6-3,122,5,0,49,32,17,4,74,0,0,1,Arnaud Clement,Federer,2004,2,2
+2004-02-06,Davis Cup WG R1: ROU vs SUI,Clay,RR,1,72,7-6(4) 6-3 6-1,,,,,,,,,0,0,1,Victor Hanescu,Federer,2004,2,3
+2004-02-06,Davis Cup WG R1: ROU vs SUI,Clay,RR,1,53,6-3 6-2 7-5,,,,,,,,,0,0,1,Andrei Pavel,Federer,2004,2,3
+2004-01-19,Australian Open,Hard,F,2,86,7-6(3) 6-4 6-2,206,8,2,90,48,42,3,135,0,0,1,Marat Safin,Federer,2004,1,3
+2004-01-19,Australian Open,Hard,SF,2,3,6-4 6-1 6-4,154,11,1,83,60,23,6,89,0,0,1,Juan Carlos Ferrero,Federer,2004,1,3
+2004-01-19,Australian Open,Hard,QF,2,8,7-5 6-4 5-7 6-3,244,20,3,127,76,51,5,161,0,0,1,David Nalbandian,Federer,2004,1,4
+2004-01-19,Australian Open,Hard,R16,2,11,4-6 6-3 6-0 6-4,230,14,4,117,69,48,5,138,0,0,1,Lleyton Hewitt,Federer,2004,1,4
+2004-01-19,Australian Open,Hard,R32,2,148,6-3 6-0 6-1,128,5,3,57,31,26,1,74,0,0,1,Todd Reid,Federer,2004,1,3
+2004-01-19,Australian Open,Hard,R64,2,156,6-2 6-3 6-4,177,5,2,84,52,32,8,94,0,0,1,Jeff Morrison,Federer,2004,1,3
+2004-01-19,Australian Open,Hard,R128,2,117,6-3 6-4 6-0,149,13,3,68,41,27,0,89,0,0,1,Alex Bogomolov Jr,Federer,2004,1,3
+2003-11-10,Masters Cup,Hard,F,3,5,6-3 6-0 6-4,144,11,5,70,36,34,1,96,0,0,1,Andre Agassi,Federer,2003,11,3
+2003-11-10,Masters Cup,Hard,SF,3,1,7-6(2) 6-2,119,12,2,56,31,25,5,62,0,0,1,Andy Roddick,Federer,2003,11,2
+2003-11-10,Masters Cup,Hard,RR,3,5,6-7(3) 6-3 7-6(7),241,20,6,124,66,58,4,146,0,0,1,Andre Agassi,Federer,2003,11,3
+2003-11-10,Masters Cup,Hard,RR,3,8,6-3 6-0,106,2,3,51,25,26,1,71,0,0,1,David Nalbandian,Federer,2003,11,2
+2003-11-10,Masters Cup,Hard,RR,3,2,6-3 6-1,102,6,1,49,28,21,5,54,0,0,1,Juan Carlos Ferrero,Federer,2003,11,2
+2003-10-27,Paris Masters,Carpet,QF,3,31,7-6(5) 6-1,122,3,2,54,30,24,4,79,0,0,0,Tim Henman,Tim Henman,2003,10,2
+2003-10-27,Paris Masters,Carpet,R16,3,16,6-7(3) 7-6(12) 7-6(6),242,16,3,113,71,42,24,146,0,0,1,Martin Verkerk,Federer,2003,10,3
+2003-10-27,Paris Masters,Carpet,R32,3,106,7-6(5) 6-1,112,6,2,61,38,23,1,60,0,0,1,Thierry Ascione,Federer,2003,10,2
+2003-10-20,Basel,Carpet,R16,3,47,7-6(5) 6-7(5) 6-4,241,10,3,125,87,38,27,143,0,0,0,Ivan Ljubicic,Ivan Ljubicic,2003,10,3
+2003-10-20,Basel,Carpet,R32,3,117,6-1 6-3,99,3,2,49,27,22,2,57,0,0,1,Marc Rosset,Federer,2003,10,2
+2003-10-13,Madrid Masters,Hard,SF,3,1,6-4 4-6 6-4,,,,,,,,,0,0,0,Juan Carlos Ferrero,Juan Carlos Ferrero,2003,10,3
+2003-10-13,Madrid Masters,Hard,QF,3,35,4-6 7-6(3) 6-4,,,,,,,,,0,0,1,Feliciano Lopez,Federer,2003,10,3
+2003-10-13,Madrid Masters,Hard,R16,3,25,6-3 7-6(4),,,,,,,,,0,0,1,Mardy Fish,Federer,2003,10,2
+2003-10-13,Madrid Masters,Hard,R32,3,127,6-4 6-3,,,,,,,,,0,0,1,Alex Corretja,Federer,2003,10,2
+2003-10-06,Vienna,Hard,F,3,7,6-3 6-3 6-3,162,10,2,84,55,29,1,93,0,0,1,Carlos Moya,Federer,2003,10,3
+2003-10-06,Vienna,Hard,SF,3,28,6-2 7-6(2),123,4,0,57,37,20,4,74,0,0,1,Max Mirnyi,Federer,2003,10,2
+2003-10-06,Vienna,Hard,QF,3,30,6-3 6-3,108,6,0,61,40,21,2,60,0,0,1,Jarkko Nieminen,Federer,2003,10,2
+2003-10-06,Vienna,Hard,R16,3,70,6-3 4-6 6-4,183,2,7,83,42,41,6,116,0,0,1,Karol Beck,Federer,2003,10,3
+2003-10-06,Vienna,Hard,R32,3,75,6-2 6-2,104,1,0,47,31,16,0,56,0,0,1,David Ferrer,Federer,2003,10,2
+2003-09-19,Davis Cup WG SF: AUS vs SUI,Hard,RR,3,15,6-3 6-4 7-6(3),,,,,,,,,0,0,1,Mark Philippoussis,Federer,2003,9,3
+2003-09-19,Davis Cup WG SF: AUS vs SUI,Hard,RR,3,7,5-7 2-6 7-6(4) 7-5 6-1,,,,,,,,,0,0,0,Lleyton Hewitt,Lleyton Hewitt,2003,9,5
+2003-08-25,US Open,Hard,R16,2,13,3-6 7-6(1) 6-4 6-3,255,16,4,143,78,65,3,172,0,0,0,David Nalbandian,David Nalbandian,2003,8,4
+2003-08-25,US Open,Hard,R32,2,35,6-3 7-6(4) 6-3,229,10,3,101,62,39,5,119,0,0,1,James Blake,Federer,2003,8,3
+2003-08-25,US Open,Hard,R64,2,94,6-1 6-2 6-0,137,5,2,61,41,20,0,77,0,0,1,Jean Rene Lisnard,Federer,2003,8,3
+2003-08-25,US Open,Hard,R128,2,75,5-7 6-3 6-3 2-0 RET,205,15,3,76,55,21,9,126,1,0,1,Jose Acasuso,Federer,2003,8,5
+2003-08-11,Cincinnati Masters,Hard,R32,2,14,7-6(4) 7-6(5),184,14,6,90,43,47,3,126,0,0,0,David Nalbandian,David Nalbandian,2003,8,2
+2003-08-11,Cincinnati Masters,Hard,R64,2,114,4-6 6-3 7-6(10),214,14,4,108,69,39,6,122,0,0,1,Scott Draper,Federer,2003,8,3
+2003-08-04,Canada Masters,Hard,SF,3,7,6-4 3-6 7-6(3),185,9,10,100,56,44,9,116,0,0,0,Andy Roddick,Andy Roddick,2003,8,3
+2003-08-04,Canada Masters,Hard,QF,3,32,6-2 7-6(3),119,8,0,57,37,20,3,76,0,0,1,Max Mirnyi,Federer,2003,8,2
+2003-08-04,Canada Masters,Hard,R16,3,15,6-4 6-3,109,4,1,56,29,27,3,67,0,0,1,Tommy Robredo,Federer,2003,8,2
+2003-08-04,Canada Masters,Hard,R32,3,60,6-4 6-3,111,1,1,52,27,25,1,65,0,0,1,Greg Rusedski,Federer,2003,8,2
+2003-08-04,Canada Masters,Hard,R64,3,28,6-4 3-6 7-5,185,11,5,92,51,41,0,125,0,0,1,Gaston Gaudio,Federer,2003,8,3
+2003-07-07,Gstaad,Clay,F,3,10,5-7 6-3 6-3 1-6 6-3,290,19,11,148,83,65,3,169,0,0,0,Jiri Novak,Jiri Novak,2003,7,5
+2003-07-07,Gstaad,Clay,SF,3,27,6-1 7-6(6),129,12,2,61,39,22,0,88,0,0,1,Gaston Gaudio,Federer,2003,7,2
+2003-07-07,Gstaad,Clay,QF,3,56,W/O,,,,,,,,,0,1,1,David Sanchez,,2003,7,1
+2003-07-07,Gstaad,Clay,R16,3,99,6-1 6-2,91,9,2,42,20,22,1,54,0,0,1,Jean Rene Lisnard,Federer,2003,7,2
+2003-07-07,Gstaad,Clay,R32,3,190,6-3 6-7(4) 6-3,196,16,3,88,48,40,1,124,0,0,1,Marc Lopez,Federer,2003,7,3
+2003-06-23,Wimbledon,Grass,F,5,48,7-6(5) 6-2 7-6(3),195,21,2,93,53,40,14,116,0,0,1,Mark Philippoussis,Federer,2003,6,3
+2003-06-23,Wimbledon,Grass,SF,5,6,7-6(6) 6-3 6-3,183,17,0,84,51,33,4,103,0,0,1,Andy Roddick,Federer,2003,6,3
+2003-06-23,Wimbledon,Grass,QF,5,12,6-3 6-4 6-4,194,13,5,92,62,30,1,98,0,0,1,Sjeng Schalken,Federer,2003,6,3
+2003-06-23,Wimbledon,Grass,R16,5,52,7-6(5) 6-4 6-4,231,9,2,104,69,35,13,126,0,0,1,Feliciano Lopez,Federer,2003,6,3
+2003-06-23,Wimbledon,Grass,R32,5,45,6-3 6-1 4-6 6-1,212,13,4,110,59,51,9,120,0,0,1,Mardy Fish,Federer,2003,6,4
+2003-06-23,Wimbledon,Grass,R64,5,70,7-5 6-1 6-1,148,6,3,73,44,29,0,77,0,0,1,Stefan Koubek,Federer,2003,6,3
+2003-06-23,Wimbledon,Grass,R128,5,55,6-3 6-3 7-6(2),196,15,3,99,64,35,2,105,0,0,1,Hyung Taik Lee,Federer,2003,6,3
+2003-06-09,Halle,Grass,F,5,73,6-1 6-3,95,3,1,45,26,19,3,69,0,0,1,Nicolas Kiefer,Federer,2003,6,2
+2003-06-09,Halle,Grass,SF,5,29,4-6 7-6(4) 6-2,235,12,4,90,60,30,4,145,0,0,1,Mikhail Youzhny,Federer,2003,6,3
+2003-06-09,Halle,Grass,QF,5,24,7-5 7-6(3),148,9,1,69,48,21,7,80,0,0,1,Younes El Aynaoui,Federer,2003,6,2
+2003-06-09,Halle,Grass,R16,5,62,4-6 6-2 6-1,148,11,2,76,55,21,1,84,0,0,1,Fernando Vicente,Federer,2003,6,3
+2003-06-09,Halle,Grass,R32,5,61,7-5 6-1,134,6,1,61,36,25,3,81,0,0,1,Sargis Sargsian,Federer,2003,6,2
+2003-05-26,Roland Garros,Clay,R128,5,88,7-6(6) 6-2 7-6(3),214,10,4,103,59,44,4,131,0,0,0,Luis Horna,Luis Horna,2003,5,3
+2003-05-12,Hamburg Masters,Clay,R16,5,67,6-3 2-6 6-3,190,1,5,85,52,33,3,124,0,0,0,Mark Philippoussis,Mark Philippoussis,2003,5,3
+2003-05-12,Hamburg Masters,Clay,R32,5,72,6-1 6-1,90,2,0,43,26,17,1,52,0,0,1,Sargis Sargsian,Federer,2003,5,2
+2003-05-12,Hamburg Masters,Clay,R64,5,28,6-3 6-3,100,3,0,54,37,17,2,57,0,0,1,Max Mirnyi,Federer,2003,5,2
+2003-05-05,Rome Masters,Clay,F,5,47,7-5 6-2 7-6(8),243,8,7,104,51,53,0,161,0,0,0,Felix Mantilla,Felix Mantilla,2003,5,3
+2003-05-05,Rome Masters,Clay,SF,5,3,6-4 4-2 RET,85,3,1,40,16,24,2,57,1,0,1,Juan Carlos Ferrero,Federer,2003,5,3
+2003-05-05,Rome Masters,Clay,QF,5,100,6-3 5-7 6-2,191,6,0,82,47,35,0,122,0,0,1,Filippo Volandri,Federer,2003,5,3
+2003-05-05,Rome Masters,Clay,R16,5,19,6-1 6-1,84,1,2,38,24,14,0,49,0,0,1,Tommy Robredo,Federer,2003,5,2
+2003-05-05,Rome Masters,Clay,R32,5,39,7-6(4) 6-2,168,14,1,73,51,22,0,108,0,0,1,Mariano Zabaleta,Federer,2003,5,2
+2003-05-05,Rome Masters,Clay,R64,5,43,6-3 7-5,125,5,4,60,34,26,1,87,0,0,1,Paul Henri Mathieu,Federer,2003,5,2
+2003-04-28,Munich,Clay,F,5,35,6-1 6-4,96,4,1,50,28,22,0,56,0,0,1,Jarkko Nieminen,Federer,2003,4,2
+2003-04-28,Munich,Clay,SF,5,63,6-2 6-1,100,2,1,54,37,17,1,55,0,0,1,Stefan Koubek,Federer,2003,4,2
+2003-04-28,Munich,Clay,QF,5,30,6-2 6-3,102,3,0,49,31,18,0,61,0,0,1,Mikhail Youzhny,Federer,2003,4,2
+2003-04-28,Munich,Clay,R16,5,66,6-4 6-3,107,1,1,52,31,21,1,59,0,0,1,Raemon Sluiter,Federer,2003,4,2
+2003-04-28,Munich,Clay,R32,5,103,6-4 6-3,112,6,6,63,36,27,0,65,0,0,1,Zeljko Krajan,Federer,2003,4,2
+2003-04-04,Davis Cup WG QF: FRA vs SUI,Hard,RR,5,62,6-4 7-5 6-2,,,,,,,,,0,0,1,Nicolas Escude,Federer,2003,4,3
+2003-04-04,Davis Cup WG QF: FRA vs SUI,Hard,RR,5,51,6-1 6-0 6-2,,,,,,,,,0,0,1,Fabrice Santoro,Federer,2003,4,3
+2003-03-17,Miami Masters,Hard,QF,4,9,7-6(4) 4-6 7-6(7),249,13,5,127,78,49,4,192,0,0,0,Albert Costa,Albert Costa,2003,3,3
+2003-03-17,Miami Masters,Hard,R16,4,14,6-3 6-2,128,1,3,64,28,36,0,77,0,0,1,Sjeng Schalken,Federer,2003,3,2
+2003-03-17,Miami Masters,Hard,R32,4,33,6-1 3-6 6-1,129,9,2,66,43,23,3,75,0,0,1,Juan Ignacio Chela,Federer,2003,3,3
+2003-03-17,Miami Masters,Hard,R64,4,82,6-2 7-5,121,7,4,58,34,24,3,81,0,0,1,Luis Horna,Federer,2003,3,2
+2003-03-10,Indian Wells Masters,Hard,R32,4,24,7-5 7-6(3),163,4,3,76,43,33,6,105,0,0,0,Gustavo Kuerten,Gustavo Kuerten,2003,3,2
+2003-03-10,Indian Wells Masters,Hard,R64,4,46,6-7(4) 6-4 4-1 RET,175,12,4,81,53,28,1,108,1,0,1,Felix Mantilla,Federer,2003,3,4
+2003-02-24,Dubai,Hard,F,5,10,6-1 7-6(2),122,3,4,59,23,36,0,76,0,0,1,Jiri Novak,Federer,2003,2,2
+2003-02-24,Dubai,Hard,SF,5,60,6-3 6-2,95,3,1,44,29,15,3,55,0,0,1,Ivan Ljubicic,Federer,2003,2,2
+2003-02-24,Dubai,Hard,QF,5,113,7-5 6-3,140,4,1,77,53,24,1,78,0,0,1,Hicham Arazi,Federer,2003,2,2
+2003-02-24,Dubai,Hard,R16,5,217,6-4 7-5,137,3,2,56,37,19,2,79,0,0,1,Maximilian Abel,Federer,2003,2,2
+2003-02-24,Dubai,Hard,R32,5,103,6-3 6-3,116,2,2,50,31,19,4,63,0,0,1,Irakli Labadze,Federer,2003,2,2
+2003-02-17,Rotterdam,Hard,SF,5,46,5-7 6-3 6-4,164,5,3,78,48,30,13,101,0,0,0,Max Mirnyi,Max Mirnyi,2003,2,3
+2003-02-17,Rotterdam,Hard,QF,5,19,6-2 6-4,104,9,3,57,33,24,0,66,0,0,1,Sjeng Schalken,Federer,2003,2,2
+2003-02-17,Rotterdam,Hard,R16,5,32,6-0 6-4,89,1,2,40,24,16,2,58,0,0,1,Fabrice Santoro,Federer,2003,2,2
+2003-02-17,Rotterdam,Hard,R32,5,71,3-6 6-3 6-4,164,9,5,71,38,33,8,97,0,0,1,Thomas Enqvist,Federer,2003,2,3
+2003-02-10,Marseille,Hard,F,6,86,6-2 7-6(6),143,5,2,63,41,22,8,84,0,0,1,Jonas Bjorkman,Federer,2003,2,2
+2003-02-10,Marseille,Hard,SF,6,62,7-6(5) 6-3,132,3,1,57,41,16,4,86,0,0,1,Karol Kucera,Federer,2003,2,2
+2003-02-10,Marseille,Hard,QF,6,78,6-4 4-6 6-4,185,12,8,93,57,36,4,108,0,0,1,Raemon Sluiter,Federer,2003,2,3
+2003-02-10,Marseille,Hard,R16,6,35,6-3 6-3,121,10,2,66,39,27,3,67,0,0,1,Jarkko Nieminen,Federer,2003,2,2
+2003-02-10,Marseille,Hard,R32,6,52,7-6(3) RET,81,5,2,38,24,14,7,51,1,0,1,Ivan Ljubicic,Federer,2003,2,2
+2003-02-07,Davis Cup WG R1: NED vs SUI,Carpet,RR,6,77,6-2 6-1 6-3,,,,,,,,,0,0,1,Raemon Sluiter,Federer,2003,2,3
+2003-02-07,Davis Cup WG R1: NED vs SUI,Carpet,RR,6,19,7-6(2) 6-4 7-5,,,,,,,,,0,0,1,Sjeng Schalken,Federer,2003,2,3
+2003-01-13,Australian Open,Hard,R16,6,12,6-4 3-6 6-1 1-6 6-3,281,9,9,148,77,71,3,178,0,0,0,David Nalbandian,David Nalbandian,2003,1,5
+2003-01-13,Australian Open,Hard,R32,6,145,6-3 6-4 6-2,167,9,0,72,45,27,4,96,0,0,1,Andreas Vinciguerra,Federer,2003,1,3
+2003-01-13,Australian Open,Hard,R64,6,76,6-3 6-0 6-3,159,3,4,72,32,40,1,104,0,0,1,Lars Burgsmuller,Federer,2003,1,3
+2003-01-13,Australian Open,Hard,R128,6,83,7-6(4) 7-5 6-3,265,8,8,126,70,56,3,168,0,0,1,Flavio Saretta,Federer,2003,1,3
+2003-01-06,Sydney,Hard,R32,6,81,6-2 6-3,110,3,5,63,42,21,4,54,0,0,0,Franco Squillari,Franco Squillari,2003,1,2
+2002-12-30,Doha,Hard,QF,6,42,6-4 7-5,147,2,4,78,44,34,4,94,0,0,0,Jan Michael Gambill,Jan Michael Gambill,2002,12,2
+2002-12-30,Doha,Hard,R16,6,69,6-4 6-4,118,9,2,60,36,24,0,68,0,0,1,Michel Kratochvil,Federer,2002,12,2
+2002-12-30,Doha,Hard,R32,6,139,6-2 6-7(4) 6-4,207,16,5,107,65,42,1,116,0,0,1,Andrei Stoliarov,Federer,2002,12,3
+2002-11-11,Masters Cup,Hard,SF,6,1,7-5 5-7 7-5,246,3,5,114,62,52,7,180,0,0,0,Lleyton Hewitt,Lleyton Hewitt,2002,11,3
+2002-11-11,Masters Cup,Hard,RR,6,4,6-3 6-4,112,4,5,55,30,25,2,72,0,0,1,Juan Carlos Ferrero,Federer,2002,11,2
+2002-11-11,Masters Cup,Hard,RR,6,7,6-0 4-6 6-2,151,7,0,71,41,30,0,91,0,0,1,Jiri Novak,Federer,2002,11,3
+2002-11-11,Masters Cup,Hard,RR,6,14,6-3 7-5,130,7,2,65,44,21,8,74,0,0,1,Thomas Johansson,Federer,2002,11,2
+2002-10-28,Paris Masters,Carpet,QF,8,1,6-4 6-4,145,8,1,68,40,28,3,91,0,0,0,Lleyton Hewitt,Lleyton Hewitt,2002,10,2
+2002-10-28,Paris Masters,Carpet,R16,8,7,6-2 7-6(2),132,7,4,64,31,33,5,75,0,0,1,Tommy Haas,Federer,2002,10,2
+2002-10-28,Paris Masters,Carpet,R32,8,26,6-2 6-4,101,5,1,48,32,16,0,52,0,0,1,Xavier Malisse,Federer,2002,10,2
+2002-10-21,Basel,Carpet,SF,8,18,6-7(2) 7-5 6-3,207,10,2,96,73,23,3,133,0,0,0,David Nalbandian,David Nalbandian,2002,10,3
+2002-10-21,Basel,Carpet,QF,8,12,7-6(5) 6-1,126,4,1,50,29,21,14,70,0,0,1,Andy Roddick,Federer,2002,10,2
+2002-10-21,Basel,Carpet,R16,8,143,6-3 7-6(1),119,8,1,60,40,20,8,68,0,0,1,Alexander Waske,Federer,2002,10,2
+2002-10-21,Basel,Carpet,R32,8,92,6-3 6-3,114,4,1,49,31,18,4,76,0,0,1,Martin Verkerk,Federer,2002,10,2
+2002-10-14,Madrid Masters,Hard,QF,7,50,7-5 6-3,131,4,1,60,44,16,1,78,0,0,0,Fabrice Santoro,Fabrice Santoro,2002,10,2
+2002-10-14,Madrid Masters,Hard,R16,7,30,6-3 6-4,126,4,0,60,41,19,3,81,0,0,1,Nicolas Lapentti,Federer,2002,10,2
+2002-10-14,Madrid Masters,Hard,R32,7,25,6-4 6-2,122,5,3,53,28,25,4,65,0,0,1,Marcelo Rios,Federer,2002,10,2
+2002-10-07,Vienna,Hard,F,13,12,6-4 6-1 3-6 6-4,232,12,3,116,68,48,2,129,0,0,1,Jiri Novak,Federer,2002,10,4
+2002-10-07,Vienna,Hard,SF,13,9,6-2 6-3,114,4,1,53,36,17,1,66,0,0,1,Carlos Moya,Federer,2002,10,2
+2002-10-07,Vienna,Hard,QF,13,73,6-3 6-3,117,5,0,47,28,19,2,60,0,0,1,Bohdan Ulihrach,Federer,2002,10,2
+2002-10-07,Vienna,Hard,R16,13,36,6-2 6-7(5) 6-4,197,4,2,106,59,47,3,116,0,0,1,Tommy Robredo,Federer,2002,10,3
+2002-10-07,Vienna,Hard,R32,13,115,7-5 6-1,113,6,0,55,39,16,1,66,0,0,1,Zeljko Krajan,Federer,2002,10,2
+2002-09-30,Moscow,Carpet,QF,13,4,7-5 6-4,132,5,2,75,46,29,3,79,0,0,0,Marat Safin,Marat Safin,2002,9,2
+2002-09-30,Moscow,Carpet,R16,13,35,6-1 6-4,95,3,3,53,26,27,2,51,0,0,1,Jarkko Nieminen,Federer,2002,9,2
+2002-09-30,Moscow,Carpet,R32,13,167,6-0 6-1,74,4,1,38,28,10,1,37,0,0,1,Denis Golovanov,Federer,2002,9,2
+2002-09-20,Davis Cup WG PO: MAR vs SUI,Clay,RR,13,70,6-3 6-2 6-1,,,,,,,,,0,0,1,Hicham Arazi,Federer,2002,9,3
+2002-09-20,Davis Cup WG PO: MAR vs SUI,Clay,RR,13,19,6-3 6-2 6-1,,,,,,,,,0,0,1,Younes El Aynaoui,Federer,2002,9,3
+2002-08-26,US Open,Hard,R16,13,34,6-3 7-6(5) 6-4,194,4,4,93,48,45,11,112,0,0,0,Max Mirnyi,Max Mirnyi,2002,8,3
+2002-08-26,US Open,Hard,R32,13,19,4-6 6-3 6-4 6-4,231,8,4,112,62,50,4,133,0,0,1,Xavier Malisse,Federer,2002,8,4
+2002-08-26,US Open,Hard,R64,13,132,6-3 6-1 6-3,162,12,7,81,55,26,2,95,0,0,1,Michael Chang,Federer,2002,8,3
+2002-08-26,US Open,Hard,R128,13,157,6-1 6-3 4-6 7-5,221,8,7,105,58,47,5,126,0,0,1,Jiri Vanek,Federer,2002,8,4
+2002-08-19,Long Island,Hard,R32,13,65,6-7(5) 6-1 6-3,203,6,7,113,61,52,3,120,0,0,0,Nicolas Massu,Nicolas Massu,2002,8,3
+2002-08-05,Cincinnati Masters,Hard,R64,14,34,2-6 6-4 6-3,153,7,5,76,39,37,13,101,0,0,0,Ivan Ljubicic,Ivan Ljubicic,2002,8,3
+2002-07-29,Canada Masters,Hard,R64,10,19,7-6(10) 7-5,155,6,6,84,49,35,12,101,0,0,0,Guillermo Canas,Guillermo Canas,2002,7,2
+2002-07-08,Gstaad,Clay,R16,11,110,3-6 6-3 6-2,155,7,2,83,38,45,8,85,0,0,0,Radek Stepanek,Radek Stepanek,2002,7,3
+2002-07-08,Gstaad,Clay,R32,11,46,6-4 6-3,145,12,3,70,39,31,5,85,0,0,1,Hicham Arazi,Federer,2002,7,2
+2002-06-24,Wimbledon,Grass,R128,9,154,6-3 7-6(2) 6-3,182,1,8,86,47,39,5,100,0,0,0,Mario Ancic,Mario Ancic,2002,6,3
+2002-06-17,s Hertogenbosch,Grass,QF,9,31,3-6 7-5 6-3,170,3,8,84,48,36,2,98,0,0,0,Sjeng Schalken,Sjeng Schalken,2002,6,3
+2002-06-17,s Hertogenbosch,Grass,R16,9,127,6-4 RET,61,1,0,35,20,15,1,36,1,0,1,Ivo Heuberger,Federer,2002,6,2
+2002-06-17,s Hertogenbosch,Grass,R32,9,,6-2 7-5,106,3,2,57,33,24,6,58,0,0,1,Richard Krajicek,Federer,2002,6,2
+2002-06-10,Halle,Grass,SF,10,66,4-6 6-4 6-4,167,11,5,83,44,39,5,102,0,0,0,Nicolas Kiefer,Nicolas Kiefer,2002,6,3
+2002-06-10,Halle,Grass,QF,10,67,6-3 6-4,106,9,1,58,42,16,0,59,0,0,1,Mikhail Youzhny,Federer,2002,6,2
+2002-06-10,Halle,Grass,R16,10,206,6-2 6-4,124,5,4,60,33,27,7,66,0,0,1,David Prinosil,Federer,2002,6,2
+2002-06-10,Halle,Grass,R32,10,,6-7(5) 6-3 6-4,198,15,5,92,59,33,10,105,0,0,1,Hendrik Dreekmann,Federer,2002,6,3
+2002-05-27,Roland Garros,Clay,R128,8,45,6-3 6-2 6-4,165,5,4,85,43,42,1,95,0,0,0,Hicham Arazi,Hicham Arazi,2002,5,3
+2002-05-13,Hamburg Masters,Clay,F,14,5,6-1 6-3 6-4,198,4,2,81,43,38,4,122,0,0,1,Marat Safin,Federer,2002,5,3
+2002-05-13,Hamburg Masters,Clay,SF,14,39,6-4 6-4,140,7,1,59,39,20,4,84,0,0,1,Max Mirnyi,Federer,2002,5,2
+2002-05-13,Hamburg Masters,Clay,QF,14,7,6-0 1-6 6-2,149,7,4,69,35,34,4,85,0,0,1,Gustavo Kuerten,Federer,2002,5,3
+2002-05-13,Hamburg Masters,Clay,R16,14,67,7-5 6-4,125,2,1,64,39,25,2,71,0,0,1,Adrian Voinea,Federer,2002,5,2
+2002-05-13,Hamburg Masters,Clay,R32,14,42,6-3 6-0,84,4,2,37,18,19,2,42,0,0,1,Bohdan Ulihrach,Federer,2002,5,2
+2002-05-13,Hamburg Masters,Clay,R64,14,29,6-1 6-4,134,5,1,71,50,21,2,81,0,0,1,Nicolas Lapentti,Federer,2002,5,2
+2002-05-06,Rome Masters,Clay,R64,11,58,6-4 6-4,108,6,0,56,31,25,4,72,0,0,0,Andrea Gaudenzi,Andrea Gaudenzi,2002,5,2
+2002-04-15,Monte Carlo Masters,Clay,R32,11,35,6-2 6-1,104,3,0,63,43,20,0,61,0,0,0,David Nalbandian,David Nalbandian,2002,4,2
+2002-04-15,Monte Carlo Masters,Clay,R64,11,69,7-6(2) 6-4,,,,,,,,,0,0,1,Mariano Zabaleta,Federer,2002,4,2
+2002-03-18,Miami Masters,Hard,F,14,10,6-3 6-3 3-6 6-4,227,10,3,111,69,42,8,141,0,0,0,Andre Agassi,Andre Agassi,2002,3,4
+2002-03-18,Miami Masters,Hard,SF,14,1,6-3 6-4,134,6,0,59,32,27,2,89,0,0,1,Lleyton Hewitt,Federer,2002,3,2
+2002-03-18,Miami Masters,Hard,QF,14,28,6-1 6-1,93,5,0,45,30,15,1,55,0,0,1,Andrei Pavel,Federer,2002,3,2
+2002-03-18,Miami Masters,Hard,R16,14,6,6-2 RET,46,2,1,23,13,10,0,35,1,0,1,Tim Henman,Federer,2002,3,2
+2002-03-18,Miami Masters,Hard,R32,14,25,6-4 6-1,109,6,2,47,30,17,2,67,0,0,1,Albert Portas,Federer,2002,3,2
+2002-03-18,Miami Masters,Hard,R64,14,139,6-1 7-6(6),133,7,2,78,48,30,5,69,0,0,1,Jeff Morrison,Federer,2002,3,2
+2002-03-11,Indian Wells Masters,Hard,R16,14,22,6-4 6-3,126,10,0,67,42,25,4,74,0,0,0,Thomas Enqvist,Thomas Enqvist,2002,3,2
+2002-03-11,Indian Wells Masters,Hard,R32,14,51,6-4 6-4,132,3,4,60,32,28,0,74,0,0,1,Stefan Koubek,Federer,2002,3,2
+2002-03-11,Indian Wells Masters,Hard,R64,14,33,6-7(5) 7-6(3) 6-3,238,14,4,123,65,58,3,138,0,0,1,Xavier Malisse,Federer,2002,3,3
+2002-02-25,Dubai,Hard,R16,14,40,6-3 6-1,96,3,2,53,35,18,4,53,0,0,0,Rainer Schuettler,Rainer Schuettler,2002,2,2
+2002-02-25,Dubai,Hard,R32,14,76,6-3 6-4,118,6,2,62,44,18,4,56,0,0,1,Adrian Voinea,Federer,2002,2,2
+2002-02-18,Rotterdam,Hard,QF,13,22,3-6 7-6(8) 7-5,221,12,4,115,64,51,10,126,0,0,0,Nicolas Escude,Nicolas Escude,2002,2,3
+2002-02-18,Rotterdam,Hard,R16,13,20,W/O,,,,,,,,,0,1,1,Thomas Enqvist,,2002,2,1
+2002-02-18,Rotterdam,Hard,R32,13,124,6-3 6-4,115,5,2,55,28,27,1,70,0,0,1,John Van Lottum,Federer,2002,2,2
+2002-02-08,Davis Cup WG R1: RUS vs SUI,Clay,RR,13,7,7-5 6-1 6-2,,,,,,,,,0,0,1,Marat Safin,Federer,2002,2,3
+2002-02-08,Davis Cup WG R1: RUS vs SUI,Clay,RR,13,4,7-6(6) 6-1 6-1,,,,,,,,,0,0,1,Yevgeny Kafelnikov,Federer,2002,2,3
+2002-01-28,Milan,Carpet,F,13,87,7-6(2) 4-6 6-1,208,5,5,97,57,40,8,125,0,0,0,Davide Sanguinetti,Davide Sanguinetti,2002,1,3
+2002-01-28,Milan,Carpet,SF,13,30,7-6(7) 7-6(4),167,8,2,78,56,22,10,94,0,0,1,Greg Rusedski,Federer,2002,1,2
+2002-01-28,Milan,Carpet,QF,13,74,4-6 6-3 6-3,166,12,2,96,65,31,3,94,0,0,1,Sargis Sargsian,Federer,2002,1,3
+2002-01-28,Milan,Carpet,R16,13,84,6-3 6-7(4) 7-5,209,8,1,97,71,26,9,123,0,0,1,Nikolay Davydenko,Federer,2002,1,3
+2002-01-28,Milan,Carpet,R32,13,50,7-6(2) 6-3,137,6,3,76,50,26,1,68,0,0,1,Stefan Koubek,Federer,2002,1,2
+2002-01-14,Australian Open,Hard,R16,12,9,7-6(3) 4-6 3-6 6-4 8-6,347,25,6,175,106,69,11,215,0,0,0,Tommy Haas,Tommy Haas,2002,1,5
+2002-01-14,Australian Open,Hard,R32,12,41,7-6(6) 7-6(5) 6-4,225,7,1,105,66,39,3,137,0,0,1,Rainer Schuettler,Federer,2002,1,3
+2002-01-14,Australian Open,Hard,R64,12,93,6-2 7-5 6-4,196,10,0,86,60,26,8,124,0,0,1,Attila Savolt,Federer,2002,1,3
+2002-01-14,Australian Open,Hard,R128,12,94,6-4 6-4 6-3,190,9,4,86,57,29,2,126,0,0,1,Michael Chang,Federer,2002,1,3
+2002-01-07,Sydney,Hard,F,13,67,6-3 6-3,95,7,0,48,29,19,2,53,0,0,1,Juan Ignacio Chela,Federer,2002,1,2
+2002-01-07,Sydney,Hard,SF,13,15,7-6(3) 6-4,150,7,4,70,37,33,5,81,0,0,1,Andy Roddick,Federer,2002,1,2
+2002-01-07,Sydney,Hard,QF,13,47,6-7(2) 7-6(4) 6-3,209,14,2,111,67,44,7,111,0,0,1,Marcelo Rios,Federer,2002,1,3
+2002-01-07,Sydney,Hard,R16,13,31,6-2 6-4,123,5,3,69,39,30,0,68,0,0,1,Xavier Malisse,Federer,2002,1,2
+2002-01-07,Sydney,Hard,R32,13,34,7-6(5) 7-6(5),158,4,3,75,43,32,2,87,0,0,1,Tommy Robredo,Federer,2002,1,2
+2001-10-29,Paris Masters,Carpet,R32,13,40,6-4 6-7(4) 7-6(2),230,15,2,125,81,44,6,118,0,0,0,Jiri Novak,Jiri Novak,2001,10,3
+2001-10-22,Basel,Carpet,F,13,11,6-3 6-4 6-2,180,2,2,91,51,40,7,115,0,0,0,Tim Henman,Tim Henman,2001,10,3
+2001-10-22,Basel,Carpet,SF,13,64,7-6(3) 6-4,138,10,1,70,42,28,5,90,0,0,1,Julien Boutter,Federer,2001,10,2
+2001-10-22,Basel,Carpet,QF,13,16,3-6 6-3 7-6(5),177,11,2,84,51,33,9,101,0,0,1,Andy Roddick,Federer,2001,10,3
+2001-10-22,Basel,Carpet,R16,13,39,6-3 6-4,112,6,1,54,31,23,3,63,0,0,1,Xavier Malisse,Federer,2001,10,2
+2001-10-22,Basel,Carpet,R32,13,34,6-3 6-3,110,9,2,49,32,17,2,62,0,0,1,Albert Costa,Federer,2001,10,2
+2001-10-15,Stuttgart Masters,Hard,R32,12,36,7-6(1) 3-6 6-2,189,7,2,111,64,47,11,105,0,0,0,Wayne Ferreira,Wayne Ferreira,2001,10,3
+2001-10-08,Vienna,Hard,QF,12,90,7-6(3) 7-5,162,3,1,75,49,26,4,97,0,0,0,Stefan Koubek,Stefan Koubek,2001,10,2
+2001-10-08,Vienna,Hard,R16,12,33,7-6(1) 6-2,139,6,2,79,41,38,4,87,0,0,1,Albert Costa,Federer,2001,10,2
+2001-10-08,Vienna,Hard,R32,12,78,4-6 7-6(8) 6-4,232,16,5,108,69,39,4,162,0,0,1,Nicolas Massu,Federer,2001,10,3
+2001-10-01,Moscow,Carpet,R32,12,39,6-3 1-6 7-6(4),163,8,1,80,51,29,3,116,0,0,0,Nicolas Kiefer,Nicolas Kiefer,2001,10,3
+2001-08-27,US Open,Hard,R16,13,2,6-1 6-2 6-4,139,1,2,59,28,31,6,83,0,0,0,Andre Agassi,Andre Agassi,2001,8,3
+2001-08-27,US Open,Hard,R32,13,24,6-4 7-5 7-6(3),203,11,7,93,54,39,4,118,0,0,1,Sjeng Schalken,Federer,2001,8,3
+2001-08-27,US Open,Hard,R64,13,327,6-2 7-5 6-1,172,16,2,83,55,28,1,85,0,0,1,Robby Ginepri,Federer,2001,8,3
+2001-08-27,US Open,Hard,R128,13,72,6-4 6-4 6-4,203,13,6,110,68,42,2,123,0,0,1,Lars Burgsmuller,Federer,2001,8,3
+2001-07-09,Gstaad,Clay,R32,14,70,6-2 6-1,92,6,4,48,20,28,13,50,0,0,0,Ivan Ljubicic,Ivan Ljubicic,2001,7,2
+2001-06-25,Wimbledon,Grass,QF,15,11,7-5 7-6(6) 2-6 7-6(6),290,12,2,150,91,59,7,193,0,0,0,Tim Henman,Tim Henman,2001,6,4
+2001-06-25,Wimbledon,Grass,R16,15,6,7-6(7) 5-7 6-4 6-7(2) 7-5,370,25,6,181,113,68,26,221,0,0,1,Pete Sampras,Federer,2001,6,5
+2001-06-25,Wimbledon,Grass,R32,15,41,7-6(4) 6-3 7-6(2),255,9,4,130,81,49,7,141,0,0,1,Jonas Bjorkman,Federer,2001,6,3
+2001-06-25,Wimbledon,Grass,R64,15,53,6-3 7-5 3-6 4-6 6-3,294,10,1,172,113,59,8,149,0,0,1,Xavier Malisse,Federer,2001,6,5
+2001-06-25,Wimbledon,Grass,R128,15,83,6-2 6-3 6-2,137,18,0,65,50,15,0,66,0,0,1,Christophe Rochus,Federer,2001,6,3
+2001-06-18,s Hertogenbosch,Grass,SF,15,6,6-4 6-2,124,3,3,57,37,20,2,75,0,0,0,Lleyton Hewitt,Lleyton Hewitt,2001,6,2
+2001-06-18,s Hertogenbosch,Grass,QF,15,107,6-7(4) 6-4 6-4,213,12,7,116,67,49,4,110,0,0,1,Raemon Sluiter,Federer,2001,6,3
+2001-06-18,s Hertogenbosch,Grass,R16,15,193,6-0 6-1,84,8,1,43,28,15,0,43,0,0,1,John Van Lottum,Federer,2001,6,2
+2001-06-18,s Hertogenbosch,Grass,R32,15,68,7-6(3) 6-4,140,2,4,67,45,22,1,71,0,0,1,Antony Dupuis,Federer,2001,6,2
+2001-06-11,Halle,Grass,QF,14,10,4-6 7-6(6) 7-6(4),212,9,3,109,62,47,8,125,0,0,0,Patrick Rafter,Patrick Rafter,2001,6,3
+2001-06-11,Halle,Grass,R16,14,28,7-6(8) 7-5,150,8,2,70,46,24,4,78,0,0,1,David Prinosil,Federer,2001,6,2
+2001-06-11,Halle,Grass,R32,14,23,6-7(4) 6-4 6-2,208,9,7,105,62,43,2,104,0,0,1,Albert Portas,Federer,2001,6,3
+2001-05-28,Roland Garros,Clay,QF,18,13,7-5 6-4 7-5,231,2,5,104,69,35,1,161,0,0,0,Alex Corretja,Alex Corretja,2001,5,3
+2001-05-28,Roland Garros,Clay,R16,18,59,3-6 6-3 6-4 6-2,253,5,3,106,57,49,12,147,0,0,1,Wayne Arthurs,Federer,2001,5,4
+2001-05-28,Roland Garros,Clay,R32,18,89,6-4 6-3 1-6 6-3,227,4,3,112,72,40,2,139,0,0,1,David Sanchez,Federer,2001,5,4
+2001-05-28,Roland Garros,Clay,R64,18,115,4-6 3-6 6-2 6-4 9-7,316,9,2,147,97,50,2,197,0,0,1,Sargis Sargsian,Federer,2001,5,5
+2001-05-28,Roland Garros,Clay,R128,18,239,6-3 6-3 6-3,183,10,5,84,44,40,0,104,0,0,1,Stefano Galvani,Federer,2001,5,3
+2001-05-14,Hamburg Masters,Clay,R64,18,19,6-3 6-4,114,0,1,47,29,18,1,65,0,0,0,Franco Squillari,Franco Squillari,2001,5,2
+2001-05-07,Rome Masters,Clay,R16,18,19,7-6(4) 6-2,130,5,2,55,28,27,1,83,0,0,0,Wayne Ferreira,Wayne Ferreira,2001,5,2
+2001-05-07,Rome Masters,Clay,R32,18,2,4-6 6-4 7-6(5),255,6,6,137,78,59,4,162,0,0,1,Marat Safin,Federer,2001,5,3
+2001-05-07,Rome Masters,Clay,R64,18,24,7-6(3) 4-6 7-6(5),228,4,3,116,74,42,4,144,0,0,1,Thomas Johansson,Federer,2001,5,3
+2001-04-16,Monte Carlo Masters,Clay,QF,22,15,6-4 6-3,128,3,2,71,39,32,3,73,0,0,0,Sebastien Grosjean,Sebastien Grosjean,2001,4,2
+2001-04-16,Monte Carlo Masters,Clay,R16,22,67,6-1 6-2,101,4,0,43,28,15,2,61,0,0,1,Arnaud Di Pasquale,Federer,2001,4,2
+2001-04-16,Monte Carlo Masters,Clay,R32,22,55,7-6(5) 7-6(0),169,0,3,91,40,51,1,104,0,0,1,Davide Sanguinetti,Federer,2001,4,2
+2001-04-16,Monte Carlo Masters,Clay,R64,22,33,6-4 6-3,139,7,2,78,49,29,0,85,0,0,1,Michael Chang,Federer,2001,4,2
+2001-04-06,Davis Cup WG QF: SUI vs FRA,Carpet,RR,21,34,6-4 6-7(1) 6-3 6-4,,,,,,,,,0,0,0,Nicolas Escude,Nicolas Escude,2001,4,4
+2001-04-06,Davis Cup WG QF: SUI vs FRA,Carpet,RR,21,10,6-4 3-6 7-6(5) 6-4,,,,,,,,,0,0,1,Arnaud Clement,Federer,2001,4,4
+2001-03-19,Miami Masters,Hard,QF,24,8,6-3 6-1,99,1,6,49,25,24,5,56,0,0,0,Patrick Rafter,Patrick Rafter,2001,3,2
+2001-03-19,Miami Masters,Hard,R16,24,25,7-6(3) 5-7 7-6(7),245,13,6,125,74,51,11,146,0,0,1,Thomas Johansson,Federer,2001,3,3
+2001-03-19,Miami Masters,Hard,R32,24,16,3-6 7-6(4) 6-2,186,9,4,85,46,39,10,112,0,0,1,Mark Philippoussis,Federer,2001,3,3
+2001-03-19,Miami Masters,Hard,R64,24,58,6-2 6-2,93,3,2,48,29,19,3,56,0,0,1,Younes El Aynaoui,Federer,2001,3,2
+2001-03-12,Indian Wells Masters,Hard,R64,21,43,3-6 7-5 6-1,189,5,4,101,58,43,4,117,0,0,0,Nicolas Kiefer,Nicolas Kiefer,2001,3,3
+2001-02-19,Rotterdam,Hard,F,23,60,7-5 3-6 7-6(5),225,11,4,109,55,54,8,143,0,0,0,Nicolas Escude,Nicolas Escude,2001,2,3
+2001-02-19,Rotterdam,Hard,SF,23,24,6-7(4) 6-4 6-0,187,13,0,87,53,34,8,110,0,0,1,Andrei Pavel,Federer,2001,2,3
+2001-02-19,Rotterdam,Hard,QF,23,8,6-4 6-2,109,7,2,45,24,21,4,73,0,0,1,Alex Corretja,Federer,2001,2,2
+2001-02-19,Rotterdam,Hard,R16,23,13,4-6 6-3 6-4,192,8,6,99,59,40,6,113,0,0,1,Sebastien Grosjean,Federer,2001,2,3
+2001-02-19,Rotterdam,Hard,R32,23,42,7-6(5) 6-1,129,4,2,56,29,27,2,71,0,0,1,Andrew Ilie,Federer,2001,2,2
+2001-02-12,Marseille,Hard,SF,23,7,6-7(4) 6-4 6-4,215,16,4,93,49,44,12,126,0,0,0,Yevgeny Kafelnikov,Yevgeny Kafelnikov,2001,2,3
+2001-02-12,Marseille,Hard,QF,23,78,6-4 7-6(4),142,7,2,77,37,40,3,88,0,0,1,Michel Kratochvil,Federer,2001,2,2
+2001-02-12,Marseille,Hard,R16,23,146,7-6(1) 6-3,126,15,3,64,41,23,6,66,0,0,1,Bob Bryan,Federer,2001,2,2
+2001-02-12,Marseille,Hard,R32,23,114,7-6(7) 6-4,136,17,2,76,49,27,2,89,0,0,1,Cyril Saulnier,Federer,2001,2,2
+2001-02-09,Davis Cup WG R1: SUI vs USA,Hard,RR,22,37,6-4 7-6(3) 4-6 6-1,,,,,,,,,0,0,1,Todd Martin,Federer,2001,2,4
+2001-02-09,Davis Cup WG R1: SUI vs USA,Hard,RR,22,28,7-5 6-2 4-6 6-2,,,,,,,,,0,0,1,Jan Michael Gambill,Federer,2001,2,4
+2001-01-29,Milan,Carpet,F,27,67,6-4 6-7(7) 6-4,216,7,4,103,57,46,7,140,0,0,1,Julien Boutter,Federer,2001,1,3
+2001-01-29,Milan,Carpet,SF,27,7,6-2 6-7(4) 6-3,185,14,3,88,46,42,5,110,0,0,1,Yevgeny Kafelnikov,Federer,2001,1,3
+2001-01-29,Milan,Carpet,QF,27,123,6-4 6-4,117,8,2,52,31,21,7,57,0,0,1,Goran Ivanisevic,Federer,2001,1,2
+2001-01-29,Milan,Carpet,R16,27,120,2-6 6-3 6-4,173,7,9,91,48,43,6,106,0,0,1,Cyril Saulnier,Federer,2001,1,3
+2001-01-29,Milan,Carpet,R32,27,48,6-3 6-4,109,2,0,43,23,20,1,61,0,0,1,Rainer Schuettler,Federer,2001,1,2
+2001-01-15,Australian Open,Hard,R32,29,18,7-6(5) 6-4 6-4,219,13,10,118,74,44,3,128,0,0,0,Arnaud Clement,Arnaud Clement,2001,1,3
+2001-01-15,Australian Open,Hard,R64,29,46,6-1 6-4 6-4,184,12,6,104,65,39,0,105,0,0,1,Nicolas Escude,Federer,2001,1,3
+2001-01-15,Australian Open,Hard,R128,29,61,6-4 4-6 6-1 7-5,244,6,0,120,81,39,1,132,0,0,1,Arnaud Di Pasquale,Federer,2001,1,4
+2001-01-08,Sydney,Hard,QF,30,19,7-5 6-4,155,1,2,67,33,34,1,87,0,0,0,Sebastien Grosjean,Sebastien Grosjean,2001,1,2
+2001-01-08,Sydney,Hard,R16,30,29,6-1 6-2,83,3,0,43,29,14,3,45,0,0,1,Marc Rosset,Federer,2001,1,2
+2001-01-08,Sydney,Hard,R32,30,13,6-3 6-4,116,1,1,50,34,16,5,58,0,0,1,Wayne Ferreira,Federer,2001,1,2
+2000-11-20,Stockholm,Hard,R16,29,55,7-5 7-6(3),158,6,5,90,55,35,3,84,0,0,0,Andreas Vinciguerra,Andreas Vinciguerra,2000,11,2
+2000-11-20,Stockholm,Hard,R32,29,110,5-7 6-4 6-3,195,10,2,96,61,35,0,111,0,0,1,Mikhail Youzhny,Federer,2000,11,3
+2000-11-13,Paris Masters,Carpet,R64,24,19,4-6 6-2 6-2,169,7,3,90,55,35,5,87,0,0,0,Dominik Hrbaty,Dominik Hrbaty,2000,11,3
+2000-11-06,Lyon,Carpet,R16,24,74,3-6 6-2 6-1,151,3,9,80,35,45,4,92,0,0,0,Karol Kucera,Karol Kucera,2000,11,3
+2000-11-06,Lyon,Carpet,R32,24,38,6-3 7-6(3),161,2,1,65,35,30,5,86,0,0,1,Nicolas Escude,Federer,2000,11,2
+2000-10-30,Stuttgart Masters,Hard,R32,25,5,7-5 6-3,140,7,5,79,46,33,3,73,0,0,0,Yevgeny Kafelnikov,Yevgeny Kafelnikov,2000,10,2
+2000-10-30,Stuttgart Masters,Hard,R64,25,27,7-6(3) 1-0 RET,85,6,3,53,34,19,6,47,1,0,1,Jan Michael Gambill,Federer,2000,10,3
+2000-10-23,Basel,Carpet,F,34,6,6-2 4-6 7-6(4) 1-6 6-1,288,15,5,137,77,60,10,176,0,0,0,Thomas Enqvist,Thomas Enqvist,2000,10,5
+2000-10-23,Basel,Carpet,SF,34,9,6-4 5-7 7-6(6),223,12,5,116,74,42,3,151,0,0,1,Lleyton Hewitt,Federer,2000,10,3
+2000-10-23,Basel,Carpet,QF,34,185,6-4 6-4,122,9,0,54,40,14,3,78,0,0,1,Nicolas Thomann,Federer,2000,10,2
+2000-10-23,Basel,Carpet,R16,34,27,7-6(4) 6-4,128,5,1,63,44,19,5,77,0,0,1,Andrei Pavel,Federer,2000,10,2
+2000-10-23,Basel,Carpet,R32,34,20,6-3 6-3,120,9,0,53,36,17,3,70,0,0,1,Tommy Haas,Federer,2000,10,2
+2000-10-09,Vienna,Hard,SF,31,10,2-6 7-6(4) 6-3,183,6,2,78,50,28,7,129,0,0,0,Tim Henman,Tim Henman,2000,10,3
+2000-10-09,Vienna,Hard,QF,31,20,6-4 6-3,120,6,3,70,40,30,12,74,0,0,1,Richard Krajicek,Federer,2000,10,2
+2000-10-09,Vienna,Hard,R16,31,43,6-3 6-3,126,5,1,67,40,27,6,76,0,0,1,Max Mirnyi,Federer,2000,10,2
+2000-10-09,Vienna,Hard,R32,31,4,4-6 7-6(4) 6-4,228,11,2,107,62,45,5,147,0,0,1,Magnus Norman,Federer,2000,10,3
+2000-09-18,Sydney Olympics,Hard,BR,36,62,7-6(5) 6-7(7) 6-3,,,,,,,,,0,0,0,Arnaud Di Pasquale,Arnaud Di Pasquale,2000,9,3
+2000-09-18,Sydney Olympics,Hard,SF,36,48,6-3 6-2,,,,,,,,,0,0,0,Tommy Haas,Tommy Haas,2000,9,2
+2000-09-18,Sydney Olympics,Hard,QF,36,34,7-6(2) 6-1,,,,,,,,,0,0,1,Karim Alami,Federer,2000,9,2
+2000-09-18,Sydney Olympics,Hard,R16,36,61,6-1 6-2,,,,,,,,,0,0,1,Mikael Tillstrom,Federer,2000,9,2
+2000-09-18,Sydney Olympics,Hard,R32,36,43,6-4 7-6(5),,,,,,,,,0,0,1,Karol Kucera,Federer,2000,9,2
+2000-09-18,Sydney Olympics,Hard,R64,36,60,6-2 6-2,,,,,,,,,0,0,1,David Prinosil,Federer,2000,9,2
+2000-08-28,US Open,Hard,R32,40,12,7-5 7-6(6) 1-6 7-6(6),286,14,7,135,75,60,4,173,0,0,0,Juan Carlos Ferrero,Juan Carlos Ferrero,2000,8,4
+2000-08-28,US Open,Hard,R64,40,307,6-1 7-6(5) 6-1,165,15,1,88,55,33,7,92,0,0,1,Daniel Nestor,Federer,2000,8,3
+2000-08-28,US Open,Hard,R128,40,89,4-6 4-6 6-3 7-5 3-4 RET,278,15,9,150,85,65,15,152,1,0,1,Peter Wessels,Federer,2000,8,6
+2000-08-14,Indianapolis,Hard,R64,40,191,6-4 7-5,135,2,5,72,38,34,2,82,0,0,0,James Sekulov,James Sekulov,2000,8,2
+2000-08-07,Cincinnati Masters,Hard,R64,39,43,7-6(3) 7-6(4),176,7,6,89,56,33,2,100,0,0,0,Francisco Clavet,Francisco Clavet,2000,8,2
+2000-07-31,Canada Masters,Hard,R64,38,10,3-6 6-3 6-2,184,15,2,101,52,49,8,119,0,0,0,Lleyton Hewitt,Lleyton Hewitt,2000,7,3
+2000-07-21,Davis Cup WG PO: SUI vs BLR,Carpet,RR,39,69,4-6 7-5 7-6(1) 5-7 6-2,,,,,,,,,0,0,1,Vladimir Voltchkov,Federer,2000,7,5
+2000-07-10,Gstaad,Clay,R32,39,10,6-4 4-6 6-4,212,8,5,116,63,53,8,137,0,0,0,Alex Corretja,Alex Corretja,2000,7,3
+2000-06-26,Wimbledon,Grass,R128,35,5,7-5 7-5 7-6(6),237,10,2,115,67,48,13,128,0,0,0,Yevgeny Kafelnikov,Yevgeny Kafelnikov,2000,6,3
+2000-06-19,Nottingham,Grass,R32,35,71,7-5 6-1,127,3,4,62,41,21,11,67,0,0,0,Richard Fromberg,Richard Fromberg,2000,6,2
+2000-06-12,Halle,Grass,QF,38,28,7-5 6-2,121,8,3,60,36,24,3,71,0,0,0,Michael Chang,Michael Chang,2000,6,2
+2000-06-12,Halle,Grass,R16,38,49,6-2 6-3,88,9,1,41,20,21,2,42,0,0,1,Magnus Larsson,Federer,2000,6,2
+2000-06-12,Halle,Grass,R32,38,57,6-4 6-2,115,3,4,56,37,19,2,69,0,0,1,Arnaud Clement,Federer,2000,6,2
+2000-05-29,Roland Garros,Clay,R16,54,10,7-5 7-6(7) 6-2,233,9,6,126,74,52,5,156,0,0,0,Alex Corretja,Alex Corretja,2000,5,3
+2000-05-29,Roland Garros,Clay,R32,54,120,7-6(5) 6-4 2-6 6-7(4) 8-6,391,14,7,179,101,78,6,265,0,0,1,Michel Kratochvil,Federer,2000,5,5
+2000-05-29,Roland Garros,Clay,R64,54,69,7-6(5) 6-3 6-3,222,8,3,124,80,44,6,132,0,0,1,Jan Michael Gambill,Federer,2000,5,3
+2000-05-29,Roland Garros,Clay,R128,54,106,7-6(4) 6-3 1-6 6-3,254,5,4,135,80,55,16,147,0,0,1,Wayne Arthurs,Federer,2000,5,4
+2000-05-22,St. Poelten,Clay,R32,54,94,6-2 6-1,100,2,2,64,36,28,0,54,0,0,0,Markus Hantschk,Markus Hantschk,2000,5,2
+2000-05-15,Hamburg Masters,Clay,R64,50,70,6-4 6-3,106,4,2,60,37,23,2,61,0,0,0,Andrei Pavel,Andrei Pavel,2000,5,2
+2000-05-08,Rome Masters,Clay,R64,51,25,3-6 6-3 7-5,198,5,4,88,47,41,8,118,0,0,0,Andrei Medvedev,Andrei Medvedev,2000,5,3
+2000-04-24,Barcelona,Clay,R64,51,249,6-1 6-1,96,1,2,49,32,17,0,53,0,0,0,Sergi Bruguera,Sergi Bruguera,2000,4,2
+2000-04-17,Monte Carlo Masters,Clay,R64,49,37,6-1 2-6 7-5,183,4,7,105,58,47,2,106,0,0,0,Jiri Novak,Jiri Novak,2000,4,3
+2000-03-20,Miami Masters,Hard,R64,53,25,6-4 7-6(7),139,5,3,76,45,31,3,87,0,0,0,Mariano Zabaleta,Mariano Zabaleta,2000,3,2
+2000-03-20,Miami Masters,Hard,R128,53,99,7-5 6-3,127,7,1,67,42,25,2,73,0,0,1,Justin Gimelstob,Federer,2000,3,2
+2000-02-28,Copenhagen,Hard,SF,58,48,6-3 7-6(6),149,2,6,78,45,33,1,82,0,0,0,Magnus Larsson,Magnus Larsson,2000,2,2
+2000-02-28,Copenhagen,Hard,QF,58,83,4-6 6-1 6-3,175,3,5,91,42,49,1,105,0,0,1,Gianluca Pozzi,Federer,2000,2,3
+2000-02-28,Copenhagen,Hard,R16,58,121,6-4 6-4,119,6,4,54,27,27,4,71,0,0,1,Fredrik Jonsson,Federer,2000,2,2
+2000-02-28,Copenhagen,Hard,R32,58,234,6-4 4-6 6-3,182,6,10,86,45,41,5,98,0,0,1,Filip Dewulf,Federer,2000,2,3
+2000-02-21,London,Hard,QF,66,72,3-6 6-4 6-4,191,4,3,113,63,50,6,112,0,0,0,Marc Rosset,Marc Rosset,2000,2,3
+2000-02-21,London,Hard,R16,66,61,7-5 6-3,123,6,1,63,44,19,11,65,0,0,1,Goran Ivanisevic,Federer,2000,2,2
+2000-02-21,London,Hard,R32,66,4,6-2 6-3,105,6,1,56,33,23,2,62,0,0,1,Nicolas Kiefer,Federer,2000,2,2
+2000-02-07,Marseille,Hard,F,67,77,2-6 6-3 7-6(5),180,5,2,87,46,41,10,118,0,0,0,Marc Rosset,Marc Rosset,2000,2,3
+2000-02-07,Marseille,Hard,SF,67,38,7-6(4) 7-5,147,3,2,75,49,26,1,94,0,0,1,Fabrice Santoro,Federer,2000,2,2
+2000-02-07,Marseille,Hard,QF,67,69,6-2 3-6 7-6(5),192,11,2,88,55,33,7,127,0,0,1,Ivan Ljubicic,Federer,2000,2,3
+2000-02-07,Marseille,Hard,R16,67,41,6-3 6-2,107,3,3,55,36,19,4,63,0,0,1,Thomas Johansson,Federer,2000,2,2
+2000-02-07,Marseille,Hard,R32,67,93,6-4 6-4,122,4,3,59,34,25,2,72,0,0,1,Antony Dupuis,Federer,2000,2,2
+2000-02-04,Davis Cup WG R1: SUI vs AUS,Carpet,RR,61,17,6-4 7-6(3) 4-6 6-4,,,,,,,,,0,0,1,Mark Philippoussis,Federer,2000,2,4
+2000-02-04,Davis Cup WG R1: SUI vs AUS,Carpet,RR,61,15,6-2 3-6 7-6(2) 6-1,,,,,,,,,0,0,0,Lleyton Hewitt,Lleyton Hewitt,2000,2,4
+2000-01-17,Australian Open,Hard,R32,62,54,6-1 6-4 6-3,172,7,6,88,49,39,2,101,0,0,0,Arnaud Clement,Arnaud Clement,2000,1,3
+2000-01-17,Australian Open,Hard,R64,62,104,7-6(1) 6-2 6-3,211,9,4,106,64,42,6,106,0,0,1,Jan Kroslak,Federer,2000,1,3
+2000-01-17,Australian Open,Hard,R128,62,38,6-4 6-4 7-6(5),221,14,7,101,55,46,6,125,0,0,1,Michael Chang,Federer,2000,1,3
+2000-01-10,Auckland,Hard,R32,61,45,6-4 6-4,123,11,2,70,43,27,5,68,0,0,0,Juan Carlos Ferrero,Juan Carlos Ferrero,2000,1,2
+2000-01-03,Adelaide,Hard,R16,64,4,7-6(5) 6-4,154,7,2,83,42,41,3,84,0,0,0,Thomas Enqvist,Thomas Enqvist,2000,1,2
+2000-01-03,Adelaide,Hard,R32,64,91,6-1 6-4,88,6,3,46,28,18,3,45,0,0,1,Jens Knippschild,Federer,2000,1,2
+1999-10-18,Lyon,Carpet,R32,67,27,7-6(4) 2-6 6-4,206,5,4,109,54,55,3,131,0,0,0,Lleyton Hewitt,Lleyton Hewitt,1999,10,3
+1999-10-18,Lyon,Carpet,R64,67,53,6-3 6-4,126,2,1,57,33,24,3,70,0,0,1,Daniel Vacek,Federer,1999,10,2
+1999-10-11,Vienna,Hard,SF,93,7,6-3 6-4,111,4,3,63,41,22,7,62,0,0,0,Greg Rusedski,Greg Rusedski,1999,10,2
+1999-10-11,Vienna,Hard,QF,93,15,2-6 6-4 6-1,156,6,4,77,45,32,6,89,0,0,1,Karol Kucera,Federer,1999,10,3
+1999-10-11,Vienna,Hard,R16,93,34,7-6(8) 6-1,131,6,3,60,35,25,0,71,0,0,1,Jiri Novak,Federer,1999,10,2
+1999-10-11,Vienna,Hard,R32,93,21,6-4 6-2,102,4,1,51,28,23,3,59,0,0,1,Vincent Spadea,Federer,1999,10,2
+1999-10-04,Basel,Carpet,QF,106,6,6-3 7-5,144,2,3,79,54,25,8,84,0,0,0,Tim Henman,Tim Henman,1999,10,2
+1999-10-04,Basel,Carpet,R16,106,134,6-2 7-5,,,,,,,,,0,0,1,Alexander Popp,Federer,1999,10,2
+1999-10-04,Basel,Carpet,R32,106,105,6-2 3-6 6-4,146,4,1,79,45,34,3,96,0,0,1,Martin Damm Sr,Federer,1999,10,3
+1999-09-27,Toulouse,Hard,R16,96,39,6-3 7-6(3),140,6,3,82,49,33,2,80,0,0,0,Fabrice Santoro,Fabrice Santoro,1999,9,2
+1999-09-27,Toulouse,Hard,R32,96,46,7-6(4) 6-1,141,7,2,65,44,21,0,74,0,0,1,Rainer Schuettler,Federer,1999,9,2
+1999-09-13,Tashkent,Hard,R16,104,92,4-6 7-6(1) 6-4,194,4,4,96,52,44,11,100,0,0,0,Peter Wessels,Peter Wessels,1999,9,3
+1999-09-13,Tashkent,Hard,R32,104,16,6-4 6-3,110,9,2,47,28,19,3,53,0,0,1,Cedric Pioline,Federer,1999,9,2
+1999-08-16,Washington,Hard,R64,104,407,6-2 6-3,131,1,4,76,42,34,4,68,0,0,0,Bjorn Phau,Bjorn Phau,1999,8,2
+1999-07-16,Davis Cup WG QF: BEL vs SUI,Clay,RR,109,146,7-6(4) 3-6 1-6 7-5 6-1,,,,,,,,,0,0,0,Christophe Van Garsse,Christophe Van Garsse,1999,7,5
+1999-07-16,Davis Cup WG QF: BEL vs SUI,Clay,RR,109,111,4-6 6-3 7-5 7-6(5),,,,,,,,,0,0,0,Xavier Malisse,Xavier Malisse,1999,7,4
+1999-07-05,Gstaad,Clay,R32,107,33,6-2 6-3,106,0,4,60,33,27,3,57,0,0,0,Younes El Aynaoui,Younes El Aynaoui,1999,7,2
+1999-06-21,Wimbledon,Grass,R128,103,59,6-3 3-6 4-6 6-3 6-4,331,8,6,160,108,52,1,138,0,0,0,Jiri Novak,Jiri Novak,1999,6,5
+1999-06-07,Queen's Club,Grass,R64,104,37,6-3 6-0,105,0,4,55,33,22,2,52,0,0,0,Byron Black,Byron Black,1999,6,2
+1999-05-24,Roland Garros,Clay,R128,111,3,5-7 6-3 6-0 6-2,225,3,3,108,60,48,6,133,0,0,0,Patrick Rafter,Patrick Rafter,1999,5,4
+1999-04-19,Monte Carlo Masters,Clay,R64,128,33,7-6(3) 6-0,116,0,2,62,33,29,1,65,0,0,0,Vincent Spadea,Vincent Spadea,1999,4,2
+1999-04-02,Davis Cup WG R1: SUI vs ITA,Carpet,RR,123,48,6-4 6-7(3) 6-3 6-4,,,,,,,,,0,0,1,Davide Sanguinetti,Federer,1999,4,4
+1999-04-02,Davis Cup WG R1: SUI vs ITA,Carpet,RR,123,69,6-4 7-6(4),,,,,,,,,0,0,0,Gianluca Pozzi,Gianluca Pozzi,1999,4,2
+1999-03-15,Miami Masters,Hard,R128,125,106,7-5 7-6(4),180,6,6,104,54,50,6,102,0,0,0,Kenneth Carlsen,Kenneth Carlsen,1999,3,2
+1999-02-15,Rotterdam,Carpet,QF,178,2,6-1 5-7 6-4,186,6,6,93,39,54,6,109,0,0,0,Yevgeny Kafelnikov,Yevgeny Kafelnikov,1999,2,3
+1999-02-15,Rotterdam,Carpet,R16,178,30,6-4 7-5,125,10,3,55,37,18,5,65,0,0,1,Bohdan Ulihrach,Federer,1999,2,2
+1999-02-15,Rotterdam,Carpet,R32,178,71,6-7(4) 7-5 7-6(3),251,14,2,111,71,40,10,149,0,0,1,Guillaume Raoux,Federer,1999,2,3
+1999-02-01,Marseille,Hard,QF,243,103,6-3 6-3,110,3,6,65,37,28,1,70,0,0,0,Arnaud Clement,Arnaud Clement,1999,2,2
+1999-02-01,Marseille,Hard,R16,243,63,6-7(6) 7-6(5) 7-6(5),236,12,5,115,73,42,14,140,0,0,1,Jerome Golmard,Federer,1999,2,3
+1999-02-01,Marseille,Hard,R32,243,5,7-6(1) 3-6 6-3,215,3,10,110,46,64,9,113,0,0,1,Carlos Moya,Federer,1999,2,3
+1998-10-17,Switzerland 2 Masters 1,Carpet,F,395,558,2-6 6-3 6-3,,,,,,,,,0,0,0,Jan Ralph Brandt,Jan Ralph Brandt,1998,10,3
+1998-10-17,Switzerland 2 Masters 2,Carpet,F,395,724,6-2 7-6,,,,,,,,,0,0,1,Yves Allegro,Federer,1998,10,2
+1998-10-17,Switzerland 2 Masters 4,Carpet,F,395,777,6-2 7-6,,,,,,,,,0,0,1,Martin Spottl,Federer,1998,10,2
+1998-10-17,Switzerland 2 Masters 1,Carpet,SF,395,724,7-5 6-2,,,,,,,,,0,0,1,Yves Allegro,Federer,1998,10,2
+1998-10-17,Switzerland 2 Masters 2,Carpet,SF,395,,6-3 6-3,,,,,,,,,0,0,1,Jun Kato,Federer,1998,10,2
+1998-10-17,Switzerland 2 Masters 4,Carpet,SF,395,388,6-4 4-6 6-4,,,,,,,,,0,0,1,Frederic Niemeyer,Federer,1998,10,3
+1998-10-17,Switzerland 2 Masters 1,Carpet,QF,395,518,6-1 6-3,,,,,,,,,0,0,1,Uros Vico,Federer,1998,10,2
+1998-10-17,Switzerland 2 Masters 2,Carpet,QF,395,518,6-3 6-3,,,,,,,,,0,0,1,Uros Vico,Federer,1998,10,2
+1998-10-17,Switzerland 2 Masters 4,Carpet,QF,395,604,6-1 6-7 6-3,,,,,,,,,0,0,1,Daniele Ceraudo,Federer,1998,10,3
+1998-10-17,Switzerland 2 Masters 1,Carpet,R16,395,604,6-2 6-2,,,,,,,,,0,0,1,Daniele Ceraudo,Federer,1998,10,2
+1998-10-17,Switzerland 2 Masters 2,Carpet,R16,395,768,6-4 7-5,,,,,,,,,0,0,1,Armando Brunold,Federer,1998,10,2
+1998-10-17,Switzerland 2 Masters 4,Carpet,R16,395,879,6-4 6-4,,,,,,,,,0,0,1,Luben Pampoulov,Federer,1998,10,2
+1998-10-17,Switzerland 2 Masters 1,Carpet,R32,395,839,6-3 6-4,,,,,,,,,0,0,1,Bernard Parun,Federer,1998,10,2
+1998-10-17,Switzerland 2 Masters 3,Carpet,R32,395,768,7-6 6-2,,,,,,,,,0,0,0,Armando Brunold,Armando Brunold,1998,10,2
+1998-10-17,Switzerland 2 Masters 4,Carpet,R32,395,855,6-4 6-0,,,,,,,,,0,0,1,Petr Spousta,Federer,1998,10,2
+1998-10-05,Basel,Hard,R32,396,8,6-3 6-2,103,4,2,53,31,22,4,60,0,0,0,Andre Agassi,Andre Agassi,1998,10,2
+1998-09-28,Toulouse,Hard,QF,878,20,7-6(5) 6-2,130,3,6,67,39,28,5,79,0,0,0,Jan Siemerink,Jan Siemerink,1998,9,2
+1998-09-28,Toulouse,Hard,R16,878,43,6-1 7-6(5),148,8,3,73,43,30,9,85,0,0,1,Richard Fromberg,Federer,1998,9,2
+1998-09-28,Toulouse,Hard,R32,878,45,6-2 6-2,106,8,0,41,22,19,0,60,0,0,1,Guillaume Raoux,Federer,1998,9,2
+1998-08-24,Geneva CH,Clay,R32,680,124,6-4 7-6,,,,,,,,,0,0,0,Orlin Stanoytchev,Orlin Stanoytchev,1998,8,2
+1998-07-06,Gstaad,Clay,R32,702,88,6-4 6-4,136,1,3,74,36,38,1,80,0,0,0,Lucas Arnold Ker,Lucas Arnold Ker,1998,7,2
+1997-10-18,Switzerland 2 Masters 3,Carpet,QF,800,269,6-4 6-4,,,,,,,,,0,0,0,Alexandre Strambini,Alexandre Strambini,1997,10,2
+1997-10-18,Switzerland 2 Masters 3,Carpet,R16,800,,6-4 5-7 6-3,,,,,,,,,0,0,1,Simon Schwarzkopf,Federer,1997,10,3
+1997-10-18,Switzerland 2 Masters 4,Carpet,R16,800,269,3-6 6-3 6-4,,,,,,,,,0,0,0,Alexandre Strambini,Alexandre Strambini,1997,10,3
+1997-10-18,Switzerland 2 Masters 1,Carpet,R32,800,,6-4 7-5,,,,,,,,,0,0,0,Helge Koll Frafjord,Helge Koll Frafjord,1997,10,2
+1997-10-18,Switzerland 2 Masters 2,Carpet,R32,800,648,6-4 6-2,,,,,,,,,0,0,0,Ivan Vajda,Ivan Vajda,1997,10,2
+1997-10-18,Switzerland 2 Masters 3,Carpet,R32,800,410,7-6 6-4,,,,,,,,,0,0,1,Jonathan Printzlau,Federer,1997,10,2
+1997-10-18,Switzerland 2 Masters 4,Carpet,R32,800,1204,1-6 6-1 6-4,,,,,,,,,0,0,1,Armando Brunold,Federer,1997,10,3
+1997-08-23,Switzerland 1 Masters 1,Clay,SF,,228,4-6 6-2 6-1,,,,,,,,,0,0,0,Agustin Garizzio,Agustin Garizzio,1997,8,3
+1997-08-23,Switzerland 1 Masters 4,Clay,SF,,430,6-3 6-2,,,,,,,,,0,0,0,Daniele Balducci,Daniele Balducci,1997,8,2
+1997-08-23,Switzerland 1 Masters 1,Clay,QF,,786,1-6 6-3 6-4,,,,,,,,,0,0,1,Manuel Jorquera,Federer,1997,8,3
+1997-08-23,Switzerland 1 Masters 3,Clay,QF,,1118,7-6 4-6 6-3,,,,,,,,,0,0,0,Yves Allegro,Yves Allegro,1997,8,3
+1997-08-23,Switzerland 1 Masters 4,Clay,QF,,901,6-3 7-5,,,,,,,,,0,0,1,Christian Dillschneider,Federer,1997,8,2
+1997-08-23,Switzerland 1 Masters 1,Clay,R16,,,7-6 7-5,,,,,,,,,0,0,1,Felix Hardt,Federer,1997,8,2
+1997-08-23,Switzerland 1 Masters 2,Clay,R16,,228,4-6 6-0 6-4,,,,,,,,,0,0,0,Agustin Garizzio,Agustin Garizzio,1997,8,3
+1997-08-23,Switzerland 1 Masters 3,Clay,R16,,786,6-2 6-1,,,,,,,,,0,0,1,Manuel Jorquera,Federer,1997,8,2
+1997-08-23,Switzerland 1 Masters 4,Clay,R16,,,6-3 0-6 6-4,,,,,,,,,0,0,1,Joel Spicher,Federer,1997,8,3
+1997-08-23,Switzerland 1 Masters 1,Clay,R32,,529,7-5 7-5,,,,,,,,,0,0,1,Igor Tchelychev,Federer,1997,8,2
+1997-08-23,Switzerland 1 Masters 2,Clay,R32,,,6-2 7-5,,,,,,,,,0,0,1,Denis Golovanov,Federer,1997,8,2
+1997-08-23,Switzerland 1 Masters 4,Clay,R32,,1216,6-0 6-4,,,,,,,,,0,0,1,Armando Brunold,Federer,1997,8,2
+1996-10-19,Switzerland 2 Masters 4,Carpet,R32,,,3-6 6-4 6-1,,,,,,,,,0,0,0,Markus Wislsperger,Markus Wislsperger,1996,10,3

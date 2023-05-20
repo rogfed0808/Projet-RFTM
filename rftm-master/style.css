@@ -1,0 +1,214 @@
+/*
+. pour class
+# pour id
+rien pour tout un ensemble de balises
+*/
+html {
+	scroll-behavior: smooth;
+}
+
+body
+{
+	background-image: url("Images/Fond/australianOpen.png");
+	background-attachment: fixed;
+	background-size: cover;
+}
+a
+{
+	color: white;
+}
+a:hover
+{
+	font-weight: bold;
+	color: white;
+	text-decoration: none;
+}
+
+.logoSponsors:hover
+{
+	border: 2px solid; //transparent
+}
+
+
+/*
+p
+{
+	color: white;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: Helvetica, system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;
+	text-align: justify;
+
+	width:  100%;
+	min-width:  400px;
+
+	padding:  12px;
+	margin:  auto;
+}
+p:hover
+{
+	color: red;
+}
+h1
+{
+	color:  white;
+	font-style: bold;
+	text-align:  center;
+	border:  2px red solid;
+	border-radius: 3px;
+	box-shadow:  8px 8px 8px black;
+	text-shadow: 1px 1px 1px black;
+}
+h2
+{
+	color:  white;
+	font-style: bold;
+}
+.liste2
+{
+	color: darkorange;
+	text-decoration: underline;
+	text-decoration: overline;
+	text-decoration: line-through;
+}
+a:link
+{
+	text-decoration:none; 
+}
+a:hover
+{
+	color:  red;
+}
+*/
+
+/*------------------- En-tête ------------------*/
+#logoRFTM:hover
+{
+	filter: brightness(80%)
+	/*content: url('Images/RFTM_Christmas2.png');*/
+}
+
+.email
+{
+	position: absolute;
+	top: 464px;
+	left: 813px;
+    color: white;
+    font-family: system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+
+}
+.logoInsta
+{
+	position: absolute;
+	left: 825px;
+	top:  390px;
+	width: 6%;
+}
+.logoRF
+{
+	position: absolute;
+	left: 930px;
+	top:  395px;
+	width: 5%;
+}
+.logoRFF
+{
+	position: absolute;
+	left: 1030px;
+	top:  395px;
+	width: 5%;
+}
+.maison
+{
+	position: absolute;
+	left: 140px;
+	top:  514px;
+	width: 2%;
+}
+.Rubrique
+{
+	color: white;
+	font-size: 25px;
+	float: left;
+	font-style: bold;
+	font-family: system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+}
+.flex
+{
+    display: flex
+}
+.flex1 {
+    margin-left: 170px;
+    margin-right: 80px;
+}
+.flex2 {
+    margin-left: 0px;
+    margin-right: 70px;
+}
+.flex3 {
+    margin-left: 0px;
+    margin-right: 70px;
+}
+.flex4 {
+    margin-left: 0px;
+    margin-right: 70px;
+}
+.flex5 {
+    margin-left: 0px;
+    margin-right: 70px;
+}
+.flex6 {
+    margin-left: 0px;
+    margin-right: 70px;
+}
+/*------------------- Fin de l'en-tête ---------------*/
+
+
+/*------------------- Home -------------------*/
+.bodyHome
+{
+	height: 700px;
+}
+.bienvenue
+{
+	font-family: system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+	font-size: 40px;
+	float: left;
+	margin-left: 150px;
+	top: 570px;
+	position: absolute;
+}
+.texteBienvenue
+{
+	font-size: 20px;
+	text-align: justify;
+	max-width: 250px;
+	float: left;
+	margin-left: 150px;
+	top: 630px;
+	position: absolute;
+}
+.imageRF
+{
+	top: 610px;
+	left: 620px;
+	position: absolute;
+}
+.imageGif
+{
+	margin-top: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+/*------------------- Footer -------------------*/
+.pasdepage {
+	background-color: rgb(0, 96, 57);
+	text-align: center;
+}
+
+#screen:hover
+{
+	filter: brightness(80%)
+}
